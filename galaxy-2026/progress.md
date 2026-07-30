@@ -22,7 +22,7 @@ The current allocation period has not ended, so we evaluate compute usage as ave
 | **Total ACCESS** | **772,971** | **844,155** | **836,693** |
 | **Total, all sources** | 904,534 | 1,011,937 | 963,487 |
 
-Over the nine recorded months of the current period the gateway consumed **7,530,233 ACCESS core-hours**; the completed prior year totaled 10,129,862.
+Over the nine recorded months of the current period the gateway consumed **7,530,233 ACCESS core-hours**. The completed prior year totaled 10,129,862.
 
 Galaxy Dedicated and Jetstream2 figures come from Galaxy's internal accounting and undercount relative to the other resources, which use the more accurate Slurm accounting database.
 
@@ -62,7 +62,7 @@ New user registration is accelerating: 54,455 researchers registered in nine mon
 
 ## **4. Scientific output enabled by the gateway**
 
-The service we provide is well established and widely used; as a result it is often taken for granted and not cited properly. The full — still incomplete — list of publications resulting from community use of Galaxy is maintained at <https://www.zotero.org/groups/1732893/galaxy/items/L5WWHAIU/library>.
+The service we provide is well established and widely used, and as a result it is often taken for granted and not cited properly. The full — still incomplete — list of publications resulting from community use of Galaxy is maintained at <https://www.zotero.org/groups/1732893/galaxy/items/L5WWHAIU/library>.
 
 [TODO: publication counts for 2025 and 2026 to date. Prior: 183 (2024), 322 (2025). Do not paste the list here — that is what broke the page limit last time.]
 

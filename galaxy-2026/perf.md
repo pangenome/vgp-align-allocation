@@ -6,7 +6,7 @@
 
 # **1. Performance and scaling**
 
-The Galaxy gateway enables users to run a wide variety of software tools with highly varied compute needs and scaling capabilities. The vast majority of these tools are either single core or single node, and scalability at the level of individual tools is not a major problem. Throughput is achieved by serving many users simultaneously. Scheduling across resources is thus the primary area for potential improvements in efficiency, and we have made substantial progress in this area (see Progress Report). However, for certain classes of jobs, specialized hardware is required; below we describe our evaluation of these resources.
+The Galaxy gateway enables users to run a wide variety of software tools with highly varied compute needs and scaling capabilities. The vast majority of these tools are either single core or single node, and scalability at the level of individual tools is not a major problem. Throughput is achieved by serving many users simultaneously. Scheduling across resources is thus the primary area for potential improvements in efficiency, and we have made substantial progress in this area (see Progress Report). However, for certain classes of jobs, specialized hardware is required. Below we describe our evaluation of these resources.
 
 ## **1.1. Jetstream2**
 

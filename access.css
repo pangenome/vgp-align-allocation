@@ -1,0 +1,92 @@
+/* ACCESS-CI allocation request styling.
+   Adapted from the NSF-26-509 nsf.css (PAPPG-compliant): 1in margins,
+   10pt Arial/Helvetica body, <=6 lines/in. ACCESS does not publish typographic
+   requirements as strict as PAPPG, but the page limits are hard, so the same
+   conservative settings apply. */
+@page {
+  size: letter;
+  margin: 1in;
+}
+body {
+  font-family: "Arial", "Helvetica Neue", "Helvetica", sans-serif;
+  font-size: 10pt;
+  line-height: 1.18;         /* <= 6 lines/inch at 10pt */
+  color: #111;
+  text-align: justify;
+}
+p { margin: 0 0 1.5pt 0; }
+
+h1, h2, h3, h4 { font-family: "Arial", "Helvetica Neue", "Helvetica", sans-serif; font-weight: bold; line-height: 1.15; page-break-after: avoid; text-align: left; }
+h1 { font-size: 11.5pt; margin: 5pt 0 2pt 0; border-bottom: 0.75pt solid #333; padding-bottom: 1pt; color: #000; }
+h2 { font-size: 10.5pt; margin: 4pt 0 2pt 0; color: #111; }
+h3 { font-size: 10pt; margin: 3pt 0 1pt 0; color: #222; }
+
+ul, ol { margin: 0 0 2.5pt 0; padding-left: 14pt; }
+li { margin: 0 0 0.5pt 0; }
+
+strong { font-weight: bold; }
+em { font-style: italic; }
+code { font-family: "Courier New", monospace; font-size: 8pt; }
+
+/* Tables: 7.5pt, compact padding, booktabs rules only */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 7.5pt;
+  line-height: 1.1;
+  margin: 3pt 0 4pt 0;
+  page-break-inside: auto;
+}
+th, td { border: none; padding: 1.1pt 3pt; vertical-align: top; text-align: left; }
+th { background: none; font-weight: bold;
+     border-top: 0.9pt solid #000; border-bottom: 0.5pt solid #000; }
+tbody tr:last-child td { border-bottom: 0.9pt solid #000; }
+tr { page-break-inside: avoid; }
+table code { font-size: 7pt; }
+
+/* Table & figure captions */
+.table-caption, p.table-caption, div.table-caption, figcaption {
+  font-size: 7.5pt;
+  line-height: 1.15;
+  color: #333333;
+  margin: 3pt 0 1.5pt 0;
+  text-align: left;
+}
+
+/* Figures — inline vector SVG, fill column width */
+figure { margin: 3pt 0; text-align: center; page-break-inside: avoid; }
+figure img, figure svg { width: 95%; max-width: 95%; height: auto; max-height: 7in; display: block; margin: 0 auto; }
+
+/* Callout boxes */
+div.important, div.note, div.tip, blockquote {
+  margin: 3pt 0;
+  padding: 3pt 6pt;
+  font-size: 9pt;
+  line-height: 1.18;
+  border-left: 3.5pt solid #0366d6;
+  background: #f1f8ff;
+  page-break-inside: avoid;
+}
+div.important { border-left-color: #d73a49; background: #fdf2f2; }
+div.note { border-left-color: #0366d6; background: #f1f8ff; }
+div.tip { border-left-color: #28a745; background: #f0fff4; }
+div.important .title, div.note .title, div.tip .title { display: none; }
+
+/* DRAFT MARKERS — TODO paragraphs and review notes.
+   Visible and loud in a draft build, stripped entirely by `build.sh --final`.
+   They must never reach a submitted PDF. */
+.todo {
+  font-size: 8pt; line-height: 1.15; color: #7a2012;
+  background: #fff4e5; border-left: 3pt solid #e36209;
+  padding: 3pt 6pt; margin: 3pt 0; text-align: left;
+  page-break-inside: avoid;
+}
+.todo::before {
+  content: "DRAFT NOTE — remove before submission";
+  display: block; font-weight: bold; font-size: 6.5pt;
+  letter-spacing: 0.4pt; text-transform: uppercase;
+  color: #e36209; margin-bottom: 1.5pt;
+}
+
+/* References: tighter list */
+h2#references + ol, h1 + ol { margin-top: 2pt; }

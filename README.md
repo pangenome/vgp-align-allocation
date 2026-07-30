@@ -28,6 +28,62 @@ Plan, Efficient Use of Resources.
 
 Submit at <https://allocations.access-ci.org/>.
 
+## Typesetting
+
+Same mechanism as `~/git/writing/grants/NSF-26-509`: **Markdown → HTML (pandoc)
+→ PDF (headless Chrome)**. No LaTeX. Sources stay plain Markdown so they
+diff cleanly in git, and all layout lives in one stylesheet.
+
+```
+./build.sh                    # build all docs, draft notes visible
+./build.sh --final            # strip draft notes — the submission build
+./build.sh main progress      # build only named docs
+```
+
+PDFs and intermediate HTML land in `build/` (git-ignored).
+
+**Pipeline.** `pandoc --from gfm-tex_math_dollars --to html5 --standalone -c
+../access.css`, then a Python pass over the HTML, then Chrome
+`--headless=new --print-to-pdf`. The `-tex_math_dollars` flag is mandatory:
+without it pandoc reads `$` amounts as math and mangles them.
+
+**Styling** is [`access.css`](access.css), adapted from `nsf.css`: US Letter,
+1 in margins, 10 pt Arial at 1.18 line height (≤ 6 lines/inch), justified body,
+booktabs tables at 7.5 pt with no vertical rules. ACCESS does not publish
+typographic requirements as strict as NSF PAPPG, but the page limits are hard,
+so the conservative NSF settings carry over.
+
+**Draft notes.** Any paragraph opening with `[TODO` and any blockquote
+containing `REVIEW NOTE` renders as an orange **DRAFT NOTE** box in a normal
+build, and is deleted outright by `--final`. This keeps open questions visible
+in the review PDF while guaranteeing they cannot reach a submitted one. Check
+before sending:
+
+```
+./build.sh --final && strings build/*.pdf | grep -c 'DRAFT NOTE'   # must be 0
+```
+
+**Page limits are enforced by the build.** Each document's limit is declared in
+`build.sh`; exceeding it prints `** OVER the N-page limit **` and exits
+nonzero, so it fails loudly rather than at submission time.
+
+**Figures** are inlined as vector SVG. Drop `.svg` files in `assets/` and
+reference them as `![](../assets/name.svg)` — the build splices the SVG source
+into the HTML so the PDF carries true vector art at any zoom.
+
+Requires `pandoc` and Google Chrome at the standard macOS path.
+
+## Writing style
+
+Prose follows the house style in
+[`~/git/writing/grants/SKILL.md`](file:///Users/anton/git/writing/grants/SKILL.md)
+and its parent `~/git/writing/SKILL.md`. Load those before editing. The rules
+that bite most often here: **no semicolons in body prose** (period, em-dash, or
+comma instead — reference entries and table cells are exempt), em-dashes are
+authentic and should be kept, first-person plural throughout, claims stated flat
+with concrete numbers, and the banned-word list in §3 (`leverage`, `barrier`,
+`foster`, `substrate`, mechanical `Moreover`/`Furthermore`, and the rest).
+
 ## Layout
 
 ```

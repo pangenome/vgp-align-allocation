@@ -3,3 +3,4 @@
 *.pdf.tmp
 ~$*
 data/*.xlsx
+build/
