@@ -62,7 +62,15 @@ window as *"June 15 to July 15"*, but the 2025 cycle actually ran to **July 31**
 
 ### 2026 cycle
 
-**Close date: July 31, 2026. Awards start October 1, 2026.** Confirmed by the PI.
+**Window: June 15 – July 31, 2026. Awards start October 1, 2026.**
+Confirmed by the PI and, subsequently, by primary source:
+<https://allocations.access-ci.org/prepare-requests> states *"requests for
+Maximize ACCESS allocations can be submitted during the period of June 15, 2026
+to July 31, 2026, with awards starting October 1, 2026… October 1, 2026 -
+Start/renewal date."*
+
+**Next window after this one: December 15, 2026 – January 31, 2027, awards
+April 1, 2027.** Same source. Useful as a fallback if this cycle is missed.
 
 Worth recording how thin the public trail was, in case a future cycle needs
 checking: no primary ACCESS page confirmed the 2026 window. The announcements
