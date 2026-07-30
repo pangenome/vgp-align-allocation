@@ -36,7 +36,7 @@ As Galaxy has thousands of active users per month, and the types of analysis we 
 
 We have primarily scheduled long-running single-node alignment jobs on Stampede3. These include Bowtie and BWA (tools for mapping sequence reads back to a reference sequence), HISAT2 (a tool for mapping reads derived from RNA back to a genome), and aligners such as the various tools from the BLAST suite. However, because Stampede3 allocates whole nodes while other resources allow shared-node allocations, we reserve Stampede3 for jobs requiring the highest core and memory counts. Relatively few such tools are popular in Galaxy, which is why our request on this resource has remained modest.
 
-[TODO: Stampede3 usage has declined for three consecutive years (335,309 h in 2022 → 71,553 h in 2023 → 56,085 h in 2024) against a flat 500K SU request. Either justify the request with the 2025/26 all-to-all alignment production run, or reduce it. Reviewers score on "Efficient Use of Resources" and this is the most exposed line in the request.]
+[TODO: Stampede3 usage has fallen for three consecutive years — 133,650 core-hours/month in 2023/24, 42,064 in 2024/25, and **700** through June 2026. The request is reduced to 250K node-hours in response. Explain the decline here in performance terms: whole-node allocation is a poor match for a tool catalog dominated by single-core and single-node jobs, and shared-node resources absorb that work at higher efficiency. If no specific whole-node workload is planned for 2026/27, consider dropping the line rather than defending it.]
 
 ## **1.4. GPU-accelerated pairwise alignment (KegAlign)**
 

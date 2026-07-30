@@ -51,7 +51,7 @@ are on **DeltaAI**, a separate resource. If GH200 is what we actually want, the
 Resources charge in different units and the conversions are not uniform:
 
 - Stampede3 is charged in **node-hours**, not core-hours. Our usage tracking is
-  in core-hours. Comparing 56,085 core-hours/month against a 500,000 node-hour
+  in core-hours. Comparing 700 core-hours/month against a 250,000 node-hour
   request without dividing by cores-per-node overstates utilization by roughly
   two orders of magnitude.
 - GPU resources charge GPU-hours, often with a multiplier against the CPU SU.

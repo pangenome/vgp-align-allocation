@@ -56,6 +56,12 @@ to jump.
 
 ## Utilization vs. request — the weak spot
 
+> **Superseded.** The table below reproduces what the *2025 Progress Report*
+> printed, and is kept as a record of what was submitted. It was computed from
+> partial allocation years and disagrees with the completed figures.
+> **For current numbers use [usage-data.md](usage-data.md)**, refreshed
+> 2026-07-30 from data running through June 2026.
+
 From the 2025 Progress Report, compute hours by resource:
 
 | Resource | 2021 | 2022 | 2023 | 2024 |

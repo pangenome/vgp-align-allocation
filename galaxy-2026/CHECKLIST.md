@@ -12,6 +12,16 @@ export, so re-export them from Drive. After that, the Progress Report's resource
 table is the highest-value remaining item, because it is what reviewers check
 against prior years.
 
+## Resolved 2026-07-30
+
+- [x] **Usage data** — the workbook was refreshed 2026-07-29 and now runs through
+      June 2026. Compute and user/job tables in the Progress Report are filled
+      with real numbers. No XDMoD pull needed.
+- [x] **Request table** — confirmed by PI; Main §1 and §4.1 agree line by line.
+- [x] The May/June 2025 "exactly zero" question is moot: those were partial-year
+      artifacts, and the completed series shows the real pattern (consolidation
+      onto Jetstream2).
+
 ## Blocking — cannot submit accurately without these
 
 - [ ] **Pull 2025/26 compute usage from XDMoD** (<https://xdmod.access-ci.org>).
