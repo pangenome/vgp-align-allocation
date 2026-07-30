@@ -28,8 +28,24 @@ fi
 typeset -A LIMIT
 LIMIT=(main 10 progress 3 perf 5 abstract 0 references 0 special-requirements 1)
 
-CHROME="/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
-[[ -x "$CHROME" ]] || { echo "Chrome not found at $CHROME" >&2; exit 1; }
+# Honor CHROME when explicitly set; otherwise find a standard macOS/Linux install.
+if [[ -z "${CHROME:-}" ]]; then
+  for candidate in \
+    "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" \
+    "${commands[google-chrome-stable]:-}" \
+    "${commands[google-chrome]:-}" \
+    "${commands[chromium]:-}" \
+    "${commands[chromium-browser]:-}"; do
+    if [[ -n "$candidate" && -x "$candidate" ]]; then
+      CHROME="$candidate"
+      break
+    fi
+  done
+fi
+[[ -n "${CHROME:-}" && -x "$CHROME" ]] || {
+  echo "Chrome/Chromium not found; install it or set CHROME=/path/to/browser" >&2
+  exit 1
+}
 
 mkdir -p build
 STATUS=0
