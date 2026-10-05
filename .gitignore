@@ -4,3 +4,5 @@
 ~$*
 data/*.xlsx
 build/
+notes/alignment/data/*.jsonl
+__pycache__/

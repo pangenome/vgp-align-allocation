@@ -123,10 +123,25 @@ checkpoint accounting the reviewers requested; here are the measurements."*
 | 2026-12-15 → 2027-01-31 | Submit renewal with interim results |
 | 2027-01 → 2027-03-31 | Complete provisional-award tranche; carry results into renewal |
 
-## 7. Open decisions / TODOs
+## 7. Corrections applied 2026-10-05
 
-- [ ] Which grants are cited, and are they active at submission? (TODO: confirm
-      NSF 2118709 dates; identify NIH award(s) shown in the biosketch.)
+Done while preparing the appeal:
+
+- **CV** (`alignment-2026/cv/erik-garrison.md`): removed the Qatari grant;
+  corrected R01HG013017 to **Multiple PI, 2023–2028**; added U01HG013760,
+  U41HG010972, R01HG013618; U01DA057530 dates 2023–2028.
+- **References** (`alignment-2026/references.md`): added the VGP Phase I
+  preprint as reference 15.
+- **Appeal** (`appeal.md`): added an explicit **acknowledgment** that the
+  submitted documents under-presented the measured usage data (several figures
+  were in the working notes and not carried into the reviewed documents), and
+  supplied the job-family and per-partition usage tables.
+
+## 8. Open decisions / TODOs
+
+- [x] Which grants are cited — corrected statement applied (R01HG013017 anchor).
+- [ ] Confirm R01HG013017 dates/role match the NIH record (CV now says Multiple
+      PI, 2023–2028).
 - [ ] Co-PIs vs. collaborators: do Cao and/or Guarracino become co-PIs with
       stated effort? (Affects CV count and team section.)
 - [ ] Reduction target for the contingency (currently ~175,000 SUs / 17.5%).
@@ -134,8 +149,8 @@ checkpoint accounting the reviewers requested; here are the measurements."*
 - [ ] Exact job/chunk plan and restart-cost figures for the tranche.
       (TODO: extract from the next pilot; do not project.)
 - [ ] Whether any manuscript is in preparation to cite (else state none).
-- [ ] Add and cite the VGP Phase I preprint; reconcile our 581/568/13 pilot
-      counts against its 579-species comparative subset and its Phase I species
-      total. (TODO: take all values from the preprint, not aggregators — see
-      `missing-citation-vgp-phase1.md`.)
+- [x] Add and cite the VGP Phase I preprint; reconcile pilot counts (566 + 13
+      + 2 haplotypes = 581; confirm against Supplementary Table 11).
 - [ ] Reorder Main Document to ACCESS section order without losing content.
+- [ ] Decide whether to soften the thread-scaling / itemized-contingency
+      commitments in the appeal, or keep them as commitments.

@@ -47,6 +47,14 @@ Draft appeal against the reduced provisional award. **Submit by 2026-10-14**
   Table 11.)
 - Request sizing: 800 new assemblies → 1,568,800 new pairs → 412,594 node-h →
   ~825,000 SUs at SPR's 2 SU/node-h, plus ~175,000 for variance/rework.
+- **Measured use by job family (from `notes/alignment/usage-data-stampede3.md`,
+  not carried into the submitted documents):** wfmash chain 1,461 jobs /
+  211,275 node-h; pylauncher all-vs-all (x*) 177 / 46,020; FastGA chain 634 /
+  25,292; lastz 25 / 20,865; pylauncher_example 51 / 17,234; pggb 82 / 1,657;
+  index.sh 136 / 431; CMA-ES 5 / 8; other 694 / 8,338.
+- **All-vs-all ran in 11 rounds** (2025-10-28 → 2025-12-03); chunk counts sized
+  by queue concurrency (2, 2, 8, 20, 1, 3, 18, 19, 1, 16, 21); three rounds
+  carried 44,439 of 46,020 node-h.
 
 ---
 
@@ -63,8 +71,15 @@ Draft appeal against the reduced provisional award. **Submit by 2026-10-14**
 > Appeal within the four-week window to supply the information and
 > clarification the reviewers requested and to request reconsideration of the
 > reduced award — a 6-month period and 100,000 Stampede3 node hours, against the
-> standard 12-month period and the requested 1,000,000 SUs. Each reviewer
-> concern is addressed below with verified information.
+> standard 12-month period and the requested 1,000,000 SUs.
+>
+> **Acknowledgment.** We recognize that the initial submission did not present
+> our measured resource use and execution characteristics with the clarity the
+> panel needed. Several of the figures in this Appeal were present in our
+> working accounting notes but were not carried into the documents the panel
+> reviewed, and one prior funding statement was incomplete. We accept that this
+> made the request harder to assess. We supply the missing information below and
+> will correct the record in the renewal documents.
 >
 > **1. Supporting grants (raised by all three reviews).** The work is directly
 > supported by merit-reviewed NIH awards. The VGP Phase I preprint's
@@ -100,16 +115,39 @@ Draft appeal against the reduced provisional award. **Submit by 2026-10-14**
 > from the VGP set to the full public vertebrate catalogue. We will add this
 > citation and move this rationale ahead of the methods in the revised request.
 >
-> **3. Parallelism, scaling, and efficiency (Review #0).** The pilot *is*
-> evidence of parallel execution at scale: 336,980 independent ordered pairs
-> computed across **3,265 jobs**, on four Stampede3 partitions (SKX 48, ICX 80,
-> SPR 112, H100 96 cores per node), dispatched across nodes by pylauncher with
-> within-node concurrency managed by ParaFly. The workload is embarrassingly
+> **3. Measured resource use and parallel execution (Review #0).** The pilot *is*
+> evidence of parallel execution at scale. We computed 336,980 independent
+> ordered pairs across **3,265 jobs** on four Stampede3 partitions, dispatched
+> across nodes by pylauncher with within-node concurrency managed by ParaFly.
+> This table was in our working notes and not in the submitted documents:
+>
+> | Partition | Cores/node | Jobs in multi-submission chains | Median wait | p90 wait |
+> | --- | ---: | ---: | ---: | ---: |
+> | SKX | 48 | 381 | 17.1 h | 100.5 h |
+> | ICX | 80 | 120 | 1.0 h | 61.8 h |
+> | SPR | 112 | 1,728 | 0.0 h | 10.3 h |
+> | H100 | 96 | 48 | 0.0 h | 2.0 h |
+>
+> Measured consumption by job family:
+>
+> | Job family | Jobs | Node-hours |
+> | --- | ---: | ---: |
+> | wfmash chain | 1,461 | 211,275 |
+> | pylauncher all-vs-all (x*) | 177 | 46,020 |
+> | FastGA chain | 634 | 25,292 |
+> | lastz | 25 | 20,865 |
+> | pylauncher_example | 51 | 17,234 |
+> | pggb | 82 | 1,657 |
+> | index.sh | 136 | 431 |
+> | CMA-ES / depth | 5 | 8 |
+> | other | 694 | 8,338 |
+>
+> The all-vs-all campaign ran in 11 rounds, with chunk counts sized by how many
+> jobs could be held in the queue rather than by the work remaining; three
+> rounds carried 44,439 of 46,020 node-hours. The workload is embarrassingly
 > parallel — N(N−1) tasks with no inter-task communication — and scales with
-> node count until queue concurrency binds. The Code Performance document
-> carries the measured per-pair cost (FastGA 0.263 node-h/pair over the same
-> 336,980 pairs) and the queue-wait distribution. We will add a thread-scaling
-> curve for a representative step to make the node-level efficiency explicit.
+> node count until queue concurrency binds. We will add a thread-scaling curve
+> for a representative step to make node-level efficiency explicit.
 >
 > **4. Wall-clock, checkpoints, and job accounting (Review #0).** The reported
 > 56.7% of node-hours ending in TIMEOUT is not lost work; it is the normal

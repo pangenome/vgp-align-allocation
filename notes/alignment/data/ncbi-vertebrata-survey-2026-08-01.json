@@ -1,0 +1,93 @@
+{
+  "survey_date": "2026-08-01",
+  "taxonomy": {
+    "name": "Vertebrata",
+    "tax_id": 7742
+  },
+  "ncbi_datasets_version": "18.34.0",
+  "raw_accession_records": 15382,
+  "current_biological_assemblies": 14247,
+  "current_refseq_counterparts": 898,
+  "represented_species": 6358,
+  "phase_1_complete_or_chromosome_assemblies": 4467,
+  "phase_1_represented_species": 1896,
+  "assembly_levels": {
+    "Chromosome": 4382,
+    "Contig": 1703,
+    "Scaffold": 8077,
+    "Complete Genome": 85
+  },
+  "best_assembly_level_per_species": {
+    "Chromosome": 1842,
+    "Scaffold": 4127,
+    "Complete Genome": 54,
+    "Contig": 335
+  },
+  "species_by_class": {
+    "Actinopteri": 2448,
+    "Aves": 1996,
+    "Mammalia": 1091,
+    "Lepidosauria": 401,
+    "Amphibia": 259,
+    "Chondrichthyes": 73,
+    "Unclassified": 72,
+    "Hyperoartia": 11,
+    "Myxini": 4,
+    "Cladistia": 3
+  },
+  "phase_1_rule": "All current complete and chromosome-level biological assemblies.",
+  "tranche_order": "Maximize taxonomic novelty at class, order, family, genus, and species levels, then rank RefSeq status, scaffold N50, contig N50, and release date.",
+  "scenarios": [
+    {
+      "name": "All current assemblies, paired RefSeq records deduplicated",
+      "assemblies": 14247,
+      "ordered_pairs": 202962762,
+      "incremental_pairs_if_pilot_subset": 202625782,
+      "incremental_node_hours": 53290580.666,
+      "incremental_node_hours_plus_20_percent": 63948696.7992,
+      "working_tb_per_set": 6312.1418982000005,
+      "working_tb_five_sets": 31560.709491
+    },
+    {
+      "name": "All chromosome-level and complete assemblies",
+      "assemblies": 4467,
+      "ordered_pairs": 19949622,
+      "incremental_pairs_if_pilot_subset": 19612642,
+      "incremental_node_hours": 5158124.846,
+      "incremental_node_hours_plus_20_percent": 6189749.8152,
+      "working_tb_per_set": 620.4332442000001,
+      "working_tb_five_sets": 3102.1662210000004
+    },
+    {
+      "name": "One best current assembly per represented species, all levels",
+      "assemblies": 6358,
+      "ordered_pairs": 40417806,
+      "incremental_pairs_if_pilot_subset": 40080826,
+      "incremental_node_hours": 10541257.238,
+      "incremental_node_hours_plus_20_percent": 12649508.6856,
+      "working_tb_per_set": 1256.9937666,
+      "working_tb_five_sets": 6284.968833000001
+    },
+    {
+      "name": "One best assembly per species, scaffold or better",
+      "assemblies": 6023,
+      "ordered_pairs": 36270506,
+      "incremental_pairs_if_pilot_subset": 35933526,
+      "incremental_node_hours": 9450517.338,
+      "incremental_node_hours_plus_20_percent": 11340620.805599999,
+      "working_tb_per_set": 1128.0127366000002,
+      "working_tb_five_sets": 5640.063683
+    },
+    {
+      "name": "One best assembly per species, chromosome or complete",
+      "assemblies": 1896,
+      "ordered_pairs": 3592920,
+      "incremental_pairs_if_pilot_subset": 3255940,
+      "incremental_node_hours": 856312.2200000001,
+      "incremental_node_hours_plus_20_percent": 1027574.6640000001,
+      "working_tb_per_set": 111.739812,
+      "working_tb_five_sets": 558.69906
+    }
+  ],
+  "caveat": "Incremental calculations assume all 581 completed pilot assemblies occur in the selected NCBI set. Verify by accession against the pilot manifest."
+}

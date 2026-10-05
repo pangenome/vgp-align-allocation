@@ -1,0 +1,103 @@
+{
+  "generated_date": "2026-08-01",
+  "pilot_assemblies": 581,
+  "pilot_matched_to_ncbi_vertebrata_report": 568,
+  "pilot_unmatched_or_outgroups": [
+    {
+      "accession": "GCA_963675345.1",
+      "scientific_name": "Trididemnum clinides",
+      "clade": "Tunicata"
+    },
+    {
+      "accession": "GCA_918807975.1",
+      "scientific_name": "Aplidium turbinatum",
+      "clade": "Tunicata"
+    },
+    {
+      "accession": "GCA_947623445.1",
+      "scientific_name": "Clavelina lepadiformis",
+      "clade": "Tunicata"
+    },
+    {
+      "accession": "GCA_963082875.1",
+      "scientific_name": "Corella eumyota",
+      "clade": "Tunicata"
+    },
+    {
+      "accession": "GCA_947561715.1",
+      "scientific_name": "Ascidia mentula",
+      "clade": "Tunicata"
+    },
+    {
+      "accession": "GCA_963924565.1",
+      "scientific_name": "Ascidiella aspersa",
+      "clade": "Tunicata"
+    },
+    {
+      "accession": "GCA_964204865.1",
+      "scientific_name": "Styela clava",
+      "clade": "Tunicata"
+    },
+    {
+      "accession": "GCA_965202585.1",
+      "scientific_name": "Thalia democratica",
+      "clade": "Tunicata"
+    },
+    {
+      "accession": "GCA_035083965.1",
+      "scientific_name": "Branchiostoma lanceolatum",
+      "clade": "Cephalochordata"
+    },
+    {
+      "accession": "GCA_015852565.1",
+      "scientific_name": "Branchiostoma floridae",
+      "clade": "Cephalochordata"
+    },
+    {
+      "accession": "GCA_019207075.1",
+      "scientific_name": "Branchiostoma belcheri",
+      "clade": "Cephalochordata"
+    },
+    {
+      "accession": "GCA_902459465.3",
+      "scientific_name": "Asterias rubens",
+      "clade": "Ambulacraria"
+    },
+    {
+      "accession": "GCA_040954625.2",
+      "scientific_name": "Balanoglossus misakiensis",
+      "clade": "Ambulacraria"
+    }
+  ],
+  "phase_1_candidates_excluding_pilot_roots": 3903,
+  "tranche_size": 800,
+  "catalogue_after_tranche": 1381,
+  "new_ordered_pairs": 1568800,
+  "total_ordered_pairs_after_tranche": 1905780,
+  "selection_rule": "Greedy lexicographic novelty at class, order, family, genus, species; then complete over chromosome, paired RefSeq, scaffold N50, contig N50, release date, accession.",
+  "coverage_before": {
+    "class": 9,
+    "order": 137,
+    "family": 317,
+    "genus": 483,
+    "species": 566
+  },
+  "coverage_after": {
+    "class": 9,
+    "order": 156,
+    "family": 517,
+    "genus": 1262,
+    "species": 1366
+  },
+  "assembly_levels": {
+    "Complete Genome": 39,
+    "Chromosome": 761
+  },
+  "selection_reasons": {
+    "order": 19,
+    "family": 181,
+    "genus": 579,
+    "species": 21
+  },
+  "manifest": "notes/alignment/data/tranche-800-2026-08-01.tsv"
+}

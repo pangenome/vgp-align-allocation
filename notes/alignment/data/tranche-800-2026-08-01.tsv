@@ -1,0 +1,801 @@
+tranche_order	selection_reason	accession	paired_refseq	scientific_name	tax_id	assembly_level	assembly_name	release_date	total_sequence_length	scaffold_n50	contig_n50	class	order	family	genus	species
+1	order	GCA_058707665.1		Platax teira	334891	Complete Genome	ASM5870766v1	2026-07-01	693711880	30140486	30140486	Actinopteri	Ephippiformes	Ephippidae	Platax	Platax teira
+2	order	GCA_978979735.1		Bajacalifornia burragei	740690	Complete Genome	Bajacal_burragei_GoC2_v2	2026-02-14	16735	16735	16735	Actinopteri	Alepocephaliformes	Alepocephalidae	Bajacalifornia	Bajacalifornia burragei
+3	order	GCA_052327205.1	GCF_052327205.1	Somniosus microcephalus	191813	Chromosome	FLI_Smic_1.0	2025-08-28	6448606148	240357632	1075145	Chondrichthyes	Squaliformes	Somniosidae	Somniosus	Somniosus microcephalus
+4	order	GCA_050624435.1	GCF_050624435.1	Tenrec ecaudatus	94439	Chromosome	mTenEca1.hap1	2025-05-30	3922859826	163958880	41601014	Mammalia	Afrosoricida	Tenrecidae	Tenrec	Tenrec ecaudatus
+5	order	GCA_016859285.1	GCF_016859285.1	Xiphias gladius	8245	Chromosome	ASM1685928v1	2021-02-12	691763775	29220096	5252707	Actinopteri	Istiophoriformes	Xiphiidae	Xiphias	Xiphias gladius
+6	order	GCA_054644205.1		Lestoros inca	42731	Chromosome	mLesInc1.hap1	2026-01-22	4258788792	853182845	11940304	Mammalia	Paucituberculata	Caenolestidae	Lestoros	Lestoros inca
+7	order	GCA_054668785.1		Orycteropus afer	9818	Chromosome	mOryAfe1.hap1	2026-01-23	4714243411	655437740	166734673	Mammalia	Tubulidentata	Orycteropodidae	Orycteropus	Orycteropus afer
+8	order	GCA_057876775.1		Echinorhinus cookei	7834	Chromosome	sEchCoo1.hap2	2026-06-03	6098479163	133955147	2278199	Chondrichthyes	Echinorhiniformes	Echinorhinidae	Echinorhinus	Echinorhinus cookei
+9	order	GCA_057931045.1		Polyacanthonotus merretti	3359660	Chromosome	fPolMer1.hap1	2026-06-04	1263500434	100061019	36319221	Actinopteri	Notacanthiformes	Notacanthidae	Polyacanthonotus	Polyacanthonotus merretti
+10	order	GCA_056824565.1		Stylephorus chordatus	409996	Chromosome	fStyCho2.hap2	2026-04-21	1138063058	79700676	850304	Actinopteri	Stylephoriformes	Stylephoridae	Stylephorus	Stylephorus chordatus
+11	order	GCA_054644135.1		Aechmophorus clarkii	190660	Chromosome	bAecCla1.alt	2026-01-22	1302899237	70405786	5398840	Aves	Podicipediformes	Podicipedidae	Aechmophorus	Aechmophorus clarkii
+12	order	GCA_980438365.1		Acanthurus tractus	1316013	Chromosome	fAcaTra1.1	2026-02-20	650160964	48961085	31041855	Actinopteri	Acanthuriformes	Acanthuridae	Acanthurus	Acanthurus tractus
+13	order	GCA_056783665.1		Albula glossodonta	121402	Chromosome	fAlbGlo1.hap1	2026-04-16	985760009	41800014	36502201	Actinopteri	Albuliformes	Albulidae	Albula	Albula glossodonta
+14	order	GCA_056506795.1		Pristigenys meyeri	1609310	Chromosome	fPriMey1.hap2	2026-04-01	839101591	36857215	32736534	Actinopteri	Priacanthiformes	Priacanthidae	Pristigenys	Pristigenys meyeri
+15	order	GCA_965364685.1		Capros aper	206100	Chromosome	fCapApe1.1	2025-07-02	649601108	32570917	12853060	Actinopteri	Caproiformes	Caproidae	Capros	Capros aper
+16	order	GCA_056783565.1		Hiodon alosoides	54904	Chromosome	fHioAlo1.hap1	2026-04-16	850967845	31452048	15034530	Actinopteri	Hiodontiformes	Hiodontidae	Hiodon	Hiodon alosoides
+17	order	GCA_048564805.1		Bassozetus sp. 2 HX-2024	3239379	Chromosome	ASM4856480v1	2025-03-12	680788385	30310941	11401552	Actinopteri	Ophidiiformes	Ophidiidae	Bassozetus	Bassozetus sp. 2 HX-2024
+18	order	GCA_054883175.1		Datnioides polota	428446	Chromosome	fDatPol1.hap2	2026-01-30	577847626	25727267	16887846	Actinopteri	Lobotiformes	Datnioididae	Datnioides	Datnioides polota
+19	order	GCA_984656905.1		Parequula melbournensis	548269	Chromosome	Parequula melbournensis_haplotype_1_assembly	2026-06-08	602936613	25456707	5643520	Actinopteri	Gerreiformes	Gerreidae	Parequula	Parequula melbournensis
+20	family	GCA_054371585.1	GCF_054371585.1	Giraffa tippelskirchi	439328	Complete Genome	T2T-mGirTip1v1.2.pri	2026-01-06	2578316437	166642423	166642423	Mammalia	Artiodactyla	Giraffidae	Giraffa	Giraffa tippelskirchi
+21	family	GCA_057233065.1		Heloderma suspectum	8554	Complete Genome	16-S_hap1	2026-05-06	2430005546	316556348	316556348	Lepidosauria	Squamata	Helodermatidae	Heloderma	Heloderma suspectum
+22	family	GCA_052426305.1		Pelodiscus sinensis	13735	Complete Genome	ASM5242630v1	2025-09-03	2266984135	132537830	132537830		Testudines	Trionychidae	Pelodiscus	Pelodiscus sinensis
+23	family	GCA_057375095.1		Parabramis pekinensis	75358	Complete Genome	BGI_Ppek_1.0	2026-05-11	1020976777	40369503	40369503	Actinopteri	Cypriniformes	Xenocyprididae	Parabramis	Parabramis pekinensis
+24	family	GCA_053813585.1		Premnas biaculeatus	80991	Complete Genome	ASM5381358v1	2025-12-03	884393502	37983415	37983415	Actinopteri		Pomacentridae	Premnas	Premnas biaculeatus
+25	family	GCA_048126385.1		Ilisha elongata	365054	Complete Genome	ASM4812638v1	2025-02-27	768595266	32862990	32862990	Actinopteri	Clupeiformes	Pristigasteridae	Ilisha	Ilisha elongata
+26	family	GCA_059630365.1		Larimichthys crocea	215358	Complete Genome	Lc-T2T	2026-07-27	747283919	31789997	31789997	Actinopteri		Sciaenidae	Larimichthys	Larimichthys crocea
+27	family	GCA_986341675.1		Bidyanus bidyanus	443752	Complete Genome	Bidyanus_bidyanus_T2T_v1	2026-07-04	679715632	29952801	29952801	Actinopteri	Centrarchiformes	Terapontidae	Bidyanus	Bidyanus bidyanus
+28	family	GCA_054131445.1		Tachysurus ussuriensis	1828414	Complete Genome	ASM5413144v1	2025-12-22	750125597	29021053	29021053	Actinopteri	Siluriformes	Bagridae	Tachysurus	Tachysurus ussuriensis
+29	family	GCA_051027255.1		Lates calcarifer	8187	Complete Genome	ASM5102725v1	2025-06-24	614195649	26575253	26575253	Actinopteri		Centropomidae	Lates	Lates calcarifer
+30	family	GCA_050947455.1	GCF_050947455.1	Rhinoderma darwinii	43563	Chromosome	aRhiDar2.hap1	2025-06-17	3657511227	410882874	8675653	Amphibia	Anura	Rhinodermatidae	Rhinoderma	Rhinoderma darwinii
+31	family	GCA_027244095.1	GCF_027244095.1	Hemicordylus capensis	884348	Chromosome	rHemCap1.1.pri	2022-12-28	2294751221	359646233	160691000	Lepidosauria	Squamata	Cordylidae	Hemicordylus	Hemicordylus capensis
+32	family	GCA_019175285.1	GCF_019175285.1	Sceloporus undulatus	8520	Chromosome	SceUnd_v1.1	2021-07-08	1905484175	275632209	75501	Lepidosauria	Squamata	Phrynosomatidae	Sceloporus	Sceloporus undulatus
+33	family	GCA_047335585.1	GCF_047335585.1	Pogona vitticeps	103695	Chromosome	Pvi2.1	2025-01-31	1793327715	274873533	202516942	Lepidosauria	Squamata	Agamidae	Pogona	Pogona vitticeps
+34	family	GCA_032191835.1	GCF_032191835.1	Heteronotia binoei	13085	Chromosome	APGP_CSIRO_Hbin_v1	2023-09-29	2633446684	150619664	14376057	Lepidosauria	Squamata	Gekkonidae	Heteronotia	Heteronotia binoei
+35	family	GCA_032062135.1	GCF_032062135.1	Pyxicephalus adspersus	30357	Chromosome	UCB_Pads_2.0	2023-09-27	1440301248	147930044	79604	Amphibia	Anura	Pyxicephalidae	Pyxicephalus	Pyxicephalus adspersus
+36	family	GCA_006229205.1	GCF_006229205.1	Suricata suricatta	37032	Chromosome	meerkat_22Aug2017_6uvM2_HiC	2019-07-03	2353578744	141453419	75409	Mammalia	Carnivora	Herpestidae	Suricata	Suricata suricatta
+37	family	GCA_002007445.3	GCF_002007445.2	Ailuropoda melanoleuca	9646	Chromosome	ASM200744v3	2020-04-20	2440260518	129245720	127687	Mammalia	Carnivora	Ursidae	Ailuropoda	Ailuropoda melanoleuca
+38	family	GCA_000165445.3	GCF_000165445.2	Microcebus murinus	30608	Chromosome	Mmur_3.0	2017-02-06	2487392024	108171978	210702	Mammalia	Primates	Cheirogaleidae	Microcebus	Microcebus murinus
+39	family	GCA_965287045.1	GCF_965287045.1	Carcharhinus amblyrhynchos	263684	Chromosome	sCarAmb.v2.hapA	2025-10-10	2923561432	90619553	6101901	Chondrichthyes	Carcharhiniformes	Carcharhinidae	Carcharhinus	Carcharhinus amblyrhynchos
+40	family	GCA_043380555.1	GCF_043380555.1	Nothobranchius furzeri	105023	Chromosome	NfurGRZ-RIMD1	2024-10-21	1479182959	76394082	9298000	Actinopteri	Cyprinodontiformes	Nothobranchiidae	Nothobranchius	Nothobranchius furzeri
+41	family	GCA_023159225.1	GCF_023159225.1	Perognathus longimembris pacificus	214514	Chromosome	ASM2315922v1	2022-04-27	2212099196	72679016	7389774	Mammalia	Rodentia	Heteromyidae	Perognathus	Perognathus longimembris
+42	family	GCA_015832195.1	GCF_015832195.1	Motacilla alba alba	1094192	Chromosome	Motacilla_alba_V1.0_pri	2020-12-08	1072653902	72386170	8515530	Aves	Passeriformes	Motacillidae	Motacilla	Motacilla alba
+43	family	GCA_901933205.1	GCF_901933205.1	Camarhynchus parvulus	87175	Chromosome	STF_HiC	2019-09-06	1051609828	70356807	16035651	Aves	Passeriformes	Thraupidae	Camarhynchus	Camarhynchus parvulus
+44	family	GCA_008360975.3	GCF_008360975.1	Lichenostomus cassidix	1497555	Chromosome	HeHo_3.0	2025-07-30	1102937223	63798329	6735845	Aves	Passeriformes	Meliphagidae	Lichenostomus	Lichenostomus cassidix
+45	family	GCA_021018805.3	GCF_021018805.1	Prinia subflava	208062	Chromosome	Cam_Psub_1.2	2024-01-26	1119947663	63498583	7918915	Aves	Passeriformes	Cisticolidae	Prinia	Prinia subflava
+46	family	GCA_053455715.1	GCF_053455715.1	Rhinoraja longicauda	667116	Chromosome	sRhiLon1.1	2025-11-13	2198843048	53501714	1663054	Chondrichthyes	Rajiformes	Arhynchobatidae	Rhinoraja	Rhinoraja longicauda
+47	family	GCA_014905685.2	GCF_014905685.2	Nematolebias whitei	451745	Chromosome	NemWhi1	2021-03-24	1218316901	49984095	19984	Actinopteri	Cyprinodontiformes	Rivulidae	Nematolebias	Nematolebias whitei
+48	family	GCA_017654505.1	GCF_017654505.1	Polyodon spathula	7913	Chromosome	ASM1765450v1	2021-03-31	1542066908	48906729	3441286	Actinopteri	Acipenseriformes	Polyodontidae	Polyodon	Polyodon spathula
+49	family	GCA_019703515.2	GCF_019703515.2	Myxocyprinus asiaticus	70543	Chromosome	UBuf_Myxa_2	2022-10-26	2340848162	47849308	35119607	Actinopteri	Cypriniformes	Catostomidae	Myxocyprinus	Myxocyprinus asiaticus
+50	family	GCA_902827115.2	GCF_902827115.2	Pseudochaenichthys georgianus	52239	Chromosome	fPseGeo1.2	2022-11-04	1026205435	42832159	656910	Actinopteri	Perciformes	Channichthyidae	Pseudochaenichthys	Pseudochaenichthys georgianus
+51	family	GCA_030506205.2	GCF_030506205.2	Paramisgurnus dabryanus	90735	Chromosome	PD_genome_1.1	2024-09-03	1043469091	41695668	1000000	Actinopteri	Cypriniformes	Cobitidae	Paramisgurnus	Paramisgurnus dabryanus
+52	family	GCA_008315115.2	GCF_008315115.2	Sander lucioperca	283035	Chromosome	SLUC_FBN_1.2	2020-08-14	901221791	41060379	6663498	Actinopteri	Perciformes	Percidae	Sander	Sander lucioperca
+53	family	GCA_027791375.2	GCF_027791375.1	Indicator indicator	1002788	Chromosome	UM_Iind_1.1	2023-01-13	1147325966	38137700	8710530	Aves	Piciformes	Indicatoridae	Indicator	Indicator indicator
+54	family	GCA_053564925.1	GCF_053564925.1	Oryzias latipes	8090	Chromosome	Olatipes_Hd-rR_3.1	2025-09-27	863417014	36065826	36065826	Actinopteri	Beloniformes	Adrianichthyidae	Oryzias	Oryzias latipes
+55	family	GCA_048594095.1	GCF_048594095.1	Paramormyrops kingsleyae	1676925	Chromosome	PKINGS_0.4	2025-03-17	933939706	35261244	10969524	Actinopteri	Osteoglossiformes	Mormyridae	Paramormyrops	Paramormyrops kingsleyae
+56	family	GCA_904066995.2	GCF_904066995.2	Poecilia reticulata	8081	Chromosome	P_reticulata-male-v2	2025-08-01	744968266	32895305	7941275	Actinopteri	Cyprinodontiformes	Poeciliidae	Poecilia	Poecilia reticulata
+57	family	GCA_023375685.2	GCF_023375685.1	Ictalurus furcatus	66913	Chromosome	Billie_1.0	2022-06-02	825459183	30432001	16772172	Actinopteri	Siluriformes	Ictaluridae	Ictalurus	Ictalurus furcatus
+58	family	GCA_020085105.1	GCF_020085105.1	Siniperca chuatsi	119488	Chromosome	ASM2008510v1	2021-09-24	718804017	30013189	20478450	Actinopteri	Centrarchiformes	Sinipercidae	Siniperca	Siniperca chuatsi
+59	family	GCA_033026475.1	GCF_033026475.1	Channa argus	215402	Chromosome	Channa argus male v1.0	2023-10-25	675457141	27733855	16561385	Actinopteri	Anabantiformes	Channidae	Channa	Channa argus
+60	family	GCA_027596085.2	GCF_027596085.1	Anoplopoma fimbria	229290	Chromosome	Afim_UVic_2022	2023-02-16	653543715	26734982	2569385	Actinopteri	Perciformes	Anoplopomatidae	Anoplopoma	Anoplopoma fimbria
+61	family	GCA_036324505.1	GCF_036324505.1	Eleginops maclovinus	56733	Chromosome	JC_Emac_rtc_rv5	2024-02-01	606289673	26674500	7582354	Actinopteri	Perciformes	Eleginopidae	Eleginops	Eleginops maclovinus
+62	family	GCA_024713975.2	GCF_024713975.1	Paralichthys olivaceus	8255	Chromosome	ASM2471397v2	2022-08-25	588170514	26045262	24354382	Actinopteri	Pleuronectiformes	Paralichthyidae	Paralichthys	Paralichthys olivaceus
+63	family	GCA_029220125.1	GCF_029220125.1	Pseudoliparis swirei	2059687	Chromosome	NWPU_hadal_v1	2023-03-16	626438928	25738204	4219354	Actinopteri	Perciformes	Liparidae	Pseudoliparis	Pseudoliparis swirei
+64	family	GCA_052324685.1	GCF_052324685.1	Brachyhypopomus gauderio	698409	Chromosome	BGAUD_0.2	2025-08-28	796923666	24773908	1289797	Actinopteri	Gymnotiformes	Hypopomidae	Brachyhypopomus	Brachyhypopomus gauderio
+65	family	GCA_037954325.2	GCF_037954325.1	Fistularia commersonii	215343	Chromosome	RoL_Fcom_v1.0	2024-04-04	678533898	18701801	14696506	Actinopteri	Syngnathiformes	Fistulariidae	Fistularia	Fistularia commersonii
+66	family	GCA_040956055.2	GCF_040956055.2	Brachionichthys hirsutus	412623	Chromosome	CSIRO-AGI_Bhir_v1	2024-08-05	406634837	13491165	416568	Actinopteri	Lophiiformes	Brachionichthyidae	Brachionichthys	Brachionichthys hirsutus
+67	family	GCA_002078875.2	GCF_002078875.1	Numida meleagris	8996	Chromosome	NumMel1.0	2017-06-01	1043247365	7868035	234926	Aves	Galliformes	Numididae	Numida	Numida meleagris
+68	family	GCA_000523025.1	GCF_000523025.1	Cynoglossus semilaevis	244447	Chromosome	Cse_v1.0	2014-01-28	470182763	509861	27008	Actinopteri	Pleuronectiformes	Cynoglossidae	Cynoglossus	Cynoglossus semilaevis
+69	family	GCA_040581445.1		Lepidosiren paradoxa	7883	Chromosome	ASM4058144v1	2024-07-19	87218830714	1992257274	11627988		Ceratodontiformes	Lepidosirenidae	Lepidosiren	Lepidosiren paradoxa
+70	family	GCA_016271365.2		Neoceratodus forsteri	7892	Chromosome	neoFor_v3.1	2023-05-16	34557648077	1485207024	1402697193		Ceratodontiformes	Ceratodontidae	Neoceratodus	Neoceratodus forsteri
+71	family	GCA_033557465.1		Ichthyophis bannanicus	8453	Chromosome	NWPU_BC_v1	2023-11-14	12355439938	1041838628	5700647	Amphibia	Gymnophiona	Ichthyophiidae	Ichthyophis	Ichthyophis bannanicus
+72	family	GCA_007646695.3		Thylacinus cynocephalus	9275	Chromosome	UniMelb_ThyCyn2.0_hybrid_assembly	2022-04-04	3376725167	629085701	15023	Mammalia	Dasyuromorphia	Thylacinidae	Thylacinus	Thylacinus cynocephalus
+73	family	GCA_028626985.1		Vombatus ursinus	29139	Chromosome	vu-2k	2023-02-16	3341345253	576111283	74778	Mammalia	Diprotodontia	Vombatidae	Vombatus	Vombatus ursinus
+74	family	GCA_028658325.1		Potorous gilbertii	173936	Chromosome	Potorous_gilbertii_HiC	2023-02-17	3826410559	557804701	46323	Mammalia	Diprotodontia	Potoroidae	Potorous	Potorous gilbertii
+75	family	GCA_028627135.1		Pseudochirops cupreus	37702	Chromosome	Pseudochirops_cupreus_HiC	2023-02-16	3579892125	425237964	27966	Mammalia	Diprotodontia	Pseudocheiridae	Pseudochirops	Pseudochirops cupreus
+76	family	GCA_018994145.1		Leptobrachium ailaonicum	428466	Chromosome	ASM1899414v1	2021-06-24	3535795546	412424790	821125	Amphibia	Anura	Megophryidae	Leptobrachium	Leptobrachium ailaonicum
+77	family	GCA_054083975.1		Fejervarya limnocharis	110108	Chromosome	aFejLim2.hap1	2025-12-17	3519762086	390094180	4508473	Amphibia	Anura	Dicroglossidae	Fejervarya	Fejervarya limnocharis
+78	family	GCA_033807585.1		Hydrophis major	355693	Chromosome	HMAJ_1.0	2023-11-21	2166703382	268276564	35743180	Lepidosauria	Squamata	Elapidae	Hydrophis	Hydrophis major
+79	family	GCA_052110815.1		Crocodylus siamensis	68455	Chromosome	ASM5211081v1	2025-08-18	2128057549	247920864	22917388		Crocodylia	Crocodylidae	Crocodylus	Crocodylus siamensis
+80	family	GCA_057127545.1		Rhinotyphlops lalandei	759953	Chromosome	rRhiLal1.hap1	2026-04-28	1709942191	236825263	7746334	Lepidosauria	Squamata	Typhlopidae	Rhinotyphlops	Rhinotyphlops lalandei
+81	family	GCA_051311615.1		Pelomedusa somalica	1488670	Chromosome	rPelSom1.pri	2025-07-14	1948856296	217994614	51191779		Testudines	Pelomedusidae	Pelomedusa	Pelomedusa somalica
+82	family	GCA_055471215.1		Potamotrygon marinae	2803083	Chromosome	sPotMar1.hap2	2026-02-24	4335674344	192842338	12999503	Chondrichthyes	Myliobatiformes	Potamotrygonidae	Potamotrygon	Potamotrygon marinae
+83	family	GCA_056363955.1		Pteronotus mesoamericanus	1884717	Chromosome	mPteMes1.pri	2026-03-27	2137861399	181924859	55023364	Mammalia	Chiroptera	Mormoopidae	Pteronotus	Pteronotus mesoamericanus
+84	family	GCA_051940845.1		Xantusia vigilis	8547	Chromosome	ASM5194084v1	2025-08-12	2195796972	177665436	110870416	Lepidosauria	Squamata	Xantusiidae	Xantusia	Xantusia vigilis
+85	family	GCA_036250615.1		Ptychadena robeensis	2829185	Chromosome	ASM3625061v1	2024-01-31	1591013924	157086141	12384	Amphibia	Anura	Ptychadenidae	Ptychadena	Ptychadena robeensis
+86	family	GCA_963992745.1		Bradypus torquatus	227087	Chromosome	mBraTor.pri	2024-12-06	3128591653	156600181	4748776	Mammalia	Pilosa	Bradypodidae	Bradypus	Bradypus torquatus
+87	family	GCA_040894045.1		Umbra pygmaea	75934	Chromosome	UPYG_1.0	2024-07-30	1784301911	154771044	1922663	Actinopteri	Esociformes	Umbridae	Umbra	Umbra pygmaea
+88	family	GCA_050613895.1		Squalus suckleyi	7798	Chromosome	sSquSuc5.hap2	2025-05-29	4657981142	153064829	2529731	Chondrichthyes	Squaliformes	Squalidae	Squalus	Squalus suckleyi
+89	family	GCA_055471155.1		Carcharias taurus	30501	Chromosome	sCarTau1.hap1	2026-02-24	4806479161	148992785	7024806	Chondrichthyes	Lamniformes	Carchariidae	Carcharias	Carcharias taurus
+90	family	GCA_057946115.1		Platysternon megacephalum	55544	Chromosome	rPlaMeg1.hap1	2026-06-04	2209023614	144819021	72833130		Testudines	Platysternidae	Platysternon	Platysternon megacephalum
+91	family	GCA_055474045.1		Procyon lotor	9654	Chromosome	P.lotor_Micro_v1.0	2026-02-24	2350865990	142471341	34520054	Mammalia	Carnivora	Procyonidae	Procyon	Procyon lotor
+92	family	GCA_056320045.1		Tarentola mauritanica	8569	Chromosome	ASM5632004v1	2026-03-25	2118548807	135870132	77001867	Lepidosauria	Squamata	Phyllodactylidae	Tarentola	Tarentola mauritanica
+93	family	GCA_029692085.1		Gymnothorax javanicus	473457	Chromosome	GJAV_1.0	2023-04-12	2124863002	133528002	24488841	Actinopteri	Anguilliformes	Muraenidae	Gymnothorax	Gymnothorax javanicus
+94	family	GCA_040437455.1		Plecturocebus cupreus	202457	Chromosome	PleCup_hybrid	2024-07-02	2764079242	130776705	16955781	Mammalia	Primates	Pitheciidae	Plecturocebus	Plecturocebus cupreus
+95	family	GCA_978019975.1		Kaupichthys nuchalis	182426	Chromosome	fKauNuc1.1	2026-01-29	1100318673	123633232	77495999	Actinopteri	Anguilliformes	Chlopsidae	Kaupichthys	Kaupichthys nuchalis
+96	family	GCA_964265115.1		Malpolon monspessulanus	184164	Chromosome	rMalMon1.1	2024-09-25	1752149986	121923953	32743049	Lepidosauria	Squamata	Lamprophiidae	Malpolon	Malpolon monspessulanus
+97	family	GCA_022702515.1		Ilyophis sp. 1 JC-2022	2920201	Chromosome	ASM2270251v1	2022-03-28	1494882515	121130272	3455548	Actinopteri	Anguilliformes	Synaphobranchidae	Ilyophis	Ilyophis sp. 1 JC-2022
+98	family	GCA_050042745.1		Varanus acanthurus	62035	Chromosome	ZJU_Vac_2.0	2025-04-30	1546074419	113866299	1773328	Lepidosauria	Squamata	Varanidae	Varanus	Varanus acanthurus
+99	family	GCA_054099655.1		Dermatemys mawii	55550	Chromosome	rDerMaw1.hap1	2025-12-18	1951700107	112986257	57121583		Testudines	Dermatemydidae	Dermatemys	Dermatemys mawii
+100	family	GCA_058744715.1		Anomalurus derbianus	2022012	Chromosome	mAnoDer1.hap1	2026-07-02	2597734481	112379849	94461626	Mammalia	Rodentia	Anomaluridae	Anomalurus	Anomalurus derbianus
+101	family	GCA_030068075.1		Paguma larvata	9675	Chromosome	ASM3006807v1	2023-06-05	2437414291	111806299	12856992	Mammalia	Carnivora	Viverridae	Paguma	Paguma larvata
+102	family	GCA_977017645.1		Torpedo marmorata	7788	Chromosome	sTorMar1.1	2025-11-08	6221090334	111696861	3050324	Chondrichthyes	Torpediniformes	Torpedinidae	Torpedo	Torpedo marmorata
+103	family	GCA_049115385.1		Moschus berezovskii	68408	Chromosome	NW_MosBer_1.0	2025-03-28	2847697564	111330059	91326797	Mammalia	Artiodactyla	Moschidae	Moschus	Moschus berezovskii
+104	family	GCA_045269775.1		Correlophus ciliatus	143539	Chromosome	SHOU_CoCili_1.2	2024-11-25	1661507015	109969818	74966670	Lepidosauria	Squamata	Diplodactylidae	Correlophus	Correlophus ciliatus
+105	family	GCA_028646485.1		Cryptoprocta ferox	94188	Chromosome	Cryptoprocta_ferox_HiC	2023-02-16	2373352832	107277967	124286	Mammalia	Carnivora	Eupleridae	Cryptoprocta	Cryptoprocta ferox
+106	family	GCA_964261345.1		Heterocephalus glaber	10181	Chromosome	mHetGlaV3	2024-09-07	2474733770	97315161	3219654	Mammalia	Rodentia	Bathyergidae	Heterocephalus	Heterocephalus glaber
+107	family	GCA_975146105.1		Myrichthys ocellatus	721872	Chromosome	fMyrOce1.1	2025-10-09	1515200344	95401461	47180267	Actinopteri	Anguilliformes	Ophichthidae	Myrichthys	Myrichthys ocellatus
+108	family	GCA_057930555.1		Eospalax rufescens	146137	Chromosome	Eruf_1.0	2026-06-04	2898789916	90329371	38956688	Mammalia	Rodentia	Spalacidae	Eospalax	Eospalax rufescens
+109	family	GCA_976988815.1		Haematopus ostralegus	31908	Chromosome	bHaeOst1.hap1.1	2025-11-08	1305996864	87398943	4836579	Aves	Charadriiformes	Haematopodidae	Haematopus	Haematopus ostralegus
+110	family	GCA_034008185.1		Gorsachius magnificus	887050	Chromosome	SYSU_GOM	2023-12-01	1176607910	84772300	18463888	Aves	Pelecaniformes	Ardeidae	Gorsachius	Gorsachius magnificus
+111	family	GCA_054099775.1		Steatornis caripensis	48435	Chromosome	bSteCar1.hap1	2025-12-18	1367945121	84204331	44324291	Aves	Caprimulgiformes	Steatornithidae	Steatornis	Steatornis caripensis
+112	family	GCA_048593965.1		Phylloscopus trochiloides	48154	Chromosome	ASM4859396v1	2025-03-17	1282834378	77876639	7376425	Aves	Passeriformes	Phylloscopidae	Phylloscopus	Phylloscopus trochiloides
+113	family	GCA_038380795.1		Pyrocephalus nanus	1853061	Chromosome	CAS-CDF_Pyrnan_1.0	2024-04-18	1072479546	74038366	17811915	Aves	Passeriformes	Tyrannidae	Pyrocephalus	Pyrocephalus nanus
+114	family	GCA_977066295.1		Aegithalos caudatus	73327	Chromosome	bAegCau2.hap1.1	2025-11-28	1216966789	73711400	8444000	Aves	Passeriformes	Aegithalidae	Aegithalos	Aegithalos caudatus
+115	family	GCA_978406735.1		Scorpaena notata	210003	Chromosome	fScoNot1.1	2026-02-14	1111126948	73160922	61225004	Actinopteri	Perciformes	Scorpaenidae	Scorpaena	Scorpaena notata
+116	family	GCA_057917895.1		Troglodytes aedon	58211	Chromosome	bTroAed1.hap1	2026-06-01	1224944934	72911710	18857630	Aves	Passeriformes	Certhiidae	Troglodytes	Troglodytes aedon
+117	family	GCA_042985785.1		Mimus melanotis	245851	Chromosome	USASK_Mmel_1	2024-10-15	1013368168	71597153	74264	Aves	Passeriformes	Mimidae	Mimus	Mimus melanotis
+118	family	GCA_015741225.1		Hydrochoerus hydrochaeris	10149	Chromosome	Hydrochoerus_hydrochaeris_HiC	2020-12-04	2590838763	71052467	78808	Mammalia	Rodentia	Hydrochaeridae	Hydrochoerus	Hydrochoerus hydrochaeris
+119	family	GCA_054913815.1		Pterorhinus courtoisi	1156347	Chromosome	ASM5491381v1	2026-02-04	1255045218	70596790	27850013	Aves	Passeriformes	Leiothrichidae	Pterorhinus	Pterorhinus courtoisi
+120	family	GCA_009741485.1		Malurus cyaneus samueli	2593467	Chromosome	mCya_1.0	2019-12-12	1078874851	68113514	210412	Aves	Passeriformes	Maluridae	Malurus	Malurus cyaneus
+121	family	GCA_021869965.2		Rhincodon typus	259920	Chromosome	sRhiTyp1.2	2026-01-22	3214980555	65379433	15567830	Chondrichthyes	Orectolobiformes	Rhincodontidae	Rhincodon	Rhincodon typus
+122	family	GCA_059309555.1		Pterygoplichthys disjunctivus	909844	Chromosome	ASM5930955v1	2026-07-06	1566152583	64017868	11954964	Actinopteri	Siluriformes	Loricariidae	Pterygoplichthys	Pterygoplichthys disjunctivus
+123	family	GCA_024760905.1		Plotosus lineatus	243562	Chromosome	SWU_Pli_1.0	2022-08-29	1333861300	60385206	36883020	Actinopteri	Siluriformes	Plotosidae	Plotosus	Plotosus lineatus
+124	family	GCA_032173965.1		Sitta carolinensis	50250	Chromosome	ASM3217396v1	2023-09-29	1032235423	57574287	18480409	Aves	Passeriformes	Sittidae	Sitta	Sitta carolinensis
+125	family	GCA_963556495.2		Valencia hispanica	195855	Chromosome	fValHis1.1_MT	2023-12-06	1291680485	56937854	38296799	Actinopteri	Cyprinodontiformes	Valenciidae	Valencia	Valencia hispanica
+126	family	GCA_054851125.1		Prochilodus lineatus	27695	Chromosome	fProLin1.hap1	2026-01-30	1448379579	51531475	5995764	Actinopteri	Characiformes	Prochilodontidae	Prochilodus	Prochilodus lineatus
+127	family	GCA_055853695.1		Odontobutis sinensis	357168	Chromosome	ASM5585369v1	2026-03-13	1139483254	50182717	1142283	Actinopteri	Gobiiformes	Odontobutidae	Odontobutis	Odontobutis sinensis
+128	family	GCA_054960265.1		Pareuchiloglanis anteanalis	221673	Chromosome	ASM5496026v1	2026-02-10	873934115	50116031	15101161	Actinopteri	Siluriformes	Sisoridae	Pareuchiloglanis	Pareuchiloglanis anteanalis
+129	family	GCA_030533445.1		Cyprinodon diabolis	69136	Chromosome	UCB_CyDiab_1.0	2023-07-25	1220346717	48018592	12045327	Actinopteri	Cyprinodontiformes	Cyprinodontidae	Cyprinodon	Cyprinodon diabolis
+130	family	GCA_059491945.1		Characidium zebra	1053565	Chromosome	fChaZeb2.hap1	2026-07-17	1223343071	47795444	12480634	Actinopteri	Characiformes	Crenuchidae	Characidium	Characidium zebra
+131	family	GCA_050140585.1		Trichiurus japonicus	235211	Chromosome	TlG1	2025-05-05	1138003112	47099876	7895182	Actinopteri	Scombriformes	Trichiuridae	Trichiurus	Trichiurus japonicus
+132	family	GCA_985557965.1		Harpagifer antarcticus	43256	Chromosome	fHarAnt1.hap1.2	2026-07-04	1068962898	46795402	17034000	Actinopteri	Perciformes	Harpagiferidae	Harpagifer	Harpagifer antarcticus
+133	family	GCA_048564785.1		Bathypterois sp. HX-2024g	3349394	Chromosome	ASM4856478v1	2025-03-12	1199088206	45864012	907311	Actinopteri	Aulopiformes	Ipnopidae	Bathypterois	Bathypterois sp. HX-2024g
+134	family	GCA_040285405.1		Oxyeleotris marmorata	86250	Chromosome	O_marmorata v1.0	2024-06-25	1068446221	45089902	13717020	Actinopteri	Gobiiformes	Eleotridae	Oxyeleotris	Oxyeleotris marmorata
+135	family	GCA_021613375.1		Megaleporinus macrocephalus	327003	Chromosome	ASM2161337v1	2022-01-31	1282013658	45034219	5013076	Actinopteri	Characiformes	Anostomidae	Megaleporinus	Megaleporinus macrocephalus
+136	family	GCA_965279225.1		Bathysaurus mollis	1126214	Chromosome	fBatMol1.1	2025-05-10	1065771102	44263183	409172	Actinopteri	Aulopiformes	Bathysauridae	Bathysaurus	Bathysaurus mollis
+137	family	GCA_965295175.1		Atherina presbyter	303921	Chromosome	fAthPre1.1	2025-06-07	1040578753	43223242	25751300	Actinopteri	Atheriniformes	Atherinidae	Atherina	Atherina presbyter
+138	family	GCA_028583405.1		Pogonophryne albipinna	1090488	Chromosome	KU_S6	2023-02-10	1074502020	41761029	962244	Actinopteri	Perciformes	Artedidraconidae	Pogonophryne	Pogonophryne albipinna
+139	family	GCA_056149455.1		Hemiramphus limbatus	509747	Chromosome	ASM5614945v1	2026-03-19	884508880	39241799	18189209	Actinopteri	Beloniformes	Hemiramphidae	Hemiramphus	Hemiramphus limbatus
+140	family	GCA_984754035.1		Diodon nicthemerus	1329242	Chromosome	Diodon nicthemerus_haplotype_2_assembly	2026-06-08	851812295	38988584	22680263	Actinopteri	Tetraodontiformes	Diodontidae	Diodon	Diodon nicthemerus
+141	family	GCA_040893165.1		Apareiodon sp. CBSF_female_01	3092293	Chromosome	ASM4089316v1	2024-07-26	954157604	37198061	2091390	Actinopteri	Characiformes	Parodontidae	Apareiodon	Apareiodon sp. CBSF_female_01
+142	family	GCA_984747395.1		Eumegistus illustris	1219343	Chromosome	Eumegistus illustris_haplotype_2_assembly	2026-06-08	891025178	36959984	5039502	Actinopteri	Scombriformes	Bramidae	Eumegistus	Eumegistus illustris
+143	family	GCA_965643125.1		Tripterygion delaisi	57862	Chromosome	fTriDel1.1	2025-07-19	772791153	36105199	34259215	Actinopteri	Blenniiformes	Tripterygiidae	Tripterygion	Tripterygion delaisi
+144	family	GCA_984746715.1		Leviprora inops	1230797	Chromosome	Leviprora inops_haplotype_2_assembly	2026-06-08	838060885	36015525	31412324	Actinopteri	Perciformes	Platycephalidae	Leviprora	Leviprora inops
+145	family	GCA_051312715.1		Ostracion cubicum	229058	Chromosome	Ocu_v1	2025-07-14	837962540	35683006	4659418	Actinopteri	Tetraodontiformes	Ostraciidae	Ostracion	Ostracion cubicum
+146	family	GCA_055797595.1		Velifer hypselopterus	334364	Chromosome	ASM5579759v1	2026-03-11	830573232	35238456	6107140	Actinopteri	Lampriformes	Veliferidae	Velifer	Velifer hypselopterus
+147	family	GCA_964269795.2		Anthias anthias	327821	Chromosome	fAntAnt1.2	2024-11-09	796131629	34740752	17256112	Actinopteri	Perciformes	Anthiadidae	Anthias	Anthias anthias
+148	family	GCA_034509495.1		Acestrorhynchus altus	639287	Chromosome	ASM3450949v1	2023-12-26	950195876	34115393	874374	Actinopteri	Characiformes	Acestrorhynchidae	Acestrorhynchus	Acestrorhynchus altus
+149	family	GCA_978045295.1		Spicara maena	98823	Chromosome	fSpiMae1.1	2026-01-29	770850882	33730052	27596238	Actinopteri	Spariformes	Centracanthidae	Spicara	Spicara maena
+150	family	GCA_053525285.1		Coryphaenoides armatus	76798	Chromosome	ASM5352528v1	2025-11-18	815534046	33319254	609278	Actinopteri	Gadiformes	Macrouridae	Coryphaenoides	Coryphaenoides armatus
+151	family	GCA_977971305.1		Polyprion americanus	112728	Chromosome	fPolAme2.1	2026-01-22	767326086	33312100	31516000	Actinopteri	Acropomatiformes	Polyprionidae	Polyprion	Polyprion americanus
+152	family	GCA_057381835.1		Hexagrammos agrammus	192376	Chromosome	ASM5738183v1	2026-05-11	768298715	33174539	11820131	Actinopteri	Perciformes	Hexagrammidae	Hexagrammos	Hexagrammos agrammus
+153	family	GCA_037951165.2		Lophius americanus	8073	Chromosome	fLopAme1_p1.2	2025-07-18	750423613	33167627	4555137	Actinopteri	Lophiiformes	Lophiidae	Lophius	Lophius americanus
+154	family	GCA_057626635.1		Monacanthus chinensis	392921	Chromosome	ASM5762663v1	2026-05-19	607866265	32955840	7089983	Actinopteri	Tetraodontiformes	Monacanthidae	Monacanthus	Monacanthus chinensis
+155	family	GCA_058705505.1		Solocisquama sp. Z669	3136565	Chromosome	ASM5870550v1	2026-07-01	829459736	32638462	2223433	Actinopteri	Lophiiformes	Ogcocephalidae	Solocisquama	Solocisquama sp. Z669
+156	family	GCA_054198415.1		Maccullochella peelii	135761	Chromosome	ASM5419841v1	2025-12-25	777856308	32199330	25229774	Actinopteri	Centrarchiformes	Percichthyidae	Maccullochella	Maccullochella peelii
+157	family	GCA_964660975.1		Merluccius merluccius	8063	Chromosome	fMerMel1.1	2025-01-02	715448892	32021586	10936441	Actinopteri	Gadiformes	Merlucciidae	Merluccius	Merluccius merluccius
+158	family	GCA_051201485.1		Monocentris japonica	181435	Chromosome	Moja	2025-07-03	791038008	31659095	29203291	Actinopteri	Trachichthyiformes	Monocentridae	Monocentris	Monocentris japonica
+159	family	GCA_056506875.1		Heteroscarus acroptilus	1582965	Chromosome	fHetAcr1.hap1	2026-04-01	683727904	31614910	19114018	Actinopteri	Labriformes	Odacidae	Heteroscarus	Heteroscarus acroptilus
+160	family	GCA_984650095.1		Neatypus obliquus	3362965	Chromosome	Neatypus obliquus_haplotype_1_assembly	2026-06-22	739127349	31291101	30292726	Actinopteri	Centrarchiformes	Kyphosidae	Neatypus	Neatypus obliquus
+161	family	GCA_053574625.1		Nemipterus japonicus	445358	Chromosome	ASM5357462v1	2025-11-21	721580317	30963390	30830163	Actinopteri	Spariformes	Nemipteridae	Nemipterus	Nemipterus japonicus
+162	family	GCA_977014745.1		Haemulon aurolineatum	236586	Chromosome	fHaeAur1.1	2025-11-08	729950604	30839200	29649258	Actinopteri	Lutjaniformes	Haemulidae	Haemulon	Haemulon aurolineatum
+163	family	GCA_046127435.1		Anisarchus medius	980385	Chromosome	ASM4612743v1	2024-12-17	669270049	30207471	11045112	Actinopteri	Perciformes	Stichaeidae	Anisarchus	Anisarchus medius
+164	family	GCA_059392785.1		Heteropneustes fossilis	93621	Chromosome	ASM5939278v1	2026-07-14	828156809	30117211	22813917	Actinopteri	Siluriformes	Heteropneustidae	Heteropneustes	Heteropneustes fossilis
+165	family	GCA_027704905.1		Muraenolepis orangiensis	630683	Chromosome	KU_S4	2023-01-13	893743365	30072179	636888	Actinopteri	Gadiformes	Muraenolepididae	Muraenolepis	Muraenolepis orangiensis
+166	family	GCA_977040325.1		Dicentrarchus labrax	13489	Chromosome	fDicLab2.1	2025-11-13	699137013	30046593	28475913	Actinopteri		Moronidae	Dicentrarchus	Dicentrarchus labrax
+167	family	GCA_984749165.1		Pentaceropsis recurvirostris	334889	Chromosome	Pentaceropsis recurvirostris_haplotype_1_assembly	2026-06-08	708455635	29966372	25995428	Actinopteri	Acropomatiformes	Pentacerotidae	Pentaceropsis	Pentaceropsis recurvirostris
+168	family	GCA_984655525.1		Melichthys vidua	392900	Chromosome	Melichthys vidua_haplotype_2_assembly	2026-06-22	641978102	29604120	27587158	Actinopteri	Tetraodontiformes	Balistidae	Melichthys	Melichthys vidua
+169	family	GCA_037577475.1		Chaunax sp. Z400	3119788	Chromosome	ASM3757747v1	2024-03-27	706943291	29421943	15241685	Actinopteri	Lophiiformes	Chaunacidae	Chaunax	Chaunax sp. Z400
+170	family	GCA_902685375.1		Neostethus bicornis	300306	Chromosome	fNeoBic2.1	2019-11-26	778440790	29119677	23089617	Actinopteri	Atheriniformes	Phallostethidae	Neostethus	Neostethus bicornis
+171	family	GCA_042823925.3		Parupeneus biaculeatus	2862834	Chromosome	ASM4282392v3	2025-03-26	657652599	28908071	9351352	Actinopteri	Syngnathiformes	Mullidae	Parupeneus	Parupeneus biaculeatus
+172	family	GCA_056506975.1		Trachinops noarlungae	3231499	Chromosome	fTraNoa1.hap2	2026-04-01	638153638	28481757	10265174	Actinopteri		Plesiopidae	Trachinops	Trachinops noarlungae
+173	family	GCA_982266815.1		Bothus lunatus	94921	Chromosome	fBotLun1.1	2026-03-14	555790717	27280616	27280616	Actinopteri	Pleuronectiformes	Bothidae	Bothus	Bothus lunatus
+174	family	GCA_029721515.1		Synanceia verrucosa	51996	Chromosome	BGI_Synver_1.0	2023-04-18	691852649	27113652	12009665	Actinopteri	Perciformes	Synanceiidae	Synanceia	Synanceia verrucosa
+175	family	GCA_975247245.1		Agonus cataphractus	508607	Chromosome	fAgoCat1.1	2025-10-26	673558796	27002447	5286793	Actinopteri	Perciformes	Agonidae	Agonus	Agonus cataphractus
+176	family	GCA_050436865.1		Sphyraena novaehollandiae	1680617	Chromosome	fSphNov1.hap2.cur.20230825	2025-05-19	610064789	26566960	14740953	Actinopteri		Sphyraenidae	Sphyraena	Sphyraena novaehollandiae
+177	family	GCA_016859345.1		Istiophorus platypterus	13575	Chromosome	ASM1685934v1	2021-02-12	614110775	26283175	11851605	Actinopteri	Istiophoriformes	Istiophoridae	Istiophorus	Istiophorus platypterus
+178	family	GCA_050575295.2		Cheilodactylus zonatus	82899	Chromosome	QDU_Gzo_v1.1	2025-07-29	611965841	25860851	25860851	Actinopteri	Centrarchiformes	Cheilodactylidae	Cheilodactylus	Cheilodactylus zonatus
+179	family	GCA_017165825.1		Hepsetus odoe	42563	Chromosome	ASM1716582v1	2021-03-09	862056194	25843955	476524	Actinopteri	Characiformes	Hepsetidae	Hepsetus	Hepsetus odoe
+180	family	GCA_059334555.1		Siganus javus	225760	Chromosome	CIBA_Sjav_1.1	2026-07-13	583104255	25717666	25375174	Actinopteri		Siganidae	Siganus	Siganus javus
+181	family	GCA_059628185.1		Rachycentron canadum	141264	Chromosome	ASM5962818v1	2026-07-27	588024622	25693793	25123819	Actinopteri	Carangiformes	Rachycentridae	Rachycentron	Rachycentron canadum
+182	family	GCA_059058945.1		Pampus cinereus	454057	Chromosome	ASM5905894v1	2026-07-07	572945019	25557465	24648676	Actinopteri	Scombriformes	Stromateidae	Pampus	Pampus cinereus
+183	family	GCA_058223795.1		Aplocheilus lineatus	52580	Chromosome	fAplLin1.hap1	2026-06-16	595910905	25232947	18542113	Actinopteri	Cyprinodontiformes	Aplocheilidae	Aplocheilus	Aplocheilus lineatus
+184	family	GCA_056748195.1		Ranzania laevis	215407	Chromosome	fRanLae1.hap1	2026-04-16	608623193	25014479	17532150	Actinopteri	Tetraodontiformes	Molidae	Ranzania	Ranzania laevis
+185	family	GCA_984795795.1		Carapus acus	1491482	Chromosome	fCarAcu1.1	2026-06-26	466326303	24747000	22261891	Actinopteri	Ophidiiformes	Carapidae	Carapus	Carapus acus
+186	family	GCA_984586885.1		Paraclinus nigripinnis	2968237	Chromosome	fParNin1.1	2026-06-21	564625007	24743000	15764170	Actinopteri	Blenniiformes	Labrisomidae	Paraclinus	Paraclinus nigripinnis
+187	family	GCA_029224185.1		Karalla daura	334402	Chromosome	ASM2922418v1	2023-03-16	632467793	24527224	1950773	Actinopteri	Chaetodontiformes	Leiognathidae	Karalla	Karalla daura
+188	family	GCA_052924935.1		Eleutheronema rhadinum	1367094	Chromosome	ASM5292493v1	2025-09-30	586876495	24321810	24220858	Actinopteri		Polynemidae	Eleutheronema	Eleutheronema rhadinum
+189	family	GCA_036850595.2		Rhyacichthys aspro	86220	Chromosome	ASM3685059v2	2024-11-08	594556839	24273491	1671045	Actinopteri	Gobiiformes	Rhyacichthyidae	Rhyacichthys	Rhyacichthys aspro
+190	family	GCA_978484525.1		Phycis phycis	349666	Chromosome	fPhyPhy1.1	2026-02-14	565340295	24071641	22804303	Actinopteri	Gadiformes	Phycidae	Phycis	Phycis phycis
+191	family	GCA_054883495.1		Parabotia bimaculata	1173609	Chromosome	ASM5488349v1	2026-01-30	608385219	23691630	21191516	Actinopteri	Cypriniformes	Botiidae	Parabotia	Parabotia bimaculata
+192	family	GCA_964260585.1		Lota lota	69944	Chromosome	lotlotasm	2024-09-06	539132324	22468847	661169	Actinopteri	Gadiformes	Lotidae	Lota	Lota lota
+193	family	GCA_026119655.1		Cranoglanis bouderius	175798	Chromosome	ASM2611965v1	2022-11-15	998572967	22384048	1228	Actinopteri	Siluriformes	Cranoglanididae	Cranoglanis	Cranoglanis bouderius
+194	family	GCA_054828645.1		Gonorynchus abbreviatus	189504	Chromosome	ASM5482864v1	2026-01-29	609198779	22330464	4170067	Actinopteri	Gonorynchiformes	Gonorynchidae	Gonorynchus	Gonorynchus abbreviatus
+195	family	GCA_051168995.1		Lepturichthys fimbriata	241444	Chromosome	ASM5116899v1	2025-07-01	590668362	20904794	16320677	Actinopteri	Cypriniformes	Balitoridae	Lepturichthys	Lepturichthys fimbriata
+196	family	GCA_978015425.1		Cepola macrophthalma	334382	Chromosome	fCepMac1.hap2.1	2026-01-07	575962900	20360156	2195000	Actinopteri	Priacanthiformes	Cepolidae (in: ray-finned fishes)	Cepola	Cepola macrophthalma
+197	family	GCA_054948905.1		Yaoshania pachychilus	1772095	Chromosome	SWU_YPac_1.0	2026-02-06	451224504	19000596	8584184	Actinopteri	Cypriniformes	Gastromyzontidae	Yaoshania	Yaoshania pachychilus
+198	family	GCA_051167395.1		Gyrinocheilus aymonieri	154816	Chromosome	ASM5116739v1	2025-07-01	507040962	18993287	11731257	Actinopteri	Cypriniformes	Gyrinocheilidae	Gyrinocheilus	Gyrinocheilus aymonieri
+199	family	GCA_044905845.1		Protosalanx hyalocranius	418454	Chromosome	ASM4490584v1	2024-11-19	453967611	16624894	6730906	Actinopteri	Osmeriformes	Salangidae	Protosalanx	Protosalanx hyalocranius
+200	family	GCA_050004315.1		Desmognathus fuscus	52100	Chromosome	aDesFus1-2.1	2025-04-29	16117580045	4254425	1743644	Amphibia	Caudata	Plethodontidae	Desmognathus	Desmognathus fuscus
+201	genus	GCA_054491055.1	GCF_054491055.1	Hypomesus nipponensis	182223	Complete Genome	ASM5449105v1	2026-01-14	526314162	20232928	20232928	Actinopteri	Osmeriformes	Osmeridae	Hypomesus	Hypomesus nipponensis
+202	genus	GCA_051911995.1		Felis catus	9685	Complete Genome	F.catus_OcraZ1_mat1.0	2025-08-11	2505760913	149697279	149697279	Mammalia	Carnivora	Felidae	Felis	Felis catus
+203	genus	GCA_047496845.1		Lepus yarkandensis	301146	Complete Genome	LepYark_1.0	2025-02-07	2695446921	126863262	126863262	Mammalia	Lagomorpha	Leporidae	Lepus	Lepus yarkandensis
+204	genus	GCA_056247825.1		Hydropotes inermis	9883	Complete Genome	ASM5624782v1	2026-03-23	3450426773	101097117	101097117	Mammalia	Artiodactyla	Cervidae	Hydropotes	Hydropotes inermis
+205	genus	GCA_051903495.1		Alectoris rufa	9079	Complete Genome	Arufa_2401F	2025-08-08	1037582712	92881468	92881468	Aves	Galliformes	Phasianidae	Alectoris	Alectoris rufa
+206	genus	GCA_057318875.1		Hucho bleekeri	633558	Complete Genome	ASM5731887v1	2026-05-06	3339181071	75293099	75293099	Actinopteri	Salmoniformes	Salmonidae	Hucho	Hucho bleekeri
+207	genus	GCA_055001455.1		Riparia riparia	88110	Complete Genome	ICG_Riri_1	2026-02-12	1189392182	73324403	73324403	Aves	Passeriformes	Hirundinidae	Riparia	Riparia riparia
+208	genus	GCA_049815525.1		Cheilinus undulatus	241271	Complete Genome	ASM4981552v1	2025-04-21	1250370844	54699724	54699724	Actinopteri	Labriformes	Labridae	Cheilinus	Cheilinus undulatus
+209	genus	GCA_059048685.1		Lutjanus argentimaculatus	211834	Complete Genome	GDOU_Ler_1.0	2026-07-07	1066386918	46217626	46217626	Actinopteri	Lutjaniformes	Lutjanidae	Lutjanus	Lutjanus argentimaculatus
+210	genus	GCA_043388385.1		Cephalopholis sonnerati	160708	Complete Genome	ASM4338838v1	2024-10-21	1039913711	44092975	44092975	Actinopteri	Perciformes	Serranidae	Cephalopholis	Cephalopholis sonnerati
+211	genus	GCA_056632655.1		Hemibarbus labeo	328524	Complete Genome	ASM5663265v1	2026-04-08	1040455555	41151637	41151637	Actinopteri	Cypriniformes	Gobionidae	Hemibarbus	Hemibarbus labeo
+212	genus	GCA_049919795.1		Ctenopharyngodon idella	7959	Complete Genome	ASM4991979v1	2025-04-26	890918310	35870095	35870095	Actinopteri	Cypriniformes	Xenocyprididae	Ctenopharyngodon	Ctenopharyngodon idella
+213	genus	GCA_050881965.1		Cyprinus carpio	7962	Complete Genome	ASM5088196v1	2025-06-11	1555859486	30447840	30447840	Actinopteri	Cypriniformes	Cyprinidae	Cyprinus	Cyprinus carpio
+214	genus	GCA_056882335.1		Seriola dumerili	41447	Complete Genome	ASM5688233v1	2026-04-24	685485571	29236910	29236910	Actinopteri	Carangiformes	Carangidae	Seriola	Seriola dumerili
+215	genus	GCA_977005145.1		Trachinotus anak	443729	Complete Genome	Tana_hap2	2025-10-13	661090596	29019421	29019421	Actinopteri	Carangiformes	Carangidae	Trachinotus	Trachinotus anak
+216	genus	GCA_054883375.1		Arapaima gigas	113544	Complete Genome	ASM5488337v1	2026-01-30	667947082	27159801	27159801	Actinopteri	Osteoglossiformes	Osteoglossidae	Arapaima	Arapaima gigas
+217	genus	GCA_051314325.1		Pseudopleuronectes yokohamae	245875	Complete Genome	ASM5131432v1	2025-07-14	582726912	26290307	26290307	Actinopteri	Pleuronectiformes	Pleuronectidae	Pseudopleuronectes	Pseudopleuronectes yokohamae
+218	genus	GCA_048296945.1		Triplophysa yaopeizhii	1783487	Complete Genome	HZAU_TYAO_T2T_v1	2025-03-04	671578434	26043712	26043712	Actinopteri	Cypriniformes	Nemacheilidae	Triplophysa	Triplophysa yaopeizhii
+219	genus	GCA_051020865.1		Tetraodon nigroviridis	99883	Complete Genome	TetNigT2Thap1	2025-06-23	342830278	16043130	16043130	Actinopteri	Tetraodontiformes	Tetraodontidae	Tetraodon	Tetraodon nigroviridis
+220	genus	GCA_042186555.1	GCF_042186555.1	Aquarana catesbeiana	8400	Chromosome	ASM4218655v1	2024-09-24	6377618952	691824178	3396515	Amphibia	Anura	Ranidae	Aquarana	Aquarana catesbeiana
+221	genus	GCA_016433145.1	GCF_016433145.1	Gracilinanus agilis	191870	Chromosome	AgileGrace	2021-01-06	3701017385	683521856	73170	Mammalia	Didelphimorphia	Didelphidae	Gracilinanus	Gracilinanus agilis
+222	genus	GCA_016432865.2	GCF_016432865.1	Antechinus flavipes	38775	Chromosome	AdamAnt_v2	2021-01-06	3192643918	636717922	51843704	Mammalia	Dasyuromorphia	Dasyuridae	Antechinus	Antechinus flavipes
+223	genus	GCA_055691185.1	GCF_055691185.1	Crinia signifera	326986	Chromosome	ASM5569118v1	2026-03-05	3234790400	336578331	3425702	Amphibia	Anura	Myobatrachidae	Crinia	Crinia signifera
+224	genus	GCA_003668045.2	GCF_003668045.3	Cricetulus griseus	10029	Chromosome	CriGri-PICRH-1.0	2020-06-11	2366634374	274391693	2711962	Mammalia	Rodentia	Cricetidae	Cricetulus	Cricetulus griseus
+225	genus	GCA_028640845.1	GCF_028640845.1	Ahaetulla prasina	499056	Chromosome	ASM2864084v1	2023-02-22	1772420080	231952326	23873608	Lepidosauria	Squamata	Colubridae	Ahaetulla	Ahaetulla prasina
+226	genus	GCA_016881025.1	GCF_016881025.1	Ictidomys tridecemlineatus	43179	Chromosome	HiC_Itri_2	2021-02-17	2478949113	193221680	44127	Mammalia	Rodentia	Sciuridae	Ictidomys	Ictidomys tridecemlineatus
+227	genus	GCA_016835505.1	GCF_016835505.1	Polypterus senegalus	55291	Chromosome	ASM1683550v1	2021-02-09	3673863536	189689183	4528139	Cladistia	Polypteriformes	Polypteridae	Polypterus	Polypterus senegalus
+228	genus	GCA_048418815.1	GCF_048418815.1	Hemitrygon akajei	2704970	Chromosome	sHemAka1.3	2025-03-05	4229631903	175234968	8940806	Chondrichthyes	Myliobatiformes	Dasyatidae	Hemitrygon	Hemitrygon akajei
+229	genus	GCA_018350155.1	GCF_018350155.1	Leopardus geoffroyi	46844	Chromosome	O.geoffroyi_Oge1_pat1.0	2021-05-13	2426370816	152606360	104474415	Mammalia	Carnivora	Felidae	Leopardus	Leopardus geoffroyi
+230	genus	GCA_002201575.2	GCF_002201575.2	Neomonachus schauinslandi	29088	Chromosome	ASM220157v2	2021-10-20	2419443398	150810825	181061	Mammalia	Carnivora	Phocidae	Neomonachus	Neomonachus schauinslandi
+231	genus	GCA_016509475.2	GCF_016509475.1	Prionailurus bengalensis	37029	Chromosome	Fcat_Pben_1.1_paternal_pri	2021-01-06	2435702060	148587958	82622880	Mammalia	Carnivora	Felidae	Prionailurus	Prionailurus bengalensis
+232	genus	GCA_003597395.2	GCF_003597395.2	Chelonoidis abingdonii	106734	Chromosome	CheloAbing_2.0	2025-04-29	2256468705	148185065	119261		Testudines	Testudinidae	Chelonoidis	Chelonoidis abingdonii
+233	genus	GCA_007565055.1	GCF_007565055.1	Rhinopithecus roxellana	61622	Chromosome	ASM756505v1	2019-07-29	3038460517	144559847	5723610	Mammalia	Primates	Cercopithecidae	Rhinopithecus	Rhinopithecus roxellana
+234	genus	GCA_027475565.2	GCF_027475565.1	Acinonyx jubatus	32536	Chromosome	VMU_Ajub_asm_v1.0	2022-12-28	2377417351	144444042	96827784	Mammalia	Carnivora	Felidae	Acinonyx	Acinonyx jubatus
+235	genus	GCA_016906955.1	GCF_016906955.1	Phacochoerus africanus	41426	Chromosome	ROS_Pafr_v1	2021-02-19	2435083091	141887063	10602503	Mammalia	Artiodactyla	Suidae	Phacochoerus	Phacochoerus africanus
+236	genus	GCA_013100865.1	GCF_013100865.1	Trachemys scripta elegans	31138	Chromosome	CAS_Tse_1.0	2020-05-15	2126182493	140411086	204575		Testudines	Emydidae	Trachemys	Trachemys scripta
+237	genus	GCA_021288785.3	GCF_021288785.2	Mirounga angustirostris	9716	Chromosome	ASM2128878v3	2022-12-21	2366166981	139676048	76189	Mammalia	Carnivora	Phocidae	Mirounga	Mirounga angustirostris
+238	genus	GCA_020497125.1	GCF_020497125.1	Mauremys mutica	74926	Chromosome	ASM2049712v1	2021-10-14	2484351270	135065811	15010728		Testudines	Geoemydidae	Mauremys	Mauremys mutica
+239	genus	GCA_021028975.2	GCF_021028975.2	Sphaerodactylus townsendi	933632	Chromosome	MPM_Stown_v2.3	2022-04-08	1810846735	133801376	9459502	Lepidosauria	Squamata	Sphaerodactylidae	Sphaerodactylus	Sphaerodactylus townsendi
+240	genus	GCA_011386835.2	GCF_011386835.1	Chrysemys picta bellii	8478	Chromosome	ASM1138683v2	2023-09-08	2372089908	133555881	13370154		Testudines	Emydidae	Chrysemys	Chrysemys picta
+241	genus	GCA_002776525.5	GCF_002776525.5	Piliocolobus tephrosceles	591936	Chromosome	ASM277652v5	2019-12-12	2993041957	131283114	100421	Mammalia	Primates	Cercopithecidae	Piliocolobus	Piliocolobus tephrosceles
+242	genus	GCA_054177405.2	GCF_054177405.1	Leptonychotes weddellii	9713	Chromosome	ASM5417740v2	2025-12-24	2401725666	131171632	46856	Mammalia	Carnivora	Phocidae	Leptonychotes	Leptonychotes weddellii
+243	genus	GCA_003255815.1	GCF_003255815.1	Theropithecus gelada	9565	Chromosome	Tgel_1.0	2018-06-19	2889614139	130230028	310061	Mammalia	Primates	Cercopithecidae	Theropithecus	Theropithecus gelada
+244	genus	GCA_049243985.1	GCF_049243985.1	Paroedura picta	143630	Chromosome	Ppicta_v3.0	2025-04-02	1751518920	129360563	52451795	Lepidosauria	Squamata	Gekkonidae	Paroedura	Paroedura picta
+245	genus	GCA_030254825.1	GCF_030254825.1	Meriones unguiculatus	10047	Chromosome	Bangor_MerUng_6.1	2023-06-12	2702201048	122584302	50173090	Mammalia	Rodentia	Muridae	Meriones	Meriones unguiculatus
+246	genus	GCA_002837175.5	GCF_002837175.3	Physeter macrocephalus	9755	Chromosome	ASM283717v5	2023-02-28	2496209109	122182240	42877	Mammalia	Artiodactyla	Physeteridae	Physeter	Physeter macrocephalus
+247	genus	GCA_029407905.2	GCF_029407905.1	Bubalus kerabau	3119969	Chromosome	PCC_UOA_SB_1v2	2023-03-31	2898492518	121846921	91172394	Mammalia	Artiodactyla	Bovidae	Bubalus	Bubalus kerabau
+248	genus	GCA_008632895.1	GCF_008632895.1	Mastomys coucha	35658	Chromosome	UCSF_Mcou_1	2019-09-24	2507168619	118621203	30483	Mammalia	Rodentia	Muridae	Mastomys	Mastomys coucha
+249	genus	GCA_032405125.2	GCF_032405125.1	Capricornis sumatraensis	34865	Chromosome	serow.2	2024-03-13	2828266837	112748084	100934918	Mammalia	Artiodactyla	Bovidae	Capricornis	Capricornis sumatraensis
+250	genus	GCA_023091745.2	GCF_023091745.1	Budorcas taxicolor	37181	Chromosome	Takin1.1	2022-04-22	2851638285	109747698	68053581	Mammalia	Artiodactyla	Bovidae	Budorcas	Budorcas taxicolor
+251	genus	GCA_056783735.1	GCF_056783735.1	Eptatretus burgeri	7764	Chromosome	Ebu_testis_v1	2026-04-16	1996277198	108837000	1450558	Myxini	Myxiniformes	Myxinidae	Eptatretus	Eptatretus burgeri
+252	genus	GCA_041146395.1	GCF_041146395.1	Eulemur rufifrons	859984	Chromosome	OSU_ERuf_1	2024-08-16	2415577446	100874195	89959899	Mammalia	Primates	Lemuridae	Eulemur	Eulemur rufifrons
+253	genus	GCA_047675955.1	GCF_047675955.1	Chlorocebus sabaeus	60711	Chromosome	mChlSab1.0.hap1	2025-02-12	3267373866	100816256	13913161	Mammalia	Primates	Cercopithecidae	Chlorocebus	Chlorocebus sabaeus
+254	genus	GCA_055000105.1	GCF_055000105.1	Myodes glareolus	447135	Chromosome	ASM5500010v1	2026-02-04	2231755126	98460877	31957	Mammalia	Rodentia	Cricetidae	Myodes	Myodes glareolus
+255	genus	GCA_047496795.1	GCF_047496795.1	Chiloscyllium punctatum	137246	Chromosome	sChiPun1.3	2025-02-07	5274411202	93668967	5342658	Chondrichthyes	Orectolobiformes	Hemiscylliidae	Chiloscyllium	Chiloscyllium punctatum
+256	genus	GCA_034236695.1	GCF_034236695.1	Oncorhynchus nerka	8023	Chromosome	Oner_Uvic_2.0	2024-01-08	2645619652	93356810	2842582	Actinopteri	Salmoniformes	Salmonidae	Oncorhynchus	Oncorhynchus nerka
+257	genus	GCA_965638725.1	GCF_965638725.1	Aptenodytes patagonicus	9234	Chromosome	bAptPat1.pri.cur	2025-07-09	1352580174	86569806	10636000	Aves	Sphenisciformes	Spheniscidae	Aptenodytes	Aptenodytes patagonicus
+258	genus	GCA_018139145.2	GCF_018139145.2	Gymnogyps californianus	33616	Chromosome	ASM1813914v2	2022-09-01	1240248578	85355094	17075888	Aves	Accipitriformes	Cathartidae	Gymnogyps	Gymnogyps californianus
+259	genus	GCA_035582795.1	GCF_035582795.1	Mycteria americana	33587	Chromosome	USCA_MyAme_1.0	2024-01-12	1348542611	80020930	36845572	Aves	Ciconiiformes	Ciconiidae	Mycteria	Mycteria americana
+260	genus	GCA_047495875.1	GCF_047495875.1	Pithys albifrons albifrons	3385563	Chromosome	PitAlb_v1	2025-02-07	1144301792	77071861	11992177	Aves	Passeriformes	Thamnophilidae	Pithys	Pithys albifrons
+261	genus	GCA_033978785.2	GCF_033978785.1	Entelurus aequoreus	161455	Chromosome	RoL_Eaeq_v1.1	2023-12-01	1892198045	75786231	2039131	Actinopteri	Syngnathiformes	Syngnathidae	Entelurus	Entelurus aequoreus
+262	genus	GCA_048564905.1	GCF_048564905.1	Vicugna pacos	30538	Chromosome	VicPac4	2025-03-12	2572244716	75404351	40278543	Mammalia	Artiodactyla	Camelidae	Vicugna	Vicugna pacos
+263	genus	GCA_031753505.1	GCF_031753505.1	Anomalospiza imberbis	187417	Chromosome	ASM3175350v1	2023-09-22	1198243876	72455167	12312023	Aves	Passeriformes	Viduidae	Anomalospiza	Anomalospiza imberbis
+264	genus	GCA_022539315.2	GCF_022539315.1	Serinus canaria	9135	Chromosome	serCan2020	2022-08-25	1050336073	72083177	12206373	Aves	Passeriformes	Fringillidae	Serinus	Serinus canaria
+265	genus	GCA_023065955.2	GCF_023065955.2	Ursus arctos	9644	Chromosome	UrsArc2.0	2023-05-22	2423401459	71981430	35674000	Mammalia	Carnivora	Ursidae	Ursus	Ursus arctos
+266	genus	GCA_001522545.3	GCF_001522545.3	Parus major	9157	Chromosome	Parus_major1.1	2019-01-15	1020293992	71365269	148693	Aves	Passeriformes	Paridae	Parus	Parus major
+267	genus	GCA_032191515.2	GCF_032191515.1	Phaenicophaeus curvirostris	33595	Chromosome	BPBGC_Pcur_1.0	2023-09-29	1315410253	70715910	17162444	Aves	Cuculiformes	Cuculidae	Phaenicophaeus	Phaenicophaeus curvirostris
+268	genus	GCA_037042795.1	GCF_037042795.1	Molothrus aeneus	84833	Chromosome	BPBGC_Maene_1.0	2024-03-07	1177171786	70606200	25845000	Aves	Passeriformes	Icteridae	Molothrus	Molothrus aeneus
+269	genus	GCA_905368555.5	GCF_905368555.1	Meleagris gallopavo	9103	Chromosome	MGAL_WU_HG_1.1	2024-04-25	1001645219	70339173	26554504	Aves	Galliformes	Phasianidae	Meleagris	Meleagris gallopavo
+270	genus	GCA_041296385.2	GCF_041296385.2	Aphelocoma coerulescens	39617	Chromosome	UR_Acoe_1.0	2024-10-21	1330898477	68049500	17285536	Aves	Passeriformes	Corvidae	Aphelocoma	Aphelocoma coerulescens
+271	genus	GCA_033978795.1	GCF_033978795.1	Nerophis ophidion	159077	Chromosome	RoL_Noph_v1.0	2023-12-01	1845757181	66953617	4791538	Actinopteri	Syngnathiformes	Syngnathidae	Nerophis	Nerophis ophidion
+272	genus	GCA_023699985.4	GCF_023699985.2	Odocoileus virginianus	9874	Chromosome	Ovbor_1.2	2024-10-17	2423246854	66396233	21769372	Mammalia	Artiodactyla	Cervidae	Odocoileus	Odocoileus virginianus
+273	genus	GCA_030265065.1	GCF_030265065.1	Corythoichthys intestinalis	161448	Chromosome	ASM3026506v1	2023-06-20	1326793283	59287289	56274649	Actinopteri	Syngnathiformes	Syngnathidae	Corythoichthys	Corythoichthys intestinalis
+274	genus	GCA_028641065.1	GCF_028641065.1	Leucoraja erinaceus	7782	Chromosome	Leri_hhj_1	2023-02-22	2190844947	57189699	5310386	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinaceus
+275	genus	GCA_054131305.1	GCF_054131305.1	Coturnix japonica	93934	Chromosome	WE-NBRP24	2025-12-22	1279647445	56593093	20383166	Aves	Galliformes	Phasianidae	Coturnix	Coturnix japonica
+276	genus	GCA_034702125.1	GCF_034702125.1	Engraulis encrasicolus	184585	Chromosome	IST_EnEncr_1.0	2023-12-28	1435183673	56351229	1448200	Actinopteri	Clupeiformes	Engraulidae	Engraulis	Engraulis encrasicolus
+277	genus	GCA_000146795.3	GCF_000146795.2	Nomascus leucogenys	61853	Chromosome	Nleu_3.0	2012-12-08	2962060179	52956880	35148	Mammalia	Primates	Hylobatidae	Nomascus	Nomascus leucogenys
+278	genus	GCA_049309525.1	GCF_049309525.1	Garra rufa	137080	Chromosome	GarRuf1.0	2025-04-05	1391285389	49275370	132089	Actinopteri	Cypriniformes	Cyprinidae	Garra	Garra rufa
+279	genus	GCA_033807715.1	GCF_033807715.1	Cololabis saira	129043	Chromosome	fColSai1.1	2023-11-22	1146345828	47710000	8087617	Actinopteri	Beloniformes	Belonidae	Cololabis	Cololabis saira
+280	genus	GCA_024679245.1	GCF_024679245.1	Pseudorasbora parva	51549	Chromosome	ASM2467924v1	2022-08-16	1228852188	47421265	4648668	Actinopteri	Cypriniformes	Gobionidae	Pseudorasbora	Pseudorasbora parva
+281	genus	GCA_025860055.1	GCF_025860055.1	Xyrauchen texanus	154827	Chromosome	RBS_HiC_50CHRs	2022-10-26	2186806939	43767000	5095822	Actinopteri	Cypriniformes	Catostomidae	Xyrauchen	Xyrauchen texanus
+282	genus	GCA_024489055.1	GCF_024489055.1	Chanodichthys erythropterus	933992	Chromosome	ASM2448905v1	2022-07-29	1085510300	42399299	23286394	Actinopteri	Cypriniformes	Xenocyprididae	Chanodichthys	Chanodichthys erythropterus
+283	genus	GCA_057381915.1	GCF_057381915.1	Diplotaxodon limnothrissa	163623	Chromosome	D_limnothrissa_male_GT1.1	2026-05-11	952596937	42286211	30352549	Actinopteri	Cichliformes	Cichlidae	Diplotaxodon	Diplotaxodon limnothrissa
+284	genus	GCA_018812025.1	GCF_018812025.1	Megalobrama amblycephala	75352	Chromosome	ASM1881202v1	2021-06-09	1109871993	42265598	2576066	Actinopteri	Cypriniformes	Xenocyprididae	Megalobrama	Megalobrama amblycephala
+285	genus	GCA_036321145.2	GCF_036321145.2	Pelmatolapia mariae	158779	Chromosome	Pm_UMD_F_2	2024-04-17	972201687	42111825	31656669	Actinopteri	Cichliformes	Cichlidae	Pelmatolapia	Pelmatolapia mariae
+286	genus	GCA_021347895.1	GCF_021347895.1	Acanthochromis polyacanthus	80966	Chromosome	KAUST_Apoly_ChrSc	2022-01-11	956771783	41709588	5524274	Actinopteri		Pomacentridae	Acanthochromis	Acanthochromis polyacanthus
+287	genus	GCA_027580225.2	GCF_027580225.2	Misgurnus anguillicaudatus	75329	Chromosome	ASM2758022v2	2024-11-13	1120296596	41472457	41472457	Actinopteri	Cypriniformes	Cobitidae	Misgurnus	Misgurnus anguillicaudatus
+288	genus	GCA_057382275.1	GCF_057382275.1	Copadichromis virginalis	163618	Chromosome	C_Virginalis_male_GT1.1	2026-05-11	946462903	41469095	27903807	Actinopteri	Cichliformes	Cichlidae	Copadichromis	Copadichromis virginalis
+289	genus	GCA_057382185.1	GCF_057382185.1	Mchenga conophoros	35575	Chromosome	M_conophoros_male_GT1.1	2026-05-11	961731750	41193130	26556730	Actinopteri	Cichliformes	Cichlidae	Mchenga	Mchenga conophoros
+290	genus	GCA_013358895.1	GCF_013358895.1	Oreochromis aureus	47969	Chromosome	ZZ_aureus	2020-06-19	1005558595	40723988	4182292	Actinopteri	Cichliformes	Cichlidae	Oreochromis	Oreochromis aureus
+291	genus	GCA_041146795.1	GCF_041146795.1	Maylandia zebra	106582	Chromosome	Mzebra_GT3a	2024-08-12	962175383	40684106	31124463	Actinopteri	Cichliformes	Cichlidae	Maylandia	Maylandia zebra
+292	genus	GCA_010015445.1	GCF_010015445.1	Perca fluviatilis	8168	Chromosome	GENO_Pfluv_1.0	2020-01-30	951345774	39550354	4197643	Actinopteri	Perciformes	Percidae	Perca	Perca fluviatilis
+293	genus	GCA_030273125.1	GCF_030273125.1	Centropristis striata	184440	Chromosome	C.striata_1.0	2023-06-20	926021963	39023748	9508883	Actinopteri	Perciformes	Serranidae	Centropristis	Centropristis striata
+294	genus	GCA_022985175.1	GCF_022985175.1	Labeo rohita	84645	Chromosome	IGBB_LRoh.1.0	2022-04-19	1126541939	37901974	1265157	Actinopteri	Cypriniformes	Cyprinidae	Labeo	Labeo rohita
+295	genus	GCA_051167445.1	GCF_051167445.1	Perissodus microlepis	32509	Chromosome	ASM5116744v1	2025-07-01	853313261	37724434	15136291	Actinopteri	Cichliformes	Cichlidae	Perissodus	Perissodus microlepis
+296	genus	GCA_963576455.2	GCF_963576455.1	Neolamprologus multifasciatus	420107	Chromosome	fNeoMul1.2	2024-07-23	858770123	37578393	6446225	Actinopteri	Cichliformes	Cichlidae	Neolamprologus	Neolamprologus multifasciatus
+297	genus	GCA_022539595.1	GCF_022539595.1	Amphiprion ocellaris	80972	Chromosome	ASM2253959v1	2022-03-10	863468154	36880113	812338	Actinopteri		Pomacentridae	Amphiprion	Amphiprion ocellaris
+298	genus	GCA_011077185.1	GCF_011077185.1	Oxyura jamaicensis	8884	Chromosome	BPBGC_Ojam_1.0	2020-03-10	1147585764	36145614	128592	Aves	Anseriformes	Anatidae	Oxyura	Oxyura jamaicensis
+299	genus	GCA_012432095.1	GCF_012432095.1	Onychostoma macrolepis	369639	Chromosome	ASM1243209v1	2020-04-17	886569841	34067727	10809623	Actinopteri	Cypriniformes	Cyprinidae	Onychostoma	Onychostoma macrolepis
+300	genus	GCA_008729295.2	GCF_008729295.1	Plectropomus leopardus	160734	Chromosome	YSFRI_Pleo_2.0	2020-05-27	895688574	33285428	897070	Actinopteri	Perciformes	Serranidae	Plectropomus	Plectropomus leopardus
+301	genus	GCA_027744805.2	GCF_027744805.1	Dunckerocampus dactyliophorus	161453	Chromosome	RoL_Ddac_1.1	2023-01-13	670648883	32514960	26519775	Actinopteri	Syngnathiformes	Syngnathidae	Dunckerocampus	Dunckerocampus dactyliophorus
+302	genus	GCA_003331165.2	GCF_003331165.1	Xiphophorus hellerii	8084	Chromosome	Xiphophorus_hellerii-4.1	2019-12-05	732889490	32404057	7084538	Actinopteri	Cyprinodontiformes	Poeciliidae	Xiphophorus	Xiphophorus hellerii
+303	genus	GCA_019802595.1	GCF_019802595.1	Syngnathoides biaculeatus	300417	Chromosome	ASM1980259v1	2021-09-09	636519225	31867959	18018000	Actinopteri	Syngnathiformes	Syngnathidae	Syngnathoides	Syngnathoides biaculeatus
+304	genus	GCA_024500385.1	GCF_024500385.1	Phyllopteryx taeniolatus	161469	Chromosome	UOR_Ptae_1.2	2022-08-03	652157009	31005324	9935855	Actinopteri	Syngnathiformes	Syngnathidae	Phyllopteryx	Phyllopteryx taeniolatus
+305	genus	GCA_008692095.1	GCF_008692095.1	Etheostoma spectabile	54343	Chromosome	UIUC_Espe_1.0	2019-10-07	854790067	30497795	26023	Actinopteri	Perciformes	Percidae	Etheostoma	Etheostoma spectabile
+306	genus	GCA_024500275.1	GCF_024500275.1	Phycodurus eques	693459	Chromosome	UOR_Pequ_1.1	2022-08-03	666479602	30018624	16851628	Actinopteri	Syngnathiformes	Syngnathidae	Phycodurus	Phycodurus eques
+307	genus	GCA_051991245.1	GCF_051991245.1	Festucalex cinctus	1073243	Chromosome	RoL_Fcin_1.0	2025-08-13	695194371	29998963	13295940	Actinopteri	Syngnathiformes	Syngnathidae	Festucalex	Festucalex cinctus
+308	genus	GCA_900700415.2	GCF_900700415.2	Clupea harengus	7950	Chromosome	Ch_v2.0.2	2019-04-16	786308905	29845739	1006413	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus
+309	genus	GCA_019740435.1	GCF_019740435.1	Gambusia affinis	33528	Chromosome	SWU_Gaff_1.0	2021-08-25	680149392	29761488	12906370	Actinopteri	Cyprinodontiformes	Poeciliidae	Gambusia	Gambusia affinis
+310	genus	GCA_051991255.1	GCF_051991255.1	Vanacampus margaritifer	642989	Chromosome	RoL_Vmar_1.0	2025-08-13	628116969	29533646	11851199	Actinopteri	Syngnathiformes	Syngnathidae	Vanacampus	Vanacampus margaritifer
+311	genus	GCA_022458985.1	GCF_022458985.1	Mugil cephalus	48193	Chromosome	CIBA_Mcephalus_1.1	2022-03-04	634849760	28326520	20153794	Actinopteri	Mugiliformes	Mugilidae	Mugil	Mugil cephalus
+312	genus	GCA_001649575.2	GCF_001649575.2	Kryptolebias marmoratus	37003	Chromosome	ASM164957v2	2020-11-16	680638340	28170849	57646	Actinopteri	Cyprinodontiformes	Rivulidae	Kryptolebias	Kryptolebias marmoratus
+313	genus	GCA_023856365.1	GCF_023856365.1	Brienomyrus brachyistius	42636	Chromosome	BBRACH_0.4	2022-06-28	988088817	27298164	4190077	Actinopteri	Osteoglossiformes	Mormyridae	Brienomyrus	Brienomyrus brachyistius
+314	genus	GCA_054856555.1	GCF_054856555.1	Leptonotus elevatus	1095086	Chromosome	RoL_Lele_1.0	2026-01-30	601228900	26430517	13419164	Actinopteri	Syngnathiformes	Syngnathidae	Leptonotus	Leptonotus elevatus
+315	genus	GCA_025434085.3	GCF_025434085.1	Hippocampus zosterae	109293	Chromosome	ASM2543408v3	2022-09-29	544504747	26043804	22513697	Actinopteri	Syngnathiformes	Syngnathidae	Hippocampus	Hippocampus zosterae
+316	genus	GCA_019097595.1	GCF_019097595.1	Hemibagrus wyckioides	337641	Chromosome	SWU_Hwy_1.0	2021-07-06	789799567	26010843	21700000	Actinopteri	Siluriformes	Bagridae	Hemibagrus	Hemibagrus wyckioides
+317	genus	GCA_054856515.1	GCF_054856515.1	Filicampus tigris	1914718	Chromosome	RoL_Ftig_1.0	2026-01-30	546169788	25983761	15855796	Actinopteri	Syngnathiformes	Syngnathidae	Filicampus	Filicampus tigris
+318	genus	GCA_018831695.1	GCF_018831695.1	Puntigrus tetrazona	1606681	Chromosome	ASM1883169v1	2021-06-10	730801986	25085836	1423374	Actinopteri	Cypriniformes	Cyprinidae	Puntigrus	Puntigrus tetrazona
+319	genus	GCA_037039965.2	GCF_037039965.1	Doryrhamphus excisus	161450	Chromosome	RoL_Dexc_Guam_v1.1	2024-03-07	497388357	22273047	19371520	Actinopteri	Syngnathiformes	Syngnathidae	Doryrhamphus	Doryrhamphus excisus
+320	genus	GCA_051989625.1	GCF_051989625.1	Stigmatopora argus	161581	Chromosome	RoL_Sarg_1.0	2025-08-13	464095202	19325392	15451032	Actinopteri	Syngnathiformes	Syngnathidae	Stigmatopora	Stigmatopora argus
+321	genus	GCA_015708825.1	GCF_015708825.2	Lethenteron reissneri	7753	Chromosome	ASM1570882v1	2020-12-01	1063012140	13487809	1412731	Hyperoartia	Petromyzontiformes	Petromyzontidae	Lethenteron	Lethenteron reissneri
+322	genus	GCA_000247815.2	GCF_000247815.1	Ficedula albicollis	59894	Chromosome	FicAlb1.5	2013-06-27	1118326800	6542656	410964	Aves	Passeriformes	Muscicapidae	Ficedula	Ficedula albicollis
+323	genus	GCA_000264685.2	GCF_000264685.3	Papio anubis	9555	Chromosome	Panu_3.0	2017-04-20	2959356508	585721	149817	Mammalia	Primates	Cercopithecidae	Papio	Papio anubis
+324	genus	GCA_056321495.1		Perameles gunnii	37737	Chromosome	mPerGun1.2_20251003	2026-03-25	3940119752	722434515	2668961	Mammalia	Peramelemorphia	Peramelidae	Perameles	Perameles gunnii
+325	genus	GCA_028564925.1		Lithobates sylvaticus	45438	Chromosome	aRanSyl1.merge	2023-02-09	5150352190	611110003	2498674	Amphibia	Anura	Ranidae	Lithobates	Lithobates sylvaticus
+326	genus	GCA_033119425.1		Bufotes viridis	30338	Chromosome	bufVir1	2023-11-02	3796774568	470251507	1872430	Amphibia	Anura	Bufonidae	Bufotes	Bufotes viridis
+327	genus	GCA_978041805.1		Epidalea calamita	30326	Chromosome	aEpiCal4.hap2.1	2026-01-23	3711998431	469163722	15944649	Amphibia	Anura	Bufonidae	Epidalea	Epidalea calamita
+328	genus	GCA_053478255.2		Pseudacris triseriata	194198	Chromosome	aPseTri1.hap1	2026-06-04	3997213475	441658312	5334973	Amphibia	Anura	Hylidae	Pseudacris	Pseudacris triseriata
+329	genus	GCA_028533205.1		Lagorchestes hirsutus	65632	Chromosome	Lagorchestes_hirsutus_HiC	2023-02-09	3381150672	401333761	57452	Mammalia	Diprotodontia	Macropodidae	Lagorchestes	Lagorchestes hirsutus
+330	genus	GCA_028627215.1		Macropus giganteus	9317	Chromosome	mg-2k	2023-02-16	3535619686	392871110	41690	Mammalia	Diprotodontia	Macropodidae	Macropus	Macropus giganteus
+331	genus	GCA_028646595.1		Phalanger gymnotis	65615	Chromosome	pg-2k	2023-02-16	3623972075	353051754	28067	Mammalia	Diprotodontia	Phalangeridae	Phalanger	Phalanger gymnotis
+332	genus	GCA_056747305.1		Megophrys chuannanensis	2249823	Chromosome	ASM5674730v1	2026-04-16	2923412787	341401303	15342086	Amphibia	Anura	Megophryidae	Megophrys	Megophrys chuannanensis
+333	genus	GCA_056363575.1		Boulenophrys sangzhiensis	3018543	Chromosome	Boulenophrys_sangzhiensis_v1.0	2026-03-27	2779238705	335289109	29959799	Amphibia	Anura	Megophryidae	Boulenophrys	Boulenophrys sangzhiensis
+334	genus	GCA_051307085.1		Carollia sowelli	208969	Chromosome	mCarSow1.hap1	2025-07-14	2517780189	330360365	63517445	Mammalia	Chiroptera	Phyllostomidae	Carollia	Carollia sowelli
+335	genus	GCA_055773955.1		Uta stansburiana	43653	Chromosome	UCM_Usta_1	2026-03-10	2104442790	319555984	59386596	Lepidosauria	Squamata	Phrynosomatidae	Uta	Uta stansburiana
+336	genus	GCA_964304595.1		Cricetus cricetus	10034	Chromosome	mCriCri2.1	2024-11-06	2520162027	305542590	47690202	Mammalia	Rodentia	Cricetidae	Cricetus	Cricetus cricetus
+337	genus	GCA_051529865.1		Iguana iguana	8517	Chromosome	UU_Iig_1.0	2025-07-24	2012731717	294494476	12742132	Lepidosauria	Squamata	Iguanidae	Iguana	Iguana iguana
+338	genus	GCA_019447015.1		Hymenochirus boettgeri	247094	Chromosome	UCB_Hboe_1.0	2021-08-05	3210867089	293320900	783846	Amphibia	Anura	Pipidae	Hymenochirus	Hymenochirus boettgeri
+339	genus	GCA_043643385.1		Chamaeleo calyptratus	179908	Chromosome	ASM4364338v1	2024-10-24	1803551824	278718720	14096519	Lepidosauria	Squamata	Chamaeleonidae	Chamaeleo	Chamaeleo calyptratus
+340	genus	GCA_020142125.1		Phrynosoma platyrhinos	52577	Chromosome	MUOH_PhPlat_1.1	2021-09-27	1901839624	273212747	12043	Lepidosauria	Squamata	Phrynosomatidae	Phrynosoma	Phrynosoma platyrhinos
+341	genus	GCA_040285375.1		Laudakia wui	1816318	Chromosome	ASM4028537v1	2024-06-25	1779364323	273178261	170066346	Lepidosauria	Squamata	Agamidae	Laudakia	Laudakia wui
+342	genus	GCA_056783515.1		Draco maculatus	89026	Chromosome	NNU_DrMac_1.0	2026-04-17	1728033920	255558225	7965079	Lepidosauria	Squamata	Agamidae	Draco	Draco maculatus
+343	genus	GCA_982266845.1		Sicista trizona	3370786	Chromosome	mSicTri.1	2026-03-14	2798460069	239863222	10039119	Mammalia	Rodentia	Dipodidae	Sicista	Sicista trizona
+344	genus	GCA_009733165.1		Naja naja	35670	Chromosome	Nana_v5	2019-12-11	1768535092	224088900	302474	Lepidosauria	Squamata	Elapidae	Naja	Naja naja
+345	genus	GCA_041722995.2		Acritoscincus duperreyi	316450	Chromosome	BASDU_1.0	2024-11-06	1567876677	222269761	90404876	Lepidosauria	Squamata	Scincidae	Acritoscincus	Acritoscincus duperreyi
+346	genus	GCA_056881965.1		Boiga irregularis	92519	Chromosome	Birr_Maternal_haplotype	2026-04-24	1654139717	221061561	45466635	Lepidosauria	Squamata	Colubridae	Boiga	Boiga irregularis
+347	genus	GCA_985780515.1		Hemorrhois hippocrepis	166086	Chromosome	rHemHip1.2_hap2	2026-07-02	1531310509	220572697	93867649	Lepidosauria	Squamata	Colubridae	Hemorrhois	Hemorrhois hippocrepis
+348	genus	GCA_965280105.1		Carinascincus ocellatus	316445	Chromosome	Cocellatus_unphased.v1	2025-05-11	1489081451	215845204	98374635	Lepidosauria	Squamata	Scincidae	Carinascincus	Carinascincus ocellatus
+349	genus	GCA_050231175.1		Elaphe schrenckii	74362	Chromosome	ASM5023117v1	2025-05-07	1685624254	215196393	57283861	Lepidosauria	Squamata	Colubridae	Elaphe	Elaphe schrenckii
+350	genus	GCA_965194845.1		Macrovipera schweizeri	110205	Chromosome	rMacScw1.hap1.1	2025-03-10	1635265452	214481692	3162383	Lepidosauria	Squamata	Viperidae	Macrovipera	Macrovipera schweizeri
+351	genus	GCA_046524025.1		Cerastes gasperettii	110202	Chromosome	ASM4652402v1	2025-01-06	1632725608	214149504	45697377	Lepidosauria	Squamata	Viperidae	Cerastes	Cerastes gasperettii
+352	genus	GCA_028646575.1		Pseudocheirus occidentalis	656515	Chromosome	Pseudocheirus_occidentalis_HiC	2023-02-16	3603728918	213462136	24464	Mammalia	Diprotodontia	Pseudocheiridae	Pseudocheirus	Pseudocheirus occidentalis
+353	genus	GCA_057657825.1		Tamiasciurus hudsonicus	10009	Chromosome	mTamHud3.hap1	2026-05-15	5720222450	213340194	94737435	Mammalia	Rodentia	Sciuridae	Tamiasciurus	Tamiasciurus hudsonicus
+354	genus	GCA_037575465.2		Pantherophis spiloides	648198	Chromosome	rPanSpi1_p1.2	2026-05-15	1889722296	211222599	66322725	Lepidosauria	Squamata	Colubridae	Pantherophis	Pantherophis spiloides
+355	genus	GCA_049901735.1		Notechis scutatus	8663	Chromosome	rNotScu1.2	2025-04-24	1533955903	211178498	9430810	Lepidosauria	Squamata	Elapidae	Notechis	Notechis scutatus
+356	genus	GCA_057127995.1		Euprepiophis mandarinus	74365	Chromosome	CDU_Eman_1	2026-04-30	1650598725	210147468	147544204	Lepidosauria	Squamata	Colubridae	Euprepiophis	Euprepiophis mandarinus
+357	genus	GCA_039797435.1		Crotalus adamanteus	8729	Chromosome	Cadamanteus_3dDNAHiC_1.2	2024-05-24	1696173748	208942360	67532859	Lepidosauria	Squamata	Viperidae	Crotalus	Crotalus adamanteus
+358	genus	GCA_056884295.1		Spondylurus fulgidus	1190650	Chromosome	ASM5688429v1	2026-04-24	1399654951	208939077	199952612	Lepidosauria	Squamata	Scincidae	Spondylurus	Spondylurus fulgidus
+359	genus	GCA_056883445.1		Mabuya desiradae	1806458	Chromosome	ASM5688344v1	2026-04-24	1399517780	208926435	199938396	Lepidosauria	Squamata	Scincidae	Mabuya	Mabuya desiradae
+360	genus	GCA_055824665.1		Bothrops insularis	8723	Chromosome	ASM5582466v1	2026-03-13	1565305688	206955912	14493272	Lepidosauria	Squamata	Viperidae	Bothrops	Bothrops insularis
+361	genus	GCA_039707465.1		Rhabdophis nuchalis	126483	Chromosome	ASM3970746v1	2024-05-20	1924646879	204956984	104787037	Lepidosauria	Squamata	Colubridae	Rhabdophis	Rhabdophis nuchalis
+362	genus	GCA_050613815.1		Pseudoxenodon stejnegeri	1938231	Chromosome	CDU_Pste_1	2025-05-29	1600572231	203681815	94324657	Lepidosauria	Squamata	Colubridae	Pseudoxenodon	Pseudoxenodon stejnegeri
+363	genus	GCA_049901715.1		Pseudonaja textilis	8673	Chromosome	rPseTex1.2	2025-04-24	1476081604	200959534	7104416	Lepidosauria	Squamata	Elapidae	Pseudonaja	Pseudonaja textilis
+364	genus	GCA_039880765.1		Sistrurus catenatus	8756	Chromosome	rSisCat1_p1.0	2024-05-29	1559830260	200181838	12532727	Lepidosauria	Squamata	Viperidae	Sistrurus	Sistrurus catenatus
+365	genus	GCA_055504975.1		Cryptoblepharus pulcher	1175177	Chromosome	crypul_v2024.1.fa	2026-02-24	1483019143	199759265	42892375	Lepidosauria	Squamata	Scincidae	Cryptoblepharus	Cryptoblepharus pulcher
+366	genus	GCA_040438115.1		Tragelaphus eurycerus isaaci	2878564	Chromosome	ASM4043811v1	2024-07-02	2965146561	192009155	79532	Mammalia	Artiodactyla	Bovidae	Tragelaphus	Tragelaphus eurycerus
+367	genus	GCA_055860955.1		Tylonycteris robustula	526822	Chromosome	ASM5586095v1	2026-03-13	1902213657	181107895	43459562	Mammalia	Chiroptera	Vespertilionidae	Tylonycteris	Tylonycteris robustula
+368	genus	GCA_050655445.1		Gardnerycteris keenani	2358194	Chromosome	mGarKee1.hap2	2025-06-02	2044903674	178810477	85586699	Mammalia	Chiroptera	Phyllostomidae	Gardnerycteris	Gardnerycteris keenani
+369	genus	GCA_059488705.1		Pusa saimensis	248495	Chromosome	mPhs449_Pusa_saimensis_1	2026-07-16	2353310941	176818425	51047862	Mammalia	Carnivora	Phocidae	Pusa	Pusa saimensis
+370	genus	GCA_056824585.1		Alepocephalus tenebrosus	170189	Chromosome	fAleTen1.hap1	2026-04-21	2099802557	176684729	731605	Actinopteri	Alepocephaliformes	Alepocephalidae	Alepocephalus	Alepocephalus tenebrosus
+371	genus	GCA_051307075.1		Lophostoma evote	3370176	Chromosome	mLopEvo1.hap1	2025-07-14	2427306059	175755209	53008647	Mammalia	Chiroptera	Phyllostomidae	Lophostoma	Lophostoma evote
+372	genus	GCA_025594165.1		Tamias sibiricus	64680	Chromosome	ASM2559416v1	2022-10-06	2643750606	172614981	9422552	Mammalia	Rodentia	Sciuridae	Tamias	Tamias sibiricus
+373	genus	GCA_038048745.1		Coluber constrictor foxii	3052055	Chromosome	rColCon1_p1.0	2024-04-17	1829127931	170815331	72486006	Lepidosauria	Squamata	Colubridae	Coluber	Coluber constrictor
+374	genus	GCA_023856395.1		Cricetiscus sungorus	3774379	Chromosome	Psun_UM_1.1	2022-06-29	2119204330	165747135	53079	Mammalia	Rodentia	Cricetidae	Cricetiscus	Cricetiscus sungorus
+375	genus	GCA_047372625.1		Hoolock leuconedys	593543	Chromosome	UCONN_HLeu1	2025-02-03	2760609521	159996863	79153354	Mammalia	Primates	Hylobatidae	Hoolock	Hoolock leuconedys
+376	genus	GCA_051107505.1		Platyrrhinus helleri	27658	Chromosome	mPlaHel1.hap1	2025-06-26	2322571649	159727393	49393690	Mammalia	Chiroptera	Phyllostomidae	Platyrrhinus	Platyrrhinus helleri
+377	genus	GCA_054855695.1		Sturnira parvidens	196700	Chromosome	mStuPar1.hap2	2026-01-30	2144027267	157872161	50527669	Mammalia	Chiroptera	Phyllostomidae	Sturnira	Sturnira parvidens
+378	genus	GCA_051107445.1		Pteromys volans	55152	Chromosome	Uoulu_pteVol_1.0	2025-06-26	2848323221	157387023	60698384	Mammalia	Rodentia	Sciuridae	Pteromys	Pteromys volans
+379	genus	GCA_976986665.1		Monachus monachus	248254	Chromosome	mMonMoa1.1	2025-11-08	2437305367	157001452	90875510	Mammalia	Carnivora	Phocidae	Monachus	Monachus monachus
+380	genus	GCA_051107595.1		Dermanura phaeotis	40229	Chromosome	mDerPha1.hap2	2025-06-26	2057243087	156917333	101513163	Mammalia	Chiroptera	Phyllostomidae	Dermanura	Dermanura phaeotis
+381	genus	GCA_051473905.1		Teratoscincus roborowskii	102174	Chromosome	ASM5147390v1	2025-07-22	2077087367	156212950	117383563	Lepidosauria	Squamata	Sphaerodactylidae	Teratoscincus	Teratoscincus roborowskii
+382	genus	GCA_058972505.1		Centurio senex	27644	Chromosome	mCenSen1.hap1	2026-07-06	2378470236	152395564	44369972	Mammalia	Chiroptera	Phyllostomidae	Centurio	Centurio senex
+383	genus	GCA_028564725.2		Otocolobus manul	61408	Chromosome	OtoMan_p1.0	2023-11-27	2487665568	151944179	118180270	Mammalia	Carnivora	Felidae	Otocolobus	Otocolobus manul
+384	genus	GCA_028749985.4		Puma concolor	9696	Chromosome	mPumCon1.1.hap1	2023-08-04	2501068434	149756039	42297498	Mammalia	Carnivora	Felidae	Puma	Puma concolor
+385	genus	GCA_030247045.1		Colobus guereza	33548	Chromosome	ASM3024704v1	2023-06-12	2976664877	149281349	15612012	Mammalia	Primates	Cercopithecidae	Colobus	Colobus guereza
+386	genus	GCA_026122505.1		Aldabrachelys gigantea	167804	Chromosome	AldGig_1.0	2022-11-15	2373354137	148569599	58656949		Testudines	Testudinidae	Aldabrachelys	Aldabrachelys gigantea
+387	genus	GCA_031835075.1		Saguinus oedipus	9490	Chromosome	ASM3183507v1	2023-09-25	3240181431	148490209	91852676	Mammalia	Primates	Cebidae	Saguinus	Saguinus oedipus
+388	genus	GCA_051107335.1		Micronycteris microtis	249008	Chromosome	mMicMic1.hap2	2025-06-26	2025303814	147818333	58593296	Mammalia	Chiroptera	Phyllostomidae	Micronycteris	Micronycteris microtis
+389	genus	GCA_056512435.1		Leptailurus serval	61405	Chromosome	TAMU_L.serval_SxD256_v1.0.pat	2026-04-01	2460116733	147503762	112248064	Mammalia	Carnivora	Felidae	Leptailurus	Leptailurus serval
+390	genus	GCA_036346955.1		Dipus sagitta	73863	Chromosome	IOZCAS_Dsag_1.1	2024-02-05	2816644003	147241050	28651707	Mammalia	Rodentia	Dipodidae	Dipus	Dipus sagitta
+391	genus	GCA_050000095.2		Indotestudo elongata	74920	Chromosome	rIndElo1.hap1	2025-08-19	2319568681	146925146	107311172		Testudines	Testudinidae	Indotestudo	Indotestudo elongata
+392	genus	GCA_037349215.2		Graptemys geographica	8481	Chromosome	rGraGeo1_p1.2	2025-07-18	2225172804	145729234	83656063		Testudines	Emydidae	Graptemys	Graptemys geographica
+393	genus	GCA_030015415.1		Cynopterus sphinx	9400	Chromosome	ASM3001541v1	2023-05-16	1857070059	145152962	84235024	Mammalia	Chiroptera	Pteropodidae	Cynopterus	Cynopterus sphinx
+394	genus	GCA_054824895.1		Leontopithecus rosalia	30588	Chromosome	mLeoRos1.hap1	2026-01-29	3095545363	144012852	54097536	Mammalia	Primates	Cebidae	Leontopithecus	Leontopithecus rosalia
+395	genus	GCA_023065765.1		Hexaprotodon liberiensis	56798	Chromosome	ASM2306576v1	2022-04-22	2374626208	142594368	20244513	Mammalia	Artiodactyla	Hippopotamidae	Hexaprotodon	Hexaprotodon liberiensis
+396	genus	GCA_047655245.1		Pygathrix nigripes	310352	Chromosome	ASM4765524v1	2025-02-11	2888895859	139486693	6073853	Mammalia	Primates	Cercopithecidae	Pygathrix	Pygathrix nigripes
+397	genus	GCA_054791105.1		Cyrtopodion scabrum	303590	Chromosome	ASM5479110v1	2026-01-27	1770821598	139132836	36232941	Lepidosauria	Squamata	Gekkonidae	Cyrtopodion	Cyrtopodion scabrum
+398	genus	GCA_051903775.2		Gekko kuhli	1118402	Chromosome	MPM_Gkuhli_v0.4	2025-12-19	2404302788	137554149	11372554	Lepidosauria	Squamata	Gekkonidae	Gekko	Gekko kuhli
+399	genus	GCA_000772465.1		Nasalis larvatus	43780	Chromosome	Charlie1.0	2014-11-10	3011966170	137426304	13295	Mammalia	Primates	Cercopithecidae	Nasalis	Nasalis larvatus
+400	genus	GCA_057927545.1		Babyrousa celebensis	1303000	Chromosome	mBabCel1.hap1	2026-06-03	2570872958	137228431	12822494	Mammalia	Artiodactyla	Suidae	Babyrousa	Babyrousa celebensis
+401	genus	GCA_977009205.1		Trionyx triunguis	101491	Chromosome	rTriTgu1.1	2025-10-19	2320326796	137054899	80362655		Testudines	Trionychidae	Trionyx	Trionyx triunguis
+402	genus	GCA_023653725.1		Bungarus multicinctus	8616	Chromosome	ASM2365372v1	2022-06-07	1593755901	135406522	5437538	Lepidosauria	Squamata	Elapidae	Bungarus	Bungarus multicinctus
+403	genus	GCA_058972195.1		Lasiurus ega	258928	Chromosome	mLasEga1.hap2	2026-07-06	2220747866	134580252	58727256	Mammalia	Chiroptera	Vespertilionidae	Lasiurus	Lasiurus ega
+404	genus	GCA_055691355.1		Apalone spinifera	55534	Chromosome	ASM5569135v1	2026-03-05	2322510297	133328498	79167384		Testudines	Trionychidae	Apalone	Apalone spinifera
+405	genus	GCA_037367245.1		Phrynocephalus guinanensis	740940	Chromosome	CIB_Pgui_1.0	2024-03-20	1813735221	132691761	2541092	Lepidosauria	Squamata	Agamidae	Phrynocephalus	Phrynocephalus guinanensis
+406	genus	GCA_019425775.1		Rafetus swinhoei	904230	Chromosome	ASM1942577v1	2021-07-30	2237949466	131976892	30963999		Testudines	Trionychidae	Rafetus	Rafetus swinhoei
+407	genus	GCA_021498465.1		Hylobates pileatus	9589	Chromosome	ASM2149846v1	2022-01-19	2851401333	131825309	17385161	Mammalia	Primates	Hylobatidae	Hylobates	Hylobates pileatus
+408	genus	GCA_052575445.1		Chitra chitra	171799	Chromosome	rChiChi1.pri	2025-09-12	2191255941	131477372	78634236		Testudines	Trionychidae	Chitra	Chitra chitra
+409	genus	GCA_054135685.1		Palea steindachneri	161718	Chromosome	ASM5413568v1	2025-12-23	2225109576	131416804	123794365		Testudines	Trionychidae	Palea	Palea steindachneri
+410	genus	GCA_040782865.1		Testudo graeca	86975	Chromosome	ASM4078286v1	2024-07-19	2321835411	130162285	133608		Testudines	Testudinidae	Testudo	Testudo graeca
+411	genus	GCA_949820135.1		Sylvilagus floridanus	9988	Chromosome	mSylFlo1.10	2023-04-19	2848420111	129271642	34907720	Mammalia	Lagomorpha	Leporidae	Sylvilagus	Sylvilagus floridanus
+412	genus	GCA_028533085.1		Varecia variegata	9455	Chromosome	Varecia_variegata_HiC	2023-02-10	2424021081	128811464	40155	Mammalia	Primates	Lemuridae	Varecia	Varecia variegata
+413	genus	GCA_028533875.1		Mungos mungo	210652	Chromosome	Mungos_mungo_HiC	2023-02-09	2494883117	128516143	60614	Mammalia	Carnivora	Herpestidae	Mungos	Mungos mungo
+414	genus	GCA_028644305.1		Xerus rutilus	226860	Chromosome	Xerus_rutilus_HiC	2023-02-16	2750758914	127260801	58140	Mammalia	Rodentia	Sciuridae	Xerus	Xerus rutilus
+415	genus	GCA_965212715.2		Crocidura gueldenstaedtii	458323	Chromosome	mCroZim1.2	2025-07-07	2571708824	127229103	28351139	Mammalia	Eulipotyphla	Soricidae	Crocidura	Crocidura suaveolens
+416	genus	GCA_028646355.1		Arctocephalus townsendi	161921	Chromosome	Arctocephalus_townsendi_HiC	2023-02-16	2372365934	127156334	61084	Mammalia	Carnivora	Otariidae	Arctocephalus	Arctocephalus townsendi
+417	genus	GCA_044509165.1		Taphozous melanopogon	187003	Chromosome	WHU_Tmel_v1	2024-11-06	2158216644	126147252	44022992	Mammalia	Chiroptera	Emballonuridae	Taphozous	Taphozous melanopogon
+418	genus	GCA_051821045.1		Otospermophilus beecheyi	34862	Chromosome	Obeecheyi_v1	2025-08-05	2269446536	124984502	418950	Mammalia	Rodentia	Sciuridae	Otospermophilus	Otospermophilus beecheyi
+419	genus	GCA_028533065.1		Trachops cirrhosus	148073	Chromosome	Trachops_cirrhosus_HiC	2023-02-09	2179537627	124458213	60077	Mammalia	Chiroptera	Phyllostomidae	Trachops	Trachops cirrhosus
+420	genus	GCA_026225855.1		Neophocaena sunameri	3370372	Chromosome	ASM2622585v1	2022-11-18	2497825093	122398165	84691504	Mammalia	Artiodactyla	Phocoenidae	Neophocaena	Neophocaena sunameri
+421	genus	GCA_054346155.1		Emydura subglobosa	251359	Chromosome	ASM5434615v1	2026-01-05	2002938025	122085354	99727220		Testudines	Chelidae	Emydura	Emydura subglobosa
+422	genus	GCA_028534135.1		Potos flavus	29067	Chromosome	Potos_flavus_HiC	2023-02-09	2465739417	121721779	65113	Mammalia	Carnivora	Procyonidae	Potos	Potos flavus
+423	genus	GCA_056363655.1		Pteropus rufus	196297	Chromosome	mPteRuf1.hap2	2026-03-27	2039567898	121140273	46699790	Mammalia	Chiroptera	Pteropodidae	Pteropus	Pteropus rufus
+424	genus	GCA_032595735.1		Pelochelys cantorii	171793	Chromosome	ASM3259573v1	2023-10-12	2161035712	120169148	41440143		Testudines	Trionychidae	Pelochelys	Pelochelys cantorii
+425	genus	GCA_028533885.1		Nasua narica	352831	Chromosome	Nasua_narica_HiC	2023-02-09	2610174539	119764535	64559	Mammalia	Carnivora	Procyonidae	Nasua	Nasua narica
+426	genus	GCA_047301775.1		Sigmodon hispidus	42415	Chromosome	ASM4730177v1	2025-01-30	2668580129	118707662	77390441	Mammalia	Rodentia	Cricetidae	Sigmodon	Sigmodon hispidus
+427	genus	GCA_049999965.1		Hydromedusa tectifera	61327	Chromosome	rHydTec1.pri	2025-04-29	1849762660	118569001	63372439		Testudines	Chelidae	Hydromedusa	Hydromedusa tectifera
+428	genus	GCA_054099735.1		Cephalophula zebra	129233	Chromosome	mCepZeb1.hap1	2025-12-18	3923865145	117253595	65811789	Mammalia	Artiodactyla	Bovidae	Cephalophula	Cephalophula zebra
+429	genus	GCA_056461545.1		Mesocricetus auratus	10036	Chromosome	ASM5646154v1	2026-03-31	2563976737	114594012	35650180	Mammalia	Rodentia	Cricetidae	Mesocricetus	Mesocricetus auratus
+430	genus	GCA_042257475.1		Asaccus caudivolvulus	886391	Chromosome	ASM4225747v1	2024-09-27	1733398839	114541579	19951807	Lepidosauria	Squamata	Phyllodactylidae	Asaccus	Asaccus caudivolvulus
+431	genus	GCA_058972175.1		Eumops nanus	1246553	Chromosome	mEumNan1.hap1	2026-07-06	2390813028	114501365	66316130	Mammalia	Chiroptera	Molossidae	Eumops	Eumops nanus
+432	genus	GCA_052054735.1		Dopasia gracilis	182351	Chromosome	ASM5205473v1	2025-08-15	1531532759	114217649	45730894	Lepidosauria	Squamata	Anguidae	Dopasia	Dopasia gracilis
+433	genus	GCA_051622155.1		Agapornis roseicollis	60468	Chromosome	AgRose1.0	2025-07-30	1159470847	113181011	59940031	Aves	Psittaciformes	Psittacidae	Agapornis	Agapornis roseicollis
+434	genus	GCA_044707075.1		Staurotypus triporcatus	55537	Chromosome	ASM4470707v1	2024-11-13	1751894025	111335768	16372		Testudines	Kinosternidae	Staurotypus	Staurotypus triporcatus
+435	genus	GCA_051427955.1		Peponocephala electra	103596	Chromosome	mPepEle1.hap2	2025-07-21	2318157464	110856110	67561491	Mammalia	Artiodactyla	Delphinidae	Peponocephala	Peponocephala electra
+436	genus	GCA_042919465.1		Scaptochirus moschatus	446353	Chromosome	ASM4291946v1	2024-10-15	2252983806	110510357	67659624	Mammalia	Eulipotyphla	Talpidae	Scaptochirus	Scaptochirus moschatus
+437	genus	GCA_037974335.1		Prionace glauca	7815	Chromosome	ASM3797433v1	2024-04-08	3227473548	109841703	5319141	Chondrichthyes	Carcharhiniformes	Carcharhinidae	Prionace	Prionace glauca
+438	genus	GCA_054644445.1		Neoeptesicus furinalis	3371123	Chromosome	mEptFur1.hap2	2026-01-22	2124553198	108415112	60856633	Mammalia	Chiroptera	Vespertilionidae	Neoeptesicus	Neoeptesicus furinalis
+439	genus	GCA_051143605.1		Eliomys quercinus	53277	Chromosome	HLeliQue1A	2025-06-30	2391831224	108114398	51740598	Mammalia	Rodentia	Gliridae	Eliomys	Eliomys quercinus
+440	genus	GCA_978019965.1		Muraena helena	46662	Chromosome	fMurHel1.1	2026-02-01	2057112079	107794592	55409183	Actinopteri	Anguilliformes	Muraenidae	Muraena	Muraena helena
+441	genus	GCA_054642835.1		Tremarctos ornatus	9638	Chromosome	mTreOrn2.0.pri	2026-01-21	2534844297	106594636	61126696	Mammalia	Carnivora	Ursidae	Tremarctos	Tremarctos ornatus
+442	genus	GCA_059578065.1		Sotalia fluviatilis	103598	Chromosome	Unicamp_Sflu_1.0	2026-07-22	2315531174	106206519	119645	Mammalia	Artiodactyla	Delphinidae	Sotalia	Sotalia fluviatilis
+443	genus	GCA_028551515.1		Pithecia pithecia	43777	Chromosome	Pithecia_pithecia_HiC	2023-02-09	3051940974	103980617	53327	Mammalia	Primates	Pitheciidae	Pithecia	Pithecia pithecia
+444	genus	GCA_035839065.1		Nipponia nippon	128390	Chromosome	ASM3583906v1	2024-01-18	1306321373	102769032	15945059	Aves	Pelecaniformes	Threskiornithidae	Nipponia	Nipponia nippon
+445	genus	GCA_024291935.2		Okapia johnstoni	86973	Chromosome	TBG_Okapi_asm_v1	2022-07-16	2387734228	102048473	61700678	Mammalia	Artiodactyla	Giraffidae	Okapia	Okapia johnstoni
+446	genus	GCA_054954225.1		Scaphiopus couchii	85089	Chromosome	aScaCou1.hap1	2026-01-30	1026693381	101869530	8562319	Amphibia	Anura	Pelobatidae	Scaphiopus	Scaphiopus couchii
+447	genus	GCA_028627145.1		Eidolon dupreanum	58063	Chromosome	Eidolon_dupreanum_HiC	2023-02-16	2294267257	101563129	109255	Mammalia	Chiroptera	Pteropodidae	Eidolon	Eidolon dupreanum
+448	genus	GCA_056153025.1		Threskiornis aethiopicus	100858	Chromosome	ASM5615302v1	2026-03-19	1214168801	101381103	10701647	Aves	Pelecaniformes	Threskiornithidae	Threskiornis	Threskiornis aethiopicus
+449	genus	GCA_965636955.1		Mediodactylus kotschyi	1303476	Chromosome	rMedKot1.hap1.1	2025-07-09	1798513081	101151094	47144669	Lepidosauria	Squamata	Gekkonidae	Mediodactylus	Mediodactylus kotschyi
+450	genus	GCA_963981305.1		Rupicapra rupicapra	34869	Chromosome	mRupRup1.1	2024-03-10	2622988171	100920001	77662214	Mammalia	Artiodactyla	Bovidae	Rupicapra	Rupicapra rupicapra
+451	genus	GCA_054824925.1		Ia io	360967	Chromosome	mIaxIox2.hap1	2026-01-29	2310617144	100437821	22958249	Mammalia	Chiroptera	Vespertilionidae	Ia	Ia io
+452	genus	GCA_028551445.1		Miopithecus talapoin	36231	Chromosome	Miopithecus_talapoin_HiC	2023-02-09	2969301606	99916881	76031	Mammalia	Primates	Cercopithecidae	Miopithecus	Miopithecus talapoin
+453	genus	GCA_028551405.1		Uromys caudimaculatus	36800	Chromosome	Uromys_caudimaculatus_HiC	2023-02-09	2615851634	99048585	49660	Mammalia	Rodentia	Muridae	Uromys	Uromys caudimaculatus
+454	genus	GCA_040802735.1		Opsanus beta	95145	Chromosome	UM_OBeta_2.1	2024-07-22	2151823914	98402768	40030226	Actinopteri	Batrachoidiformes	Batrachoididae	Opsanus	Opsanus beta
+455	genus	GCA_050000055.1		Neotoma floridana	42409	Chromosome	mNeoFlo1.hap1	2025-04-29	3228206949	95007747	28556977	Mammalia	Rodentia	Cricetidae	Neotoma	Neotoma floridana
+456	genus	GCA_045791835.1		Pavo cristatus	9049	Chromosome	ASM4579183v1	2024-12-06	1041763075	94977930	30501418	Aves	Galliformes	Phasianidae	Pavo	Pavo cristatus
+457	genus	GCA_028646385.1		Steno bredanensis	46167	Chromosome	Steno_bredanensis_HiC	2023-02-16	2331324105	94897118	59977	Mammalia	Artiodactyla	Delphinidae	Steno	Steno bredanensis
+458	genus	GCA_054824845.1		Rucervus eldii thamin	208364	Chromosome	mRucEld1.hap2	2026-01-29	2790332288	94146103	55287169	Mammalia	Artiodactyla	Cervidae	Rucervus	Rucervus eldii
+459	genus	GCA_057945955.1		Zapus hudsonius luteus	289492	Chromosome	mZapHud2.hap2	2026-06-04	2438912721	93746613	33122405	Mammalia	Rodentia	Dipodidae	Zapus	Zapus hudsonius
+460	genus	GCA_040182635.1		Pantholops hodgsonii	59538	Chromosome	NWIPB_Pahodg_1.0	2024-06-17	3139646730	92232156	84561976	Mammalia	Artiodactyla	Bovidae	Pantholops	Pantholops hodgsonii
+461	genus	GCA_044231825.1		Addax nasomaculatus	59515	Chromosome	ASM4423182v1	2024-11-04	2846199114	92211068	72849686	Mammalia	Artiodactyla	Bovidae	Addax	Addax nasomaculatus
+462	genus	GCA_056956815.1		Alexandromys fortis	100897	Chromosome	ASM5695681v1	2026-04-28	2277730362	91417832	76227475	Mammalia	Rodentia	Cricetidae	Alexandromys	Alexandromys fortis
+463	genus	GCA_049863035.1		Schizothorax curvilabiatus	2036785	Chromosome	ASM4986303v1	2025-04-23	2470877006	90920403	632754	Actinopteri	Cypriniformes	Cyprinidae	Schizothorax	Schizothorax curvilabiatus
+464	genus	GCA_057876635.1		Oligoryzomys nigripes	37017	Chromosome	mOliNig2.hap1	2026-06-03	2630952794	90490158	25325819	Mammalia	Rodentia	Cricetidae	Oligoryzomys	Oligoryzomys nigripes
+465	genus	GCA_976916555.1		Diplecogaster bimaculata	210029	Chromosome	fDipBim1.hap2.1	2025-10-04	2191042422	90439982	936806	Actinopteri	Blenniiformes	Gobiesocidae	Diplecogaster	Diplecogaster bimaculata
+466	genus	GCA_057930495.1		Myospalax psilurus	146129	Chromosome	Mpsi_1.0	2026-06-04	2992857120	89515757	20062305	Mammalia	Rodentia	Spalacidae	Myospalax	Myospalax psilurus
+467	genus	GCA_029941415.3		Delphinapterus leucas	9749	Chromosome	S_20_00693_Flye_assembly_V1.1	2024-04-10	2403585719	88022474	291510	Mammalia	Artiodactyla	Monodontidae	Delphinapterus	Delphinapterus leucas
+468	genus	GCA_054367945.1		Fontitrygon garouaensis	3355173	Chromosome	ASM5436794v1	2026-01-06	4164957080	87729678	16733971	Chondrichthyes	Myliobatiformes	Dasyatidae	Fontitrygon	Fontitrygon garouaensis
+469	genus	GCA_040207285.2		Clethrionomys rutilus	537920	Chromosome	mMyoRut1_p1.0	2025-02-12	2398514924	87441830	42196457	Mammalia	Rodentia	Cricetidae	Clethrionomys	Clethrionomys rutilus
+470	genus	GCA_965250365.1		Rallus aquaticus	54496	Chromosome	bRalAqu1.1	2025-04-20	1266648806	86795660	4112000	Aves	Gruiformes	Rallidae	Rallus	Rallus aquaticus
+471	genus	GCA_030142145.1		Somateria mollissima	76058	Chromosome	ASM3014214v1	2023-06-05	1105825584	85846784	106998	Aves	Anseriformes	Anatidae	Somateria	Somateria mollissima
+472	genus	GCA_053573735.1		Leucophaeus fuliginosus	328047	Chromosome	bLeucoFulig_1.0	2025-11-21	1311830680	85146451	42764735	Aves	Charadriiformes	Laridae	Leucophaeus	Leucophaeus fuliginosus
+473	genus	GCA_039700855.2		Vultur gryphus	8924	Chromosome	bVulGry1	2025-05-07	1190354707	84949164	21673	Aves	Accipitriformes	Cathartidae	Vultur	Vultur gryphus
+474	genus	GCA_056459225.1		Egretta eulophotes	458089	Chromosome	EgrEul1.0	2026-03-31	1243684996	84397422	84397422	Aves	Pelecaniformes	Ardeidae	Egretta	Egretta eulophotes
+475	genus	GCA_057816225.1		Butorides sundevalli	2767357	Chromosome	bButSun1.hap2	2026-06-01	1250983795	84229759	44193326	Aves	Pelecaniformes	Ardeidae	Butorides	Butorides sundevalli
+476	genus	GCA_053477275.1		Charadrius alexandrinus x Charadrius dealbatus	2697428	Chromosome	ASM5347727v1	2025-11-14	1205393496	84072220	23698919	Aves	Charadriiformes	Charadriidae	Charadrius	Charadrius alexandrinus x Charadrius dealbatus
+477	genus	GCA_047571435.1		Neodon fuscus	771787	Chromosome	SNNU_Nfu_v1	2025-02-10	2264304678	83801500	25369699	Mammalia	Rodentia	Cricetidae	Neodon	Neodon fuscus
+478	genus	GCA_053455625.1		Leucogeranus leucogeranus	3150944	Chromosome	sysu_Leleuc_2.0	2025-11-13	1311076771	83445140	21544053	Aves	Gruiformes	Gruidae	Leucogeranus	Leucogeranus leucogeranus
+479	genus	GCA_026413225.1		Otis tarda	73107	Chromosome	OTswu	2022-11-27	1198259872	82831862	40962436	Aves	Otidiformes	Otididae	Otis	Otis tarda
+480	genus	GCA_048319975.1		Cairina moschata	8855	Chromosome	ASM4831997v1	2025-03-04	1100132706	82343468	9791839	Aves	Anseriformes	Anatidae	Cairina	Cairina moschata
+481	genus	GCA_971803275.1		Cyanistes caeruleus	156563	Chromosome	bCyaCae1.hap1.1	2025-09-13	1220456237	82237909	3559555	Aves	Passeriformes	Paridae	Cyanistes	Cyanistes caeruleus
+482	genus	GCA_054883215.1		Axis porcinus	57737	Chromosome	mAxiPor1.hap1	2026-01-30	2765252981	81775362	54160790	Mammalia	Artiodactyla	Cervidae	Axis	Axis porcinus
+483	genus	GCA_055755675.1		Galeorhinus galeus	86063	Chromosome	sGalGal3.hap2.cur.20240206	2026-03-09	2685485351	80533134	2616942	Chondrichthyes	Carcharhiniformes	Triakidae	Galeorhinus	Galeorhinus galeus
+484	genus	GCA_965278175.1		Alopochen aegyptiaca	30382	Chromosome	bAloAeg2.hap1.1	2025-05-08	1272231060	79723726	4748427	Aves	Anseriformes	Anatidae	Alopochen	Alopochen aegyptiaca
+485	genus	GCA_054883635.1		Spatula clypeata	75838	Chromosome	SKLAFABB.AnasCly1.0	2026-01-30	1165814024	77553093	26869251	Aves	Anseriformes	Anatidae	Spatula	Spatula clypeata
+486	genus	GCA_971847395.1		Mergellus albellus	107026	Chromosome	bMerAlb1.hap1.1	2025-09-13	1298127596	77103717	2393000	Aves	Anseriformes	Anatidae	Mergellus	Mergellus albellus
+487	genus	GCA_057381115.1		Cecropis daurica	317158	Chromosome	CecDau	2026-05-11	1187448082	76989611	21243323	Aves	Passeriformes	Hirundinidae	Cecropis	Cecropis daurica
+488	genus	GCA_057375105.1		Marmaronetta angustirostris	75875	Chromosome	EBD_Mang_1.1	2026-05-11	1154600265	76950335	11150472	Aves	Anseriformes	Anatidae	Marmaronetta	Marmaronetta angustirostris
+489	genus	GCA_029718625.1		Synaphobranchus kaupii	118154	Chromosome	SKAU_1.1	2023-04-14	1503294022	76846976	519789	Actinopteri	Anguilliformes	Synaphobranchidae	Synaphobranchus	Synaphobranchus kaupii
+490	genus	GCA_965287075.1		Acrocephalus paludicola	68471	Chromosome	bAcrPal2.2	2025-06-07	1163426503	76810945	27615808	Aves	Passeriformes	Sylviidae	Acrocephalus	Acrocephalus paludicola
+491	genus	GCA_053567875.1		Mareca falcata	75844	Chromosome	SKLAFABB.AnasFal1.0	2025-11-18	1183678463	76775030	41080195	Aves	Anseriformes	Anatidae	Mareca	Mareca falcata
+492	genus	GCA_054883605.1		Sibirionetta formosa	56278	Chromosome	SKLAFABB.AnasFor1.0	2026-01-30	1154117424	76402273	36461813	Aves	Anseriformes	Anatidae	Sibirionetta	Sibirionetta formosa
+493	genus	GCA_965183895.1		Pyrrhula murina	928672	Chromosome	bPyrMur1.1	2025-03-04	1163867538	76036967	64819875	Aves	Passeriformes	Fringillidae	Pyrrhula	Pyrrhula murina
+494	genus	GCA_058774925.1		Ophthalmolebias constanciae	941694	Chromosome	fOphCon1.hap1	2026-07-02	1900758768	76004943	6721936	Actinopteri	Cyprinodontiformes	Rivulidae	Ophthalmolebias	Ophthalmolebias constanciae
+495	genus	GCA_017639245.1		Myiopsitta monachus	176066	Chromosome	MMon_1.0	2021-03-30	1168583304	75716676	22647286	Aves	Psittaciformes	Psittacidae	Myiopsitta	Myiopsitta monachus
+496	genus	GCA_965153185.1		Rangifer tarandus tarandus	86329	Chromosome	Rangifer_t_t_557	2026-01-07	2541193010	75600899	5978229	Mammalia	Artiodactyla	Cervidae	Rangifer	Rangifer tarandus
+497	genus	GCA_057814795.1		Myioborus ornatus	328440	Chromosome	bMyiOra2.hap2	2026-06-01	1194705315	74872145	39834624	Aves	Passeriformes	Parulidae	Myioborus	Myioborus ornatus
+498	genus	GCA_051294455.1		Myzomela tristrami	1786045	Chromosome	MyzoTris1.0.pri	2025-07-10	1257626521	74714370	29690660	Aves	Passeriformes	Meliphagidae	Myzomela	Myzomela tristrami
+499	genus	GCA_032357785.1		Periparus ater	156567	Chromosome	ASM3235778v1	2023-10-06	1124835199	74403770	9092038	Aves	Passeriformes	Paridae	Periparus	Periparus ater
+500	genus	GCA_055754725.1		Baeolophus bicolor	88114	Chromosome	bBaeBic1.hap1	2026-03-09	1222437453	74378943	6803303	Aves	Passeriformes	Paridae	Baeolophus	Baeolophus bicolor
+501	genus	GCA_055471825.1		Pterodroma phaeopygia	53680	Chromosome	bPteroPhaeo_1.0	2026-02-24	1346342813	74196310	46848837	Aves	Procellariiformes	Procellariidae	Pterodroma	Pterodroma phaeopygia
+502	genus	GCA_052056845.1		Sturnus vulgaris	9172	Chromosome	bStuVul1.hap2	2025-08-15	1098594187	74172147	20174914	Aves	Passeriformes	Sturnidae	Sturnus	Sturnus vulgaris
+503	genus	GCA_035221665.1		Okamejei kenojei	432798	Chromosome	ASM3522166v1	2024-01-12	2756528269	74022218	1743244	Chondrichthyes	Rajiformes	Rajidae	Okamejei	Okamejei kenojei
+504	genus	GCA_965649865.1		Coccothraustes coccothraustes	37609	Chromosome	bCocCoc1.h1	2025-07-31	1190889568	73935772	7278480	Aves	Passeriformes	Fringillidae	Coccothraustes	Coccothraustes coccothraustes
+505	genus	GCA_049639895.1		Pseudopodoces humilis	181119	Chromosome	ASM4963989v1	2025-04-15	1051101716	73139925	32246491	Aves	Passeriformes	Paridae	Pseudopodoces	Pseudopodoces humilis
+506	genus	GCA_054051235.1		Chalcostigma stanleyi	689208	Chromosome	bChaSta1.hap2	2025-12-17	1042267249	73105083	1579170	Aves	Apodiformes	Trochilidae	Chalcostigma	Chalcostigma stanleyi
+507	genus	GCA_032313775.1		Urocyon cinereoargenteus	55040	Chromosome	UCinereo1.0	2023-10-04	2658766243	72908786	59386518	Mammalia	Carnivora	Canidae	Urocyon	Urocyon cinereoargenteus
+508	genus	GCA_013398505.2		Rhegmatorhina hoffmannsi	468512	Chromosome	LSU_RhHo_2.0	2021-04-30	1066555733	72802098	24643	Aves	Passeriformes	Thamnophilidae	Rhegmatorhina	Rhegmatorhina hoffmannsi
+509	genus	GCA_053478225.1		Fukomys anselli	261002	Chromosome	DKFZ_Fans_1.0	2025-11-14	2274106617	72399386	21598940	Mammalia	Rodentia	Bathyergidae	Fukomys	Fukomys anselli
+510	genus	GCA_039654755.1		Calcarius lapponicus	135424	Chromosome	RI_Cla_1.0	2024-05-17	1154665796	72367164	1995792	Aves	Passeriformes	Fringillidae	Calcarius	Calcarius lapponicus
+511	genus	GCA_054372455.1		Selasphorus platycercus	240704	Chromosome	SelPlat_v1	2026-01-06	1009456933	72349162	27428828	Aves	Apodiformes	Trochilidae	Selasphorus	Selasphorus platycercus
+512	genus	GCA_015883425.2		Lamprotornis superbus	245042	Chromosome	CU_Lasu_v2	2022-03-24	1068005652	72276715	150307	Aves	Passeriformes	Sturnidae	Lamprotornis	Lamprotornis superbus
+513	genus	GCA_037305975.1		Chrysolophus pictus	9089	Chromosome	CPswu_hap2	2024-03-20	1061050268	72274759	37751291	Aves	Galliformes	Phasianidae	Chrysolophus	Chrysolophus pictus
+514	genus	GCA_054084135.1		Copsychus sechellarum	797021	Chromosome	bCopSec1.hap2	2025-12-18	1040605357	71944673	12529446	Aves	Passeriformes	Muscicapidae	Copsychus	Copsychus sechellarum
+515	genus	GCA_050947545.1		Emberiza aureola	433632	Chromosome	ASM5094754v1	2025-06-17	1020995869	71570192	122914	Aves	Passeriformes	Fringillidae	Emberiza	Emberiza aureola
+516	genus	GCA_001746935.2		Setophaga coronata coronata	1037456	Chromosome	mywa_2.1	2020-12-08	1022634526	71386623	43576	Aves	Passeriformes	Parulidae	Setophaga	Setophaga coronata
+517	genus	GCA_965287015.2		Turdus merula	9187	Chromosome	bTurMer3.2	2025-12-05	1105465534	71343807	32937796	Aves	Passeriformes	Turdidae	Turdus	Turdus merula
+518	genus	GCA_003829775.2		Junco hyemalis	40217	Chromosome	dark-eyed_junco_22Sep2020_assembly	2022-06-02	1031523570	71317294	75757	Aves	Passeriformes	Passerellidae	Junco	Junco hyemalis
+519	genus	GCA_054643165.1		Gymnodiptychus pachycheilus	263534	Chromosome	ASM5464316v1	2026-01-22	1820914815	70769773	5588585	Actinopteri	Cypriniformes	Cyprinidae	Gymnodiptychus	Gymnodiptychus pachycheilus
+520	genus	GCA_028658305.1		Pachyuromys duprasi	298894	Chromosome	Pachyuromys_duprasi_HiC	2023-02-17	2488923329	70283636	47672	Mammalia	Rodentia	Muridae	Pachyuromys	Pachyuromys duprasi
+521	genus	GCA_054948765.1		Scarus rubroviolaceus	247628	Chromosome	ASM5494876v1	2026-02-06	1669000860	70179926	24994706	Actinopteri	Labriformes	Labridae	Scarus	Scarus rubroviolaceus
+522	genus	GCA_056138905.1		Perisoreus canadensis canadensis	2898729	Chromosome	P.c.canadensis_TCAG-6290_v1.0	2026-03-18	1320604187	69064032	55774395	Aves	Passeriformes	Corvidae	Perisoreus	Perisoreus canadensis
+523	genus	GCA_057381485.1		Spinus tristis	54773	Chromosome	bSpiTri1.hap2	2026-05-11	1220750257	68826251	11306629	Aves	Passeriformes	Fringillidae	Spinus	Spinus tristis
+524	genus	GCA_057427935.1		Dumetella carolinensis	111981	Chromosome	bDumCar1.hap1	2026-05-11	1352081340	68734231	22443345	Aves	Passeriformes	Mimidae	Dumetella	Dumetella carolinensis
+525	genus	GCA_983203605.1		Dipturus intermedius	2814718	Chromosome	sDipInt39.hap2.1	2026-06-15	2945862003	68236349	1425342	Chondrichthyes	Rajiformes	Rajidae	Dipturus	Dipturus intermedius
+526	genus	GCA_023653735.1		Ceratotherium simum simum	73337	Chromosome	ASM2365373v1	2022-06-29	2870065268	67555069	50391373	Mammalia	Perissodactyla	Rhinocerotidae	Ceratotherium	Ceratotherium simum
+527	genus	GCA_019023105.1		Diglossa brunneiventris	547948	Chromosome	LSU_DiBr_2.0	2021-06-24	1079473785	67281049	7273401	Aves	Passeriformes	Thraupidae	Diglossa	Diglossa brunneiventris
+528	genus	GCA_055470965.1		Sayornis phoebe	56315	Chromosome	bSayPho3.hap1	2026-02-24	1175667572	64623597	18464113	Aves	Passeriformes	Tyrannidae	Sayornis	Sayornis phoebe
+529	genus	GCA_018697195.1		Certhia americana	186443	Chromosome	ASM1869719v1	2021-06-03	1113356413	64356598	143071	Aves	Passeriformes	Certhiidae	Certhia	Certhia americana
+530	genus	GCA_057534655.1		Poephila acuticauda hecki	344064	Chromosome	Pacu_hecki_V1	2026-05-15	1270031505	63147584	16129232	Aves	Passeriformes	Estrildidae	Poephila	Poephila acuticauda
+531	genus	GCA_034336685.1		Luscinia luscinia	391696	Chromosome	ASM3433668v1	2023-12-26	1102322600	62437632	18695389	Aves	Passeriformes	Turdidae	Luscinia	Luscinia luscinia
+532	genus	GCA_030408155.1		Lophura swinhoii	140446	Chromosome	ASM3040815v1	2023-07-05	1144026423	61385513	11027439	Aves	Galliformes	Phasianidae	Lophura	Lophura swinhoii
+533	genus	GCA_056776345.1		Spizella passerina	40210	Chromosome	bSpiPas1.hap2	2026-04-16	1191310482	60885017	5055426	Aves	Passeriformes	Passerellidae	Spizella	Spizella passerina
+534	genus	GCA_028533335.1		Chrysocyon brachyurus	68728	Chromosome	Chrysocyon_brachyurus_HiC	2023-02-09	2338097569	60785871	91425	Mammalia	Carnivora	Canidae	Chrysocyon	Chrysocyon brachyurus
+535	genus	GCA_028533245.1		Helarctos malayanus	9634	Chromosome	Helarctos_malayanus_HiC	2023-02-09	2486327345	59704986	73706	Mammalia	Carnivora	Ursidae	Helarctos	Helarctos malayanus
+536	genus	GCA_038087875.1		Malacoraja senta	1072478	Chromosome	sMalSen1_p1.0	2024-04-17	1943516005	58719002	150120	Chondrichthyes	Rajiformes	Rajidae	Malacoraja	Malacoraja senta
+537	genus	GCA_028534125.1		Lama glama	9844	Chromosome	Lama_glama_HiC	2023-02-09	2351761190	57409894	93318	Mammalia	Artiodactyla	Camelidae	Lama	Lama glama
+538	genus	GCA_028646465.1		Rhinoceros unicornis	9809	Chromosome	Rhinoceros_unicornis_HiC	2023-02-16	2631998212	56870999	105810	Mammalia	Perissodactyla	Rhinocerotidae	Rhinoceros	Rhinoceros unicornis
+539	genus	GCA_043380575.1		Atractosteus spatula	7917	Chromosome	ASPAv1	2024-10-21	1045212796	56827445	15716625	Actinopteri	Semionotiformes	Lepisosteidae	Atractosteus	Atractosteus spatula
+540	genus	GCA_986271405.1		Tringa totanus	171271	Chromosome	bTriTot1.hap1.1	2026-07-06	1311056040	56285534	3596000	Aves	Charadriiformes	Scolopacidae	Tringa	Tringa totanus
+541	genus	GCA_023566225.1		Romanogobio albipinnatus	260767	Chromosome	ASM2356622v1	2022-05-31	1428567521	55298942	12526464	Actinopteri	Cypriniformes	Gobionidae	Romanogobio	Romanogobio albipinnatus
+542	genus	GCA_039105355.1		Benthosema pterotum	1069390	Chromosome	ASM3910535v1	2024-05-09	1272444389	54490410	804747	Actinopteri	Myctophiformes	Myctophidae	Benthosema	Benthosema pterotum
+543	genus	GCA_977063065.1		Coryphopterus venezuelae	658148	Chromosome	fCorVen1.1	2025-11-15	1143939970	52110546	44879000	Actinopteri	Gobiiformes	Gobiidae	Coryphopterus	Coryphopterus venezuelae
+544	genus	GCA_058321375.1		Neopagetopsis ionah	70436	Chromosome	shou_Ni_1.0	2026-06-22	1275058972	51816233	7138998	Actinopteri	Perciformes	Channichthyidae	Neopagetopsis	Neopagetopsis ionah
+545	genus	GCA_041004005.1		Etroplus suratensis	238232	Chromosome	CIBA_Esura_1.1	2024-08-01	1247975007	51572587	33988944	Actinopteri	Cichliformes	Cichlidae	Etroplus	Etroplus suratensis
+546	genus	GCA_020466265.1		Siphamia tubifer	1536898	Chromosome	ASM2046626v1	2021-10-15	1200827456	51162488	2340513	Actinopteri	Kurtiformes	Apogonidae	Siphamia	Siphamia tubifer
+547	genus	GCA_028627265.1		Cercopithecus mitis	36225	Chromosome	Cercopithecus_mitis_HiC	2023-02-16	3104799808	51119100	28335	Mammalia	Primates	Cercopithecidae	Cercopithecus	Cercopithecus mitis
+548	genus	GCA_965212795.1		Bubo scandiacus	371907	Chromosome	bBubSca1.1.h1	2025-03-20	1604411253	50972959	16496251	Aves	Strigiformes	Strigidae	Bubo	Bubo scandiacus
+549	genus	GCA_030435695.1		Brachymystax lenok tsinlingensis	1115630	Chromosome	ASM3043569v1	2023-07-13	2031709341	50153284	25569929	Actinopteri	Salmoniformes	Salmonidae	Brachymystax	Brachymystax lenok
+550	genus	GCA_965278445.2		Lepadogaster candolii	2740763	Chromosome	fLepCan2.1	2025-07-09	1100930544	49201026	18941000	Actinopteri	Blenniiformes	Gobiesocidae	Lepadogaster	Lepadogaster candolii
+551	genus	GCA_964260595.1		Arctogadus glacialis	185735	Chromosome	arcglaasm	2024-09-06	633902253	49001811	193655	Actinopteri	Gadiformes	Gadidae	Arctogadus	Arctogadus glacialis
+552	genus	GCA_984577815.1		Gnatholepis thompsoni	151728	Chromosome	fGnaTho1.1	2026-06-17	1211060738	49001316	35102583	Actinopteri	Gobiiformes	Gobiidae	Gnatholepis	Gnatholepis thompsoni
+553	genus	GCA_030578255.1		Tiaroga cobitis	86932	Chromosome	ASM3057825v1	2023-08-08	1320521697	48679909	8259576	Actinopteri	Cypriniformes	Leuciscidae	Tiaroga	Tiaroga cobitis
+554	genus	GCA_056915255.1		Piaractus brachypomus	42529	Chromosome	YSFRI_Pbrachy_1	2026-04-27	1343059155	48285848	40609320	Actinopteri	Characiformes	Serrasalmidae	Piaractus	Piaractus brachypomus
+555	genus	GCA_023718395.1		Leucaspius delineatus	58323	Chromosome	ASM2371839v1	2022-06-22	1153514525	47578067	6550053	Actinopteri	Cypriniformes	Leuciscidae	Leucaspius	Leucaspius delineatus
+556	genus	GCA_049462935.1		Rhynchocypris lagowskii	219677	Chromosome	ASM4946293v1	2025-04-10	1216931847	47078771	37081975	Actinopteri	Cypriniformes	Leuciscidae	Rhynchocypris	Rhynchocypris lagowskii
+557	genus	GCA_023079485.1		Archilochus colubris	190676	Chromosome	ASM2307948v1	2022-04-22	1100570460	46260142	12033856	Aves	Apodiformes	Trochilidae	Archilochus	Archilochus colubris
+558	genus	GCA_054553165.1		Pithecophaga jefferyi	321089	Chromosome	bPithJefferyi_magi_1.0	2026-01-20	1248363504	45873556	45249999	Aves	Accipitriformes	Accipitridae	Pithecophaga	Pithecophaga jefferyi
+559	genus	GCA_978163275.1		Elacatinus chancei	203290	Chromosome	fElaCha1.1	2026-03-01	944308294	45871026	16946356	Actinopteri	Gobiiformes	Gobiidae	Elacatinus	Elacatinus chancei
+560	genus	GCA_036884735.1		Huso huso	61971	Chromosome	HHUS_1.1	2024-03-01	1942381910	45716562	3451085	Actinopteri	Acipenseriformes	Acipenseridae	Huso	Huso huso
+561	genus	GCA_051624305.1		Rhinogobius duospilus	293146	Chromosome	SHOU_Rhdu_1.0	2025-07-30	1031614774	45552923	7215541	Actinopteri	Gobiiformes	Gobiidae	Rhinogobius	Rhinogobius duospilus
+562	genus	GCA_056633435.1		Schizopygopsis younghusbandi	263521	Chromosome	ASM5663343v1	2026-04-08	890743471	45033994	15724261	Actinopteri	Cypriniformes	Cyprinidae	Schizopygopsis	Schizopygopsis younghusbandi
+563	genus	GCA_982768625.1		Chromogobius zebratus	596122	Chromosome	fChrZer1.1	2026-06-15	1157856703	44593100	39076000	Actinopteri	Gobiiformes	Gobiidae	Chromogobius	Chromogobius zebratus
+564	genus	GCA_059441175.1		Urocampus carinirostris	129916	Chromosome	RoL_Ucar_1.0	2026-07-15	927718082	44585380	32130639	Actinopteri	Syngnathiformes	Syngnathidae	Urocampus	Urocampus carinirostris
+565	genus	GCA_978019815.1		Accipiter nisus	211598	Chromosome	bAccNis1.hap2.1	2026-01-14	1231573886	44399815	4375068	Aves	Accipitriformes	Accipitridae	Accipiter	Accipiter nisus
+566	genus	GCA_036324595.1		Champsocephalus gunnari	52237	Chromosome	JC_Cgun_ftc_fv8	2024-02-01	994201109	44089792	3182242	Actinopteri	Perciformes	Channichthyidae	Champsocephalus	Champsocephalus gunnari
+567	genus	GCA_015227895.2		Colaptes auratus	51355	Chromosome	Caur_TTU_1.0	2021-12-06	1378187165	43947546	826960	Aves	Piciformes	Picidae	Colaptes	Colaptes auratus
+568	genus	GCA_019925165.1		Cromileptes altivelis	304459	Chromosome	OUC_Cal_1.0	2021-09-14	1083008411	43784314	5160563	Actinopteri	Perciformes	Serranidae	Cromileptes	Cromileptes altivelis
+569	genus	GCA_978264465.1		Scorpaenodes tredecimspinosus	1182848	Chromosome	fScoTre1.1	2026-03-01	1049540187	43648526	33526000	Actinopteri	Perciformes	Scorpaenidae	Scorpaenodes	Scorpaenodes tredecimspinosus
+570	genus	GCA_040182925.1		Culter alburnus	194366	Chromosome	ASM4018292v1	2024-06-17	1052771736	43094527	32920630	Actinopteri	Cypriniformes	Xenocyprididae	Culter	Culter alburnus
+571	genus	GCA_051861665.1		Acnodon oligacanthus	446776	Chromosome	AOLI_1.1	2025-08-07	1234233490	43081358	1229584	Actinopteri	Characiformes	Serrasalmidae	Acnodon	Acnodon oligacanthus
+572	genus	GCA_977019275.1		Ocyurus chrysurus	40499	Chromosome	fOcyChr1.1	2025-11-08	1030874922	43064661	16904131	Actinopteri	Lutjaniformes	Lutjanidae	Ocyurus	Ocyurus chrysurus
+573	genus	GCA_964034765.1		Knipowitschia caucasica	637954	Chromosome	kcau_genome_v1	2024-05-04	956577028	43016011	1165360	Actinopteri	Gobiiformes	Gobiidae	Knipowitschia	Knipowitschia caucasica
+574	genus	GCA_054729235.1		Decorus decorus	3363558	Chromosome	ASM5472923v1	2026-01-26	1124511677	42948092	41110183	Actinopteri	Cypriniformes	Cyprinidae	Decorus	Decorus decorus
+575	genus	GCA_041296075.1		Ptychidio jordani	369663	Chromosome	ASM4129607v1	2024-08-15	1138133423	42906297	20049598	Actinopteri	Cypriniformes	Cyprinidae	Ptychidio	Ptychidio jordani
+576	genus	GCA_050495845.1		Metynnis hypsauchen	138550	Chromosome	MHYP_1.1	2025-05-20	1312587230	42774560	1966309	Actinopteri	Characiformes	Serrasalmidae	Metynnis	Metynnis hypsauchen
+577	genus	GCA_057930315.1		Chimaera phantasma	134990	Chromosome	sChiPha1.1	2026-06-04	1009572152	42720957	10169112	Chondrichthyes	Chimaeriformes	Chimaeridae	Chimaera	Chimaera phantasma
+578	genus	GCA_030522415.1		Channallabes apus	103215	Chromosome	ASM3052241v1	2023-07-26	1164854870	42717981	8077467	Actinopteri	Siluriformes	Clariidae	Channallabes	Channallabes apus
+579	genus	GCA_023376895.1		Aspiorhynchus laticeps	748366	Chromosome	ASM2337689v1	2022-05-17	1583238279	42708391	611818	Actinopteri	Cypriniformes	Cyprinidae	Aspiorhynchus	Aspiorhynchus laticeps
+580	genus	GCA_034769755.1		Odontamblyopus lacepedii	714202	Chromosome	ASM3476975v1	2023-12-29	963284094	42702054	12122453	Actinopteri	Gobiiformes	Gobiidae	Odontamblyopus	Odontamblyopus lacepedii
+581	genus	GCA_044885175.1		Pagothenia borchgrevinki	8213	Chromosome	PborFfbFv9	2024-11-13	935120776	42668771	1806733	Actinopteri	Perciformes	Nototheniidae	Pagothenia	Pagothenia borchgrevinki
+582	genus	GCA_054643365.1		Coreius heterodon	171525	Chromosome	ASM5464336v1	2026-01-22	1074211558	42603200	39138404	Actinopteri	Cypriniformes	Gobionidae	Coreius	Coreius heterodon
+583	genus	GCA_046056395.1		Mugilogobius chulae	88201	Chromosome	ASM4605639v1	2024-12-17	1003362100	42457289	701221	Actinopteri	Gobiiformes	Gobiidae	Mugilogobius	Mugilogobius chulae
+584	genus	GCA_028534165.1		Coendou prehensilis	187985	Chromosome	Coendou_prehensilis_HiC	2023-02-09	2849765846	42412415	32746	Mammalia	Rodentia	Erethizontidae	Coendou	Coendou prehensilis
+585	genus	GCA_023029165.1		Gobiocypris rarus	143606	Chromosome	ASM2302916v1	2022-04-18	1134099513	42384560	11968494	Actinopteri	Cypriniformes	Gobionidae	Gobiocypris	Gobiocypris rarus
+586	genus	GCA_982529875.1		Corcyrogobius liechtensteini	1365678	Chromosome	fCorLie1.1	2026-04-25	999105156	42357318	31911770	Actinopteri	Gobiiformes	Gobiidae	Corcyrogobius	Corcyrogobius liechtensteini
+587	genus	GCA_056507825.1		Sarotherodon melanotheron	50613	Chromosome	ASM5650782v1	2026-04-01	996949110	42042471	42042471	Actinopteri	Cichliformes	Cichlidae	Sarotherodon	Sarotherodon melanotheron
+588	genus	GCA_977120785.1		Alphestes afer	246622	Chromosome	fAlpAfe1.1	2026-02-01	1004062499	41810864	40355020	Actinopteri	Perciformes	Serranidae	Alphestes	Alphestes afer
+589	genus	GCA_041765585.1		Ptychocheilus lucius	232998	Chromosome	USFWS_Pluc_1.0	2024-09-06	1100610714	41794964	12963953	Actinopteri	Cypriniformes	Leuciscidae	Ptychocheilus	Ptychocheilus lucius
+590	genus	GCA_036326025.1		Chrosomus eos	42663	Chromosome	ASM3632602v1	2024-02-05	1270618293	41634777	1736634	Actinopteri	Cypriniformes	Leuciscidae	Chrosomus	Chrosomus eos
+591	genus	GCA_054883305.1		Haplochromis burtoni	8153	Chromosome	fHapBur2.hap1	2026-01-30	907017206	41410517	9972013	Actinopteri	Cichliformes	Cichlidae	Haplochromis	Haplochromis burtoni
+592	genus	GCA_041380415.1		Rhomboplites aurorubens	40507	Chromosome	vsnapper_v1	2024-08-21	986797840	41283358	41283358	Actinopteri	Lutjaniformes	Lutjanidae	Rhomboplites	Rhomboplites aurorubens
+593	genus	GCA_056506745.1		Steatocranus casuarius	64557	Chromosome	UMD_StcaMale	2026-04-01	984269383	41107187	22501894	Actinopteri	Cichliformes	Cichlidae	Steatocranus	Steatocranus casuarius
+594	genus	GCA_051861685.1		Serrasalmus rhombeus	138556	Chromosome	SRHO_1.1	2025-08-07	1214304129	41070013	793185	Actinopteri	Characiformes	Serrasalmidae	Serrasalmus	Serrasalmus rhombeus
+595	genus	GCA_965366085.1		Thorogobius ephippiatus	1365585	Chromosome	fThoEph1.1	2025-07-07	1018328219	40862349	22779384	Actinopteri	Gobiiformes	Gobiidae	Thorogobius	Thorogobius ephippiatus
+596	genus	GCA_057750445.1		Coptodon zillii	8130	Chromosome	SHOU_CoZill	2026-05-26	996396411	40485567	23543249	Actinopteri	Cichliformes	Cichlidae	Coptodon	Coptodon zillii
+597	genus	GCA_964211915.2		Apogon imberbis	357811	Chromosome	fApoImb1.1	2024-11-15	819116059	40310727	40310727	Actinopteri	Kurtiformes	Apogonidae	Apogon	Apogon imberbis
+598	genus	GCA_048182625.1		Xenocypris davidi	291826	Chromosome	ASM4818262v1	2025-02-28	1048234399	40131624	31018029	Actinopteri	Cypriniformes	Xenocyprididae	Xenocypris	Xenocypris davidi
+599	genus	GCA_022828995.1		Vimba vimba	155067	Chromosome	ASM2282899v1	2022-04-08	1054310786	40102238	7031647	Actinopteri	Cypriniformes	Leuciscidae	Vimba	Vimba vimba
+600	genus	GCA_040144785.1		Plagiognathops microlepis	70548	Chromosome	ASM4014478v1	2024-06-13	1004343520	39984115	38802614	Actinopteri	Cypriniformes	Xenocyprididae	Plagiognathops	Plagiognathops microlepis
+601	genus	GCA_033026305.1		Cirrhinus molitorella	172907	Chromosome	C_molitorella v1.0	2023-10-25	1033411071	39863030	33095397	Actinopteri	Cypriniformes	Cyprinidae	Cirrhinus	Cirrhinus molitorella
+602	genus	GCA_047663975.1		Labeotropheus trewavasae	120210	Chromosome	ASM4766397v1	2025-02-12	929610880	39702102	37729116	Actinopteri	Cichliformes	Cichlidae	Labeotropheus	Labeotropheus trewavasae
+603	genus	GCA_051833735.1		Thymallus grubii	201378	Chromosome	ASM5183373v1	2025-08-05	1754492578	39653670	3000448	Actinopteri	Salmoniformes	Salmonidae	Thymallus	Thymallus grubii
+604	genus	GCA_977110895.1		Pterois volitans	185886	Chromosome	fPteVol1.1	2025-12-06	908168411	39614986	35254685	Actinopteri	Perciformes	Scorpaenidae	Pterois	Pterois volitans
+605	genus	GCA_040182825.1		Sinibrama wui	2202366	Chromosome	SW_HiC	2024-06-14	1028973183	39564191	34421206	Actinopteri	Cypriniformes	Xenocyprididae	Sinibrama	Sinibrama wui
+606	genus	GCA_020698575.1		Bostrychus sinensis	86224	Chromosome	ASM2069857v1	2021-11-02	885739387	39188678	28280916	Actinopteri	Gobiiformes	Eleotridae	Bostrychus	Bostrychus sinensis
+607	genus	GCA_033816785.1		Picus viridis	100825	Chromosome	MNHN_PicVir_1.0	2023-11-22	1244783828	39164214	19899906	Aves	Piciformes	Picidae	Picus	Picus viridis
+608	genus	GCA_056551205.1		Pseudocrenilabrus nicholsi	277995	Chromosome	UMD_PsniFemale	2026-04-01	897743444	39050539	35559642	Actinopteri	Cichliformes	Cichlidae	Pseudocrenilabrus	Pseudocrenilabrus nicholsi
+609	genus	GCA_021464625.1		Proterorhinus semilunaris	322563	Chromosome	fProSem1.pri.20201207	2022-01-18	864621867	39007679	7924916	Actinopteri	Gobiiformes	Gobiidae	Proterorhinus	Proterorhinus semilunaris
+610	genus	GCA_040437555.1		Petenia splendida	96998	Chromosome	P_splendida v1.0	2024-07-02	923534345	38806050	31459000	Actinopteri	Cichliformes	Cichlidae	Petenia	Petenia splendida
+611	genus	GCA_018749465.1		Paracanthobrama guichenoti	291819	Chromosome	ASM1874946v1	2021-06-08	1087742959	38753313	1965784	Actinopteri	Cypriniformes	Gobionidae	Paracanthobrama	Paracanthobrama guichenoti
+612	genus	GCA_964188515.1		Alburnus alburnus	54556	Chromosome	fAlbAlb.hap1	2024-06-23	1005398986	38752591	7572294	Actinopteri	Cypriniformes	Leuciscidae	Alburnus	Alburnus alburnus
+613	genus	GCA_965542115.1		Apletodon dentatus	206117	Chromosome	fAplDen1.1	2025-07-02	863938661	38704038	20711000	Actinopteri	Blenniiformes	Gobiesocidae	Apletodon	Apletodon dentatus
+614	genus	GCA_964187705.1		Anaecypris hispanica	71183	Chromosome	fAnaHis.hap1	2024-06-18	983020590	38642748	4199513	Actinopteri	Cypriniformes	Leuciscidae	Anaecypris	Anaecypris hispanica
+615	genus	GCA_056151255.1		Hyporhamphus gernaerti	3356299	Chromosome	ASM5615125v1	2026-03-19	851016002	38491780	36142428	Actinopteri	Beloniformes	Hemiramphidae	Hyporhamphus	Hyporhamphus gernaerti
+616	genus	GCA_984582935.1		Chromis chromis	91607	Chromosome	fChrCho1.1	2026-06-20	896761206	38460672	36313548	Actinopteri		Pomacentridae	Chromis	Chromis chromis
+617	genus	GCA_023631565.1		Gymnocephalus cernua	57865	Chromosome	fGymCer.pri	2022-06-02	904342373	38241521	10943015	Actinopteri	Perciformes	Percidae	Gymnocephalus	Gymnocephalus cernua
+618	genus	GCA_040437545.1		Parachromis managuensis	172535	Chromosome	ASM4043754v1	2024-07-02	896662747	38189600	5144572	Actinopteri	Cichliformes	Cichlidae	Parachromis	Parachromis managuensis
+619	genus	GCA_964274065.2		Tropheops sp. 'mauve'	286600	Chromosome	TroMau2.2	2025-03-28	912725380	38071527	8390905	Actinopteri	Cichliformes	Cichlidae	Tropheops	Tropheops sp. 'mauve'
+620	genus	GCA_965240525.2		Gobiusculus flavescens	257540	Chromosome	fGobFla1.2	2025-04-16	836680774	37920148	17987913	Actinopteri	Gobiiformes	Gobiidae	Gobiusculus	Gobiusculus flavescens
+621	genus	GCA_056152105.1		Julidochromis regani	8125	Chromosome	ASM5615210v1	2026-03-19	840061012	37724479	33550442	Actinopteri	Cichliformes	Cichlidae	Julidochromis	Julidochromis regani
+622	genus	GCA_046865685.1		Distoechodon macrophthalmus	3128908	Chromosome	ASM4686568v1	2025-01-22	1007648314	37680446	35622143	Actinopteri	Cypriniformes	Xenocyprididae	Distoechodon	Distoechodon macrophthalmus
+623	genus	GCA_058970085.1		Chuanchia labiosa	279401	Chromosome	ASM5897008v1	2026-07-06	1800532837	37582881	27521252	Actinopteri	Cypriniformes	Cyprinidae	Chuanchia	Chuanchia labiosa
+624	genus	GCA_023566125.1		Zingel zingel	210855	Chromosome	ASM2356612v1	2022-05-31	919352573	37573842	10133874	Actinopteri	Perciformes	Percidae	Zingel	Zingel zingel
+625	genus	GCA_965276375.1		Pomatoschistus minutus	13225	Chromosome	fPomMin1.1	2025-05-02	861159696	37552910	14259656	Actinopteri	Gobiiformes	Gobiidae	Pomatoschistus	Pomatoschistus minutus
+626	genus	GCA_054730315.1		Sinocyclocheilus bicornutus	307966	Chromosome	ASM5473031v1	2026-01-26	1879715179	37410970	32150597	Actinopteri	Cypriniformes	Cyprinidae	Sinocyclocheilus	Sinocyclocheilus bicornutus
+627	genus	GCA_965642325.1		Zeugopterus regius	2821464	Chromosome	fZeuReg1.1	2025-07-19	476573367	37332450	17349238	Actinopteri	Pleuronectiformes	Scophthalmidae	Zeugopterus	Zeugopterus regius
+628	genus	GCA_056135345.1		Acrossocheilus yunnanensis	75336	Chromosome	ASM5613534v1	2026-03-16	1017540737	37230296	22203992	Actinopteri	Cypriniformes	Cyprinidae	Acrossocheilus	Acrossocheilus yunnanensis
+629	genus	GCA_054668685.1		Myoxocephalus scorpius	8097	Chromosome	fMyoSco1.hap1	2026-01-23	726355411	37154042	2948135	Actinopteri	Perciformes	Cottidae	Myoxocephalus	Myoxocephalus scorpius
+630	genus	GCA_013435755.1		Amphilophus citrinellus	61819	Chromosome	ASM1343575v1	2020-07-23	961214450	37146573	3839513	Actinopteri	Cichliformes	Cichlidae	Amphilophus	Amphilophus citrinellus
+631	genus	GCA_027564155.1		Gymnocypris eckloni scoliostomus	334712	Chromosome	ASM2756415v1	2023-01-09	948071110	37113662	2001950	Actinopteri	Cypriniformes	Cyprinidae	Gymnocypris	Gymnocypris eckloni
+632	genus	GCA_977964395.1		Halichoeres radiatus	241299	Chromosome	fHalRad1.1	2026-01-24	818503451	37043606	22272120	Actinopteri	Labriformes	Labridae	Halichoeres	Halichoeres radiatus
+633	genus	GCA_979666705.1		Pagellus bogaraveo	98819	Chromosome	fPagBog1.1	2026-02-27	849831186	37007821	21485361	Actinopteri	Spariformes	Sparidae	Pagellus	Pagellus bogaraveo
+634	genus	GCA_050613475.1		Tropheus sp. 'black'	1818577	Chromosome	ASM5061347v1	2025-05-29	937226949	36570103	31892113	Actinopteri	Cichliformes	Cichlidae	Tropheus	Tropheus sp. 'black'
+635	genus	GCA_058218925.1		Tremeuchiloglanis macrotrema	3363774	Chromosome	ASM5821892v1	2026-06-16	859457008	36488533	36488533	Actinopteri	Siluriformes	Sisoridae	Tremeuchiloglanis	Tremeuchiloglanis macrotrema
+636	genus	GCA_984577685.1		Masticbarbus longipinnis	1776112	Chromosome	AL_hap1	2026-05-29	920403595	36448031	33493907	Actinopteri	Cypriniformes	Cyprinidae	Masticbarbus	Masticbarbus longipinnis
+637	genus	GCA_052054765.1		Micropoecilia bifurca	69812	Chromosome	ASM5205476v1	2025-08-15	826001986	36348759	2999482	Actinopteri	Cyprinodontiformes	Poeciliidae	Micropoecilia	Micropoecilia bifurca
+638	genus	GCA_059335335.1		Crenicichla tuca	2058468	Chromosome	CTuc_CBFH00195	2026-07-13	839728961	36299731	36299731	Actinopteri	Cichliformes	Cichlidae	Crenicichla	Crenicichla tuca
+639	genus	GCA_049864055.1		Mylopharyngodon piceus	75356	Chromosome	ASM4986405v1	2025-04-23	893890919	36188041	13245704	Actinopteri	Cypriniformes	Xenocyprididae	Mylopharyngodon	Mylopharyngodon piceus
+640	genus	GCA_031216635.1		Dissostichus eleginoides	100907	Chromosome	KU_De_1.0	2023-09-08	844744120	36024567	4228958	Actinopteri	Perciformes	Nototheniidae	Dissostichus	Dissostichus eleginoides
+641	genus	GCA_004119915.2		Collichthys lucidus	240159	Chromosome	ASM411991v2	2019-01-30	877615421	35919243	1098566	Actinopteri		Sciaenidae	Collichthys	Collichthys lucidus
+642	genus	GCA_059582865.1		Paralabrax maculatofasciatus	147646	Chromosome	CSULA_Pmac_1.0	2026-07-23	845970305	35661180	32018029	Actinopteri	Perciformes	Serranidae	Paralabrax	Paralabrax maculatofasciatus
+643	genus	GCA_046118805.1		Squaliobarbus curriculus	75372	Chromosome	ASM4611880v1	2024-12-17	910277320	35616712	34697585	Actinopteri	Cypriniformes	Xenocyprididae	Squaliobarbus	Squaliobarbus curriculus
+644	genus	GCA_977090075.1		Rhinesomus triqueter	1182262	Chromosome	fRhiTri1.1	2025-12-07	846516348	35473571	25761061	Actinopteri	Tetraodontiformes	Ostraciidae	Rhinesomus	Rhinesomus triqueter
+645	genus	GCA_047652445.1		Symphysodon aequifasciata	74133	Chromosome	Shou_Sae_1.0	2025-02-11	884462546	35364073	5299849	Actinopteri	Cichliformes	Cichlidae	Symphysodon	Symphysodon aequifasciata
+646	genus	GCA_057929085.1		Spinibarbus hollandi	172906	Chromosome	SYSU_Shol_1.0	2026-06-04	1771078405	35349664	28729800	Actinopteri	Cypriniformes	Cyprinidae	Spinibarbus	Spinibarbus hollandi
+647	genus	GCA_047495795.1		Ochetobius elongatus	143615	Chromosome	ASM4749579v1	2025-02-07	882845929	35246345	24420890	Actinopteri	Cypriniformes	Xenocyprididae	Ochetobius	Ochetobius elongatus
+648	genus	GCA_978021955.1		Diplodus vulgaris	87756	Chromosome	fDipVul1.1	2026-02-01	825863445	35011911	27800000	Actinopteri	Spariformes	Sparidae	Diplodus	Diplodus vulgaris
+649	genus	GCA_040805835.1		Chromidotilapia guntheri	762751	Chromosome	ASM4080583v1	2024-07-22	866651555	34972419	33939210	Actinopteri	Cichliformes	Cichlidae	Chromidotilapia	Chromidotilapia guntheri
+650	genus	GCA_024666655.1		Dascyllus trimaculatus	50790	Chromosome	DTR_v1.0	2022-08-16	910763285	34909338	1014029	Actinopteri		Pomacentridae	Dascyllus	Dascyllus trimaculatus
+651	genus	GCA_980441695.1		Coris julis	126330	Chromosome	fCorJul1.1	2026-02-23	777325141	34860759	27439000	Actinopteri	Labriformes	Labridae	Coris	Coris julis
+652	genus	GCA_059334725.1		Labropsis xanthonota	3053019	Chromosome	ASM5933472v1	2026-07-13	763472342	34844517	33991980	Actinopteri	Labriformes	Labridae	Labropsis	Labropsis xanthonota
+653	genus	GCA_058450925.1		Sebastiscus marmoratus	41446	Chromosome	ASM5845092v1	2026-06-26	810035071	34844453	34844453	Actinopteri	Perciformes	Sebastidae	Sebastiscus	Sebastiscus marmoratus
+654	genus	GCA_030578275.1		Meda fulgida	67549	Chromosome	ASM3057827v1	2023-08-08	882111708	34805954	21275988	Actinopteri	Cypriniformes	Leuciscidae	Meda	Meda fulgida
+655	genus	GCA_054084025.1		Thalassoma bifasciatum	76338	Chromosome	fThaBif1.hap1	2025-12-17	785143609	34718116	23038093	Actinopteri	Labriformes	Labridae	Thalassoma	Thalassoma bifasciatum
+656	genus	GCA_965243705.1		Spondyliosoma cantharus	50595	Chromosome	fSpoCan1.1	2025-04-16	794851385	34487660	26522000	Actinopteri	Spariformes	Sparidae	Spondyliosoma	Spondyliosoma cantharus
+657	genus	GCA_037950665.1		Hypophthalmichthys nobilis	7965	Chromosome	Hypophthalmichthys_nobilis_1.0	2024-04-04	863920326	34471165	31487454	Actinopteri	Cypriniformes	Xenocyprididae	Hypophthalmichthys	Hypophthalmichthys nobilis
+658	genus	GCA_962446985.1		Xyrichtys novacula	13765	Chromosome	fXyrNov1.1	2023-08-19	775535542	34328652	21535717	Actinopteri	Labriformes	Labridae	Xyrichtys	Xyrichtys novacula
+659	genus	GCA_059056285.1		Diptychus maculatus	263537	Chromosome	ASM5905628v1	2026-07-07	1805712569	34253935	2837525	Actinopteri	Cypriniformes	Cyprinidae	Diptychus	Diptychus maculatus
+660	genus	GCA_982586725.1		Parablennius zvonimiri	152550	Chromosome	fParZvo1.1	2026-04-27	791958031	34205391	30559291	Actinopteri	Blenniiformes	Blenniidae	Parablennius	Parablennius zvonimiri
+661	genus	GCA_054855095.1		Pterocryptis cochinchinensis	175796	Chromosome	ASM5485509v1	2026-01-30	860652185	34187570	34187570	Actinopteri	Siluriformes	Siluridae	Pterocryptis	Pterocryptis cochinchinensis
+662	genus	GCA_029959045.1		Taenioides sp. WSHXM2023	3041818	Chromosome	Taenioides_sp.chr.v1	2023-05-10	773284556	34184133	19050754	Actinopteri	Gobiiformes	Gobiidae	Taenioides	Taenioides sp. WSHXM2023
+663	genus	GCA_965358205.2		Ctenolabrus rupestris	171735	Chromosome	fCteRup1.2	2025-07-03	767174250	34173648	9703000	Actinopteri	Labriformes	Labridae	Ctenolabrus	Ctenolabrus rupestris
+664	genus	GCA_976944445.1		Scolopax rusticola	100826	Chromosome	bScoRus1.hap1.1	2025-10-05	1232635287	34162297	5888542	Aves	Charadriiformes	Scolopacidae	Scolopax	Scolopax rusticola
+665	genus	GCA_977014485.1		Astrapogon puncticulatus	588211	Chromosome	fAstPun1.1	2025-11-07	770631369	34106620	21736283	Actinopteri	Kurtiformes	Apogonidae	Astrapogon	Astrapogon puncticulatus
+666	genus	GCA_977007045.1		Sarpa salpa	87759	Chromosome	fSarSal1.1	2025-11-07	782223876	34095251	29016000	Actinopteri	Spariformes	Sparidae	Sarpa	Sarpa salpa
+667	genus	GCA_047275855.1		Rhabdosargus sarba	182642	Chromosome	CIBA_Rsar_1.1	2025-01-31	764592746	33989030	30587856	Actinopteri	Spariformes	Sparidae	Rhabdosargus	Rhabdosargus sarba
+668	genus	GCA_056882195.1		Tor sinensis	369631	Chromosome	ASM5688219v1	2026-04-24	868168867	33864830	32803902	Actinopteri	Cypriniformes	Cyprinidae	Tor	Tor sinensis
+669	genus	GCA_029490765.1		Euthynnus affinis	8227	Chromosome	ASM2949076v1	2023-04-06	785417969	33806689	11935974	Actinopteri	Scombriformes	Scombridae	Euthynnus	Euthynnus affinis
+670	genus	GCA_024416835.2		Perccottus glenii	284583	Chromosome	ASM2441683v2	2023-04-06	760890035	33774371	4646325	Actinopteri	Gobiiformes	Odontobutidae	Perccottus	Perccottus glenii
+671	genus	GCA_037101425.1		Elopichthys bambusa	238031	Chromosome	HZAU_Ebam_v1	2024-03-19	827696973	33649237	9879208	Actinopteri	Cypriniformes	Xenocyprididae	Elopichthys	Elopichthys bambusa
+672	genus	GCA_030710495.1		Labroides dimidiatus	241309	Chromosome	ASM3071049v1	2023-08-21	726358536	33588937	9709478	Actinopteri	Labriformes	Labridae	Labroides	Labroides dimidiatus
+673	genus	GCA_056747575.1		Coreoperca whiteheadi	228250	Chromosome	C_whiteheadi v1.0	2026-04-16	787169336	33572811	24257655	Actinopteri	Centrarchiformes	Sinipercidae	Coreoperca	Coreoperca whiteheadi
+674	genus	GCA_046865715.1		Pseudaspius leptocephalus	263870	Chromosome	ASM4686571v1	2025-01-22	888878217	33555130	10879549	Actinopteri	Cypriniformes	Leuciscidae	Pseudaspius	Pseudaspius leptocephalus
+675	genus	GCA_023974075.1		Chaenocephalus aceratus	36190	Chromosome	KU_Ca_2.0	2022-06-29	1065596499	33456537	1500626	Actinopteri	Perciformes	Channichthyidae	Chaenocephalus	Chaenocephalus aceratus
+676	genus	GCA_977929305.1		Abudefduf saxatilis	50731	Chromosome	fAbuSax1.1	2026-01-23	793674614	33453840	21421956	Actinopteri		Pomacentridae	Abudefduf	Abudefduf saxatilis
+677	genus	GCA_977007615.1		Trachinus draco	56737	Chromosome	fTraDra6.1	2025-11-07	817366767	33434452	28153903	Actinopteri	Perciformes	Trachinidae	Trachinus	Trachinus draco
+678	genus	GCA_038088235.1		Zacco platypus	80810	Chromosome	ASM3808823v1	2024-04-17	838470222	33346874	31873553	Actinopteri	Cypriniformes	Xenocyprididae	Zacco	Zacco platypus
+679	genus	GCA_048932625.1		Chimarrichthys kishinouyei	2202370	Chromosome	YLab_EK_001	2025-03-25	886737479	33245349	33245349	Actinopteri	Siluriformes	Sisoridae	Chimarrichthys	Chimarrichthys kishinouyei
+680	genus	GCA_049638765.1		Procypris rabaudi	367866	Chromosome	ASM4963876v1	2025-04-15	1640872362	33126299	32358099	Actinopteri	Cypriniformes	Cyprinidae	Procypris	Procypris rabaudi
+681	genus	GCA_964304605.1		Lymnocryptes minimus	107379	Chromosome	bLymMin2.1	2024-11-06	1186472583	33033172	22004483	Aves	Charadriiformes	Scolopacidae	Lymnocryptes	Lymnocryptes minimus
+682	genus	GCA_981148845.1		Helicolenus dactylopterus	202727	Chromosome	fHelDac2.1	2026-02-28	811362676	33022138	18565825	Actinopteri	Perciformes	Sebastidae	Helicolenus	Helicolenus dactylopterus
+683	genus	GCA_058219125.1		Candidia barbata	160765	Chromosome	ASNTU_Cbar_v2	2026-06-16	829684112	32960059	2080488	Actinopteri	Cypriniformes	Xenocyprididae	Candidia	Candidia barbata
+684	genus	GCA_038419695.1		Scomberomorus guttatus	99343	Chromosome	ASM3841969v1	2024-04-23	797665432	32882740	8837785	Actinopteri	Scombriformes	Scombridae	Scomberomorus	Scomberomorus guttatus
+685	genus	GCA_057128585.1		Andinoacara rivulatus	242820	Chromosome	ASM5712858v1	2026-04-30	774398846	32800331	27155797	Actinopteri	Cichliformes	Cichlidae	Andinoacara	Andinoacara rivulatus
+686	genus	GCA_030544235.1		Lepturacanthus savala	435161	Chromosome	ASM3054423v1	2023-08-08	790034468	32774443	19013249	Actinopteri	Scombriformes	Trichiuridae	Lepturacanthus	Lepturacanthus savala
+687	genus	GCA_034552555.1		Semaprochilodus insignis	642563	Chromosome	ASM3455255v1	2023-12-26	1178126082	32752913	43157	Actinopteri	Characiformes	Prochilodontidae	Semaprochilodus	Semaprochilodus insignis
+688	genus	GCA_041053085.1		Katsuwonus pelamis	8226	Chromosome	ASM4105308v1	2024-08-05	827877945	32733951	11187421	Actinopteri	Scombriformes	Scombridae	Katsuwonus	Katsuwonus pelamis
+689	genus	GCA_018136845.1		Heterotis niloticus	91721	Chromosome	ASM1813684v1	2021-04-26	670838590	32427226	4571806	Actinopteri	Osteoglossiformes	Osteoglossidae	Heterotis	Heterotis niloticus
+690	genus	GCA_030347295.1		Setipinna tenuifilis	762045	Chromosome	S_ten_1.0	2023-06-27	798382266	32420182	1427689	Actinopteri	Clupeiformes	Engraulidae	Setipinna	Setipinna tenuifilis
+691	genus	GCA_030347415.2		Decapterus maruadsi	58220	Chromosome	ASM3034741v2	2023-10-17	723776290	32347610	13623203	Actinopteri	Carangiformes	Carangidae	Decapterus	Decapterus maruadsi
+692	genus	GCA_054083465.1		Evynnis cardinalis	497151	Chromosome	ASM5408346v1	2025-12-18	736275687	32325500	6926118	Actinopteri	Spariformes	Sparidae	Evynnis	Evynnis cardinalis
+693	genus	GCA_012411365.1		Ameiurus melas	219545	Chromosome	AMELA_1.0	2020-04-16	868496679	32284220	7408031	Actinopteri	Siluriformes	Ictaluridae	Ameiurus	Ameiurus melas
+694	genus	GCA_057127705.1		Glyptosternon maculatum	175778	Chromosome	Gmac_hap2_SWU	2026-04-30	753681543	32128793	4086373	Actinopteri	Siluriformes	Sisoridae	Glyptosternon	Glyptosternon maculatum
+695	genus	GCA_965229965.1		Coryphoblennius galerita	152538	Chromosome	fCorGal2.1	2025-03-28	775328364	32081767	3971000	Actinopteri	Blenniiformes	Blenniidae	Coryphoblennius	Coryphoblennius galerita
+696	genus	GCA_043647535.1		Salaria pavo	152553	Chromosome	SPavo_v1.1	2024-10-23	735961425	31867360	3694337	Actinopteri	Blenniiformes	Blenniidae	Salaria	Salaria pavo
+697	genus	GCA_039737535.1		Lagodon rhomboides	50351	Chromosome	Lrho_1.0	2024-05-22	785333011	31415645	3525568	Actinopteri	Spariformes	Sparidae	Lagodon	Lagodon rhomboides
+698	genus	GCA_977118025.1		Serranus scriba	349661	Chromosome	fSerScr1.1	2026-02-01	924801193	31366288	27104000	Actinopteri	Perciformes	Serranidae	Serranus	Serranus scriba
+699	genus	GCA_049639485.1		Barbodes semifasciolatus	319323	Chromosome	ASM4963948v1	2025-04-15	779095936	30708761	26458349	Actinopteri	Cypriniformes	Cyprinidae	Barbodes	Barbodes semifasciolatus
+700	genus	GCA_965653945.1		Gymnammodytes semisquamatus	1306753	Chromosome	fGymSem1.1	2025-08-03	723381486	30679050	21555529	Actinopteri	Uranoscopiformes	Ammodytidae	Gymnammodytes	Gymnammodytes semisquamatus
+701	genus	GCA_058139655.1		Cleisthenes herzensteini	244449	Chromosome	ASM5813965v1	2026-06-10	677106277	30460782	30460782	Actinopteri	Pleuronectiformes	Pleuronectidae	Cleisthenes	Cleisthenes herzensteini
+702	genus	GCA_040802145.1		Argyrosomus japonicus	448029	Chromosome	ASM4080214v1	2024-07-22	708395350	30221712	30221712	Actinopteri		Sciaenidae	Argyrosomus	Argyrosomus japonicus
+703	genus	GCA_984755515.1		Olisthops cyanomelas	1605466	Chromosome	Olisthops cyanomelas_haplotype_2_assembly	2026-06-08	682342290	30062741	15372785	Actinopteri	Labriformes	Odacidae	Olisthops	Olisthops cyanomelas
+704	genus	GCA_978836905.1		Holocentrus rufus	722565	Chromosome	fHolRuf1.1	2026-02-15	727563597	30057555	28785680	Actinopteri	Holocentriformes	Holocentridae	Holocentrus	Holocentrus rufus
+705	genus	GCA_054948935.1		Bahaba taipingensis	912804	Chromosome	YSFRI_Bta_1.1	2026-02-06	686864734	30022115	30022115	Actinopteri		Sciaenidae	Bahaba	Bahaba taipingensis
+706	genus	GCA_033000465.1		Sciaenops ocellatus	76340	Chromosome	ASM3300046v1	2023-10-24	690607662	29804843	26771095	Actinopteri		Sciaenidae	Sciaenops	Sciaenops ocellatus
+707	genus	GCA_028031935.1		Paedocypris micromegethes	1093616	Chromosome	ASM2803193v1	2023-01-31	421346737	29801667	63146	Actinopteri	Cypriniformes		Paedocypris	Paedocypris micromegethes
+708	genus	GCA_054073175.1		Macropharyngodon meleagris	241319	Chromosome	ASM5407317v1	2025-12-17	666397480	29785295	20571900	Actinopteri	Labriformes	Labridae	Macropharyngodon	Macropharyngodon meleagris
+709	genus	GCA_054883355.1		Osteoglossum ferreirai	55109	Chromosome	ASM5488335v1	2026-01-30	750223182	29614000	29614000	Actinopteri	Osteoglossiformes	Osteoglossidae	Osteoglossum	Osteoglossum ferreirai
+710	genus	GCA_982586985.1		Callionymus lyra	34785	Chromosome	fCalLyr1.hap1.1	2026-04-27	654427887	29613820	19142023	Actinopteri	Syngnathiformes	Callionymidae	Callionymus	Callionymus lyra
+711	genus	GCA_977009785.1		Heteropriacanthus cruentatus	342441	Chromosome	fHetCru1.1	2025-11-07	681316587	29071764	24158803	Actinopteri	Priacanthiformes	Priacanthidae	Heteropriacanthus	Heteropriacanthus cruentatus
+712	genus	GCA_058775085.1		Rivulus cylindraceus	44707	Chromosome	fRivCyl1.hap1	2026-07-02	678130221	28797812	27593127	Actinopteri	Cyprinodontiformes	Rivulidae	Rivulus	Rivulus cylindraceus
+713	genus	GCA_047305485.1		Platycephalus sp. 1 SX-2021	2827218	Chromosome	ASM4730548v1	2025-01-29	660633173	28645536	18974609	Actinopteri	Perciformes	Platycephalidae	Platycephalus	Platycephalus sp. 1 SX-2021
+714	genus	GCA_058744705.1		Leiocassis longirostris	175787	Chromosome	L_longirostris male v1.0	2026-07-02	730595418	28641988	13453518	Actinopteri	Siluriformes	Bagridae	Leiocassis	Leiocassis longirostris
+715	genus	GCA_023238725.1		Scortum barcoo	214431	Chromosome	ASM2323872v1	2022-05-12	657949666	28580765	4248160	Actinopteri	Centrarchiformes	Terapontidae	Scortum	Scortum barcoo
+716	genus	GCA_049309625.1		Lycodes pallidus	215420	Chromosome	TIO_A13_LycPal_1.1	2025-04-05	753345134	28576443	5041903	Actinopteri	Perciformes	Zoarcidae	Lycodes	Lycodes pallidus
+717	genus	GCA_041146585.1		Hypsibarbus vernayi	357531	Chromosome	ASM4114658v1	2024-08-12	716585725	28194262	24664838	Actinopteri	Cypriniformes	Cyprinidae	Hypsibarbus	Hypsibarbus vernayi
+718	genus	GCA_971798655.1		Chelidonichthys cuculus	426094	Chromosome	fCheCuc1.hap1.1	2025-09-13	666050924	28143164	1526205	Actinopteri	Perciformes	Triglidae	Chelidonichthys	Chelidonichthys cuculus
+719	genus	GCA_051225755.1		Pangasius sanitwongsei	365581	Chromosome	ASM5122575v1	2025-07-07	808852175	28100061	18697453	Actinopteri	Siluriformes	Pangasiidae	Pangasius	Pangasius sanitwongsei
+720	genus	GCA_964260565.1		Boreogadus saida	44932	Chromosome	borsaiasm	2024-09-06	585721199	28087346	126712	Actinopteri	Gadiformes	Gadidae	Boreogadus	Boreogadus saida
+721	genus	GCA_058705565.1		Halieutopsis sp. Z572	3136566	Chromosome	ASM5870556v1	2026-07-01	653176819	28071434	17264828	Actinopteri	Lophiiformes	Ogcocephalidae	Halieutopsis	Halieutopsis sp. Z572
+722	genus	GCA_058748105.1		Lycenchelys nigripalatum	2004399	Chromosome	fLycNigr1.1	2026-07-02	700143931	28038406	3449627	Actinopteri	Perciformes	Zoarcidae	Lycenchelys	Lycenchelys nigripalatum
+723	genus	GCA_023566465.1		Cottus gobio	100952	Chromosome	ASM2356646v1	2022-05-31	645607472	28016991	10505243	Actinopteri	Perciformes	Cottidae	Cottus	Cottus gobio
+724	genus	GCA_027422405.1		Ptychobarbus kaznakovi	263525	Chromosome	SKLP_Pkaz_1.1	2022-12-28	713574997	27726705	528209	Actinopteri	Cypriniformes	Cyprinidae	Ptychobarbus	Ptychobarbus kaznakovi
+725	genus	GCA_051362235.1		Hippoglossoides platessoides	34817	Chromosome	fHipPla2_p1.1	2025-07-15	643762549	27241904	15039255	Actinopteri	Pleuronectiformes	Pleuronectidae	Hippoglossoides	Hippoglossoides platessoides
+726	genus	GCA_042310395.1		Pennahia pawak	1334976	Chromosome	ASM4231039v1	2024-09-27	612026821	27090935	25850940	Actinopteri		Sciaenidae	Pennahia	Pennahia pawak
+727	genus	GCA_036365135.1		Miichthys miiuy	240162	Chromosome	ASM3636513v1	2024-02-07	637647715	27008067	2496000	Actinopteri		Sciaenidae	Miichthys	Miichthys miiuy
+728	genus	GCA_048544875.1		Pachycara angeloi	2823901	Chromosome	ASM4854487v1	2025-03-12	618210609	26774829	1788674	Actinopteri	Perciformes	Zoarcidae	Pachycara	Pachycara angeloi
+729	genus	GCA_054643105.1		Caranx heberi	1003700	Chromosome	CIBA_Cheb_1.1	2026-01-22	618716925	26721333	19030000	Actinopteri	Carangiformes	Carangidae	Caranx	Caranx heberi
+730	genus	GCA_023373845.1		Nibea coibor	396775	Chromosome	ASM2337384v1	2022-05-16	627611732	26221791	9638600	Actinopteri		Sciaenidae	Nibea	Nibea coibor
+731	genus	GCA_977009285.1		Aidablennius sphynx	195073	Chromosome	fAidSph1.1	2025-11-08	634907890	26178920	16191511	Actinopteri	Blenniiformes	Blenniidae	Aidablennius	Aidablennius sphynx
+732	genus	GCA_040110945.1		Zoarces viviparus	48416	Chromosome	Zoavi_1_2	2024-06-12	663017713	26101846	10929469	Actinopteri	Perciformes	Zoarcidae	Zoarces	Zoarces viviparus
+733	genus	GCA_965276695.1		Mullus surmuletus	87757	Chromosome	fMulSur1.hap1.1	2025-05-03	569101158	26015219	2381320	Actinopteri	Syngnathiformes	Mullidae	Mullus	Mullus surmuletus
+734	genus	GCA_011076525.1		Nettapus auritus	658922	Chromosome	BPBGC_Naur_1.0	2020-03-10	1134521068	26011715	105147	Aves	Anseriformes	Anatidae	Nettapus	Nettapus auritus
+735	genus	GCA_058748175.2		Terapon jarbua	163131	Chromosome	ASM5874817v2	2026-07-27	590881266	25766100	25766100	Actinopteri	Centrarchiformes	Terapontidae	Terapon	Terapon jarbua
+736	genus	GCA_034769265.1		Remorina albescens	641296	Chromosome	ASM3476926v1	2023-12-29	605303472	25658447	23122051	Actinopteri	Carangiformes	Echeneidae	Remorina	Remorina albescens
+737	genus	GCA_054131325.1		Kareius bicoloratus	143345	Chromosome	ysfri_pbi_1	2025-12-23	587796844	25639765	25639765	Actinopteri	Pleuronectiformes	Pleuronectidae	Kareius	Kareius bicoloratus
+738	genus	GCA_028641955.1		Protonibea diacanthus	335060	Chromosome	ASM2864195v1	2023-02-22	635688566	25603171	4776643	Actinopteri		Sciaenidae	Protonibea	Protonibea diacanthus
+739	genus	GCA_057929335.1		Liparis atlanticus	255717	Chromosome	ASM5792933v1	2026-06-04	586150586	25567167	1283126	Actinopteri	Perciformes	Liparidae	Liparis	Liparis atlanticus
+740	genus	GCA_053477655.1		Bagarius rutilus	3352530	Chromosome	ASM5347765v1	2025-11-14	616827030	25467879	21064696	Actinopteri	Siluriformes	Sisoridae	Bagarius	Bagarius rutilus
+741	genus	GCA_965246675.1		Lepidorhombus whiffiagonis	154550	Chromosome	fLepWhi1.1	2025-04-17	540553213	25032925	17714167	Actinopteri	Pleuronectiformes	Scophthalmidae	Lepidorhombus	Lepidorhombus whiffiagonis
+742	genus	GCA_006182925.3		Reinhardtius hippoglossoides	111784	Chromosome	UL_REHI_2.0	2021-05-25	598508710	25015410	3108829	Actinopteri	Pleuronectiformes	Pleuronectidae	Reinhardtius	Reinhardtius hippoglossoides
+743	genus	GCA_026259375.1		Verasper variegatus	82366	Chromosome	ASM2625937v1	2022-11-23	564012525	24817500	22761669	Actinopteri	Pleuronectiformes	Pleuronectidae	Verasper	Verasper variegatus
+744	genus	GCA_059335135.1		Nemadactylus macropterus	76931	Chromosome	CSIRO-AGI_Nmac_v1	2026-07-13	582745259	24761782	7332631	Actinopteri	Centrarchiformes	Cheilodactylidae	Nemadactylus	Nemadactylus macropterus
+745	genus	GCA_037194245.1		Opsariichthys bidens	141458	Chromosome	ASM3719424v1	2024-03-18	840945818	24759753	5275600	Actinopteri	Cypriniformes	Xenocyprididae	Opsariichthys	Opsariichthys bidens
+746	genus	GCA_052674685.1		Homatula variegata	297507	Chromosome	ASM5267468v1	2025-09-16	640224622	24138896	24051685	Actinopteri	Cypriniformes	Nemacheilidae	Homatula	Homatula variegata
+747	genus	GCA_978045355.1		Buglossidium luteum	90071	Chromosome	fBugLut1.1	2026-03-01	639382157	23997908	2556000	Actinopteri	Pleuronectiformes	Soleidae	Buglossidium	Buglossidium luteum
+748	genus	GCA_054506975.1		Chirolophis japonicus	476915	Chromosome	ASM5450697v1	2026-01-16	623672308	23773652	23168778	Actinopteri	Perciformes	Stichaeidae	Chirolophis	Chirolophis japonicus
+749	genus	GCA_059441005.1		Hippichthys cyanospilos	670488	Chromosome	RoL_Hcya_1.0	2026-07-15	521235357	23760966	17353597	Actinopteri	Syngnathiformes	Syngnathidae	Hippichthys	Hippichthys cyanospilos
+750	genus	GCA_966212585.1		Ophioblennius macclurei	879514	Chromosome	O_macclurei_assembly	2025-11-04	529681505	23721902	1585446	Actinopteri	Blenniiformes	Blenniidae	Ophioblennius	Ophioblennius macclurei
+751	genus	GCA_052426585.1		Oreonectes daqikongensis	1886673	Chromosome	IHB_Slab_Bing_1.1	2025-09-03	615149081	23570105	19444260	Actinopteri	Cypriniformes	Nemacheilidae	Oreonectes	Oreonectes daqikongensis
+752	genus	GCA_977017485.1		Gobiesox punctulatus	1986054	Chromosome	fGobPun1.1	2025-11-07	556709700	23545384	21185705	Actinopteri	Blenniiformes	Gobiesocidae	Gobiesox	Gobiesox punctulatus
+753	genus	GCA_977007065.1		Gobioclinus haitiensis	2566713	Chromosome	fGobHai1.1	2025-11-08	718298009	23372818	19327000	Actinopteri	Blenniiformes	Labrisomidae	Gobioclinus	Gobioclinus haitiensis
+754	genus	GCA_011075105.1		Heteronetta atricapilla	555264	Chromosome	BPBGC_Hatr_1.0	2020-03-10	1151864095	23364606	151401	Aves	Anseriformes	Anatidae	Heteronetta	Heteronetta atricapilla
+755	genus	GCA_059628335.1		Pseudecheneis brachyura	3359925	Chromosome	IHB_HDK_CWZZ_1.1	2026-07-27	579906450	23313761	18354079	Actinopteri	Siluriformes	Sisoridae	Pseudecheneis	Pseudecheneis brachyura
+756	genus	GCA_009823395.1		Thamnaconus septentrionalis	435163	Chromosome	ASM982339v1	2020-01-02	474309635	23049015	22457894	Actinopteri	Tetraodontiformes	Monacanthidae	Thamnaconus	Thamnaconus septentrionalis
+757	genus	GCA_039881065.1		Leptobotia elongata	143403	Chromosome	Leptobotia_elongata_female	2024-05-29	586512559	22850000	18908109	Actinopteri	Cypriniformes	Botiidae	Leptobotia	Leptobotia elongata
+758	genus	GCA_054643115.1		Mystus gulio	568893	Chromosome	CIBA_Mgul_1.1	2026-01-22	706324109	22795727	11935589	Actinopteri	Siluriformes	Bagridae	Mystus	Mystus gulio
+759	genus	GCA_016801845.1		Polydactylus sextarius	435218	Chromosome	ASM1680184v1	2021-02-04	564623279	22256062	18418211	Actinopteri		Polynemidae	Polydactylus	Polydactylus sextarius
+760	genus	GCA_059441095.1		Idiotropiscis lumnitzeri	642998	Chromosome	RoL_Ilum_1.0	2026-07-15	705121224	21471778	4029448	Actinopteri	Syngnathiformes	Syngnathidae	Idiotropiscis	Idiotropiscis lumnitzeri
+761	genus	GCA_058169825.1		Pleuronichthys cornutus	244455	Chromosome	ysfri_pco_1	2026-06-10	488999774	21441595	20106580	Actinopteri	Pleuronectiformes	Pleuronectidae	Pleuronichthys	Pleuronichthys cornutus
+762	genus	GCA_984981365.1		Arnoglossus thori	157241	Chromosome	fArnTho1.1	2026-07-04	495086485	20376223	3013070	Actinopteri	Pleuronectiformes	Bothidae	Arnoglossus	Arnoglossus thori
+763	genus	GCA_029465975.1		Dallia pectoralis	75939	Chromosome	DPEC_1.1	2023-03-31	719674739	20276067	814405	Actinopteri	Esociformes	Umbridae	Dallia	Dallia pectoralis
+764	genus	GCA_052324805.2		Spirinchus thaleichthys	260508	Chromosome	GVL_SpThal_2.0	2026-02-25	591435008	19561059	943521	Actinopteri	Osmeriformes	Osmeridae	Spirinchus	Spirinchus thaleichthys
+765	genus	GCA_030770545.1		Macropodus opercularis	158451	Chromosome	macOpe2	2023-08-21	483061208	19217602	19217602	Actinopteri	Anabantiformes	Osphronemidae	Macropodus	Macropodus opercularis
+766	genus	GCA_048569185.1		Apeltes quadracus	240154	Chromosome	Unibe_ApeQuad_male_1.0	2025-03-13	475913512	18491668	10464960	Actinopteri	Perciformes	Gasterosteidae	Apeltes	Apeltes quadracus
+767	genus	GCA_019155185.1		Beaufortia kweichowensis	241442	Chromosome	ASM1915518v1	2021-07-07	448565924	17950327	5533578	Actinopteri	Cypriniformes	Gastromyzontidae	Beaufortia	Beaufortia kweichowensis
+768	genus	GCA_023658055.1		Thaleichthys pacificus	240832	Chromosome	Tpac_2.0	2022-06-07	468759031	17687494	928839	Actinopteri	Osmeriformes	Osmeridae	Thaleichthys	Thaleichthys pacificus
+769	genus	GCA_977007075.1		Canthigaster rostrata	303740	Chromosome	fCanRos1.1	2025-11-07	361472460	17593143	5095325	Actinopteri	Tetraodontiformes	Tetraodontidae	Canthigaster	Canthigaster rostrata
+770	genus	GCA_976225255.1		Trisopterus luscus	27722	Chromosome	fTriLus1.hap1.1	2025-10-26	548550804	17145505	247992	Actinopteri	Gadiformes	Gadidae	Trisopterus	Trisopterus luscus
+771	genus	GCA_044705665.1		Neosalanx brevirostris	1028178	Chromosome	ASM4470566v1	2024-11-13	441338727	16586233	4880914	Actinopteri	Osmeriformes	Salangidae	Neosalanx	Neosalanx brevirostris
+772	genus	GCA_015343265.1		Pao palembangensis	1820603	Chromosome	ASM1534326v1	2020-11-16	356041988	15808960	3269158	Actinopteri	Tetraodontiformes	Tetraodontidae	Pao	Pao palembangensis
+773	genus	GCA_044705685.1		Salanx cuvieri	306639	Chromosome	ASM4470568v1	2024-11-13	428740899	15223323	4252055	Actinopteri	Osmeriformes	Salangidae	Salanx	Salanx cuvieri
+774	genus	GCA_045786985.1		Hemisalanx brachyrostralis	240824	Chromosome	ASM4578698v1	2024-12-09	411462901	15122651	8942	Actinopteri	Osmeriformes	Salangidae	Hemisalanx	Hemisalanx brachyrostralis
+775	genus	GCA_051107095.1		Salangichthys microdon	137522	Chromosome	ASM5110709v1	2025-06-26	450945022	14835150	2084	Actinopteri	Osmeriformes	Salangidae	Salangichthys	Salangichthys microdon
+776	genus	GCA_051110555.1		Neosalangichthys ishikawae	2905919	Chromosome	ASM5111055v1	2025-06-26	549573573	13370259	2208	Actinopteri	Osmeriformes	Salangidae	Neosalangichthys	Neosalangichthys ishikawae
+777	genus	GCA_056783725.1		Eudontomyzon morii	682880	Chromosome	Lmo_muscle_v1	2026-04-16	949764836	12824942	5931492	Hyperoartia	Petromyzontiformes	Petromyzontidae	Eudontomyzon	Eudontomyzon morii
+778	genus	GCA_014621495.2		Entosphenus tridentatus	245074	Chromosome	ETRf_v1	2020-11-05	927744424	10846700	19580	Hyperoartia	Petromyzontiformes	Petromyzontidae	Entosphenus	Entosphenus tridentatus
+779	genus	GCA_011074415.1		Stictonetta naevosa	45637	Chromosome	BPBGC_Snae_1.0	2020-03-10	1132682184	10707530	136958	Aves	Anseriformes	Anatidae	Stictonetta	Stictonetta naevosa
+780	species	GCA_049350105.2	GCF_049350105.2	Macaca mulatta	9544	Complete Genome	T2T-MMU8v2.0	2025-07-24	3115120525	162285572	162285572	Mammalia	Primates	Cercopithecidae	Macaca	Macaca mulatta
+781	species	GCA_059336145.1		Bos taurus	9913	Complete Genome	ASM5933614v1	2026-07-13	2720539976	108554691	108554691	Mammalia	Artiodactyla	Bovidae	Bos	Bos taurus
+782	species	GCA_052150635.1		Equus kiang	94398	Complete Genome	ASM5215063v1	2025-08-19	2486009267	107027433	107027433	Mammalia	Perissodactyla	Equidae	Equus	Equus kiang
+783	species	GCA_054375355.1		Equus asinus	9793	Complete Genome	CAU_T2T_donkey1.0	2026-01-06	2785912168	105147494	105147494	Mammalia	Perissodactyla	Equidae	Equus	Equus asinus
+784	species	GCA_058569155.1		Epinephelus cyanopodus	308565	Complete Genome	ASM5856915v1	2026-06-29	1007076573	42785275	42785275	Actinopteri	Perciformes	Serranidae	Epinephelus	Epinephelus cyanopodus
+785	species	GCA_059642755.1		Epinephelus fasciatus	160718	Complete Genome	ASM5964275v1	2026-07-28	898711076	38496046	38496046	Actinopteri	Perciformes	Serranidae	Epinephelus	Epinephelus fasciatus
+786	species	GCA_054883365.1		Scleropages jardinii	113541	Complete Genome	ASM5488336v1	2026-01-30	765335038	33149000	33149000	Actinopteri	Osteoglossiformes	Osteoglossidae	Scleropages	Scleropages jardinii
+787	species	GCA_057944685.1		Triplophysa stolickai	3361878	Complete Genome	ASM5794468v1	2026-06-04	659994717	25807062	25807062	Actinopteri	Cypriniformes	Nemacheilidae	Triplophysa	Triplophysa stolickai
+788	species	GCA_051348905.1	GCF_051348905.1	Ranitomeya variabilis	490064	Chromosome	aRanVar5.hap1	2025-07-15	5645589471	788740125	68175871	Amphibia	Anura	Dendrobatidae	Ranitomeya	Ranitomeya variabilis
+789	species	GCA_014858855.1	GCF_014858855.1	Bufo gargarizans	30331	Chromosome	ASM1485885v1	2020-10-21	4545465442	539822115	1738317	Amphibia	Anura	Bufonidae	Bufo	Bufo gargarizans
+790	species	GCA_035594765.1	GCF_035594765.1	Anolis carolinensis	28377	Chromosome	rAnoCar3.1.pri	2024-01-12	1850740401	288964324	26091274	Lepidosauria	Squamata	Dactyloidae	Anolis	Anolis carolinensis
+791	species	GCA_047496885.1	GCF_047496885.1	Scyliorhinus torazame	75743	Chromosome	sScyTor2.1	2025-02-07	6451259511	266286206	3187150	Chondrichthyes	Carcharhiniformes	Scyliorhinidae	Scyliorhinus	Scyliorhinus torazame
+792	species	GCA_036562045.1	GCF_036562045.2	Rhinolophus sinicus	89399	Chromosome	ASM3656204v1	2024-06-26	2036377185	166556632	42906106	Mammalia	Chiroptera	Rhinolophidae	Rhinolophus	Rhinolophus sinicus
+793	species	GCA_011064425.1	GCF_011064425.1	Rattus rattus	10117	Chromosome	Rrattus_CSIRO_v1	2020-03-04	2382770976	158824752	1635336	Mammalia	Rodentia	Muridae	Rattus	Rattus rattus
+794	species	GCA_017654675.1	GCF_017654675.1	Xenopus laevis	8355	Chromosome	Xenopus_laevis_v10.1	2021-04-12	2742451793	155250555	22451507	Amphibia	Anura	Pipidae	Xenopus	Xenopus laevis
+795	species	GCA_000004195.4	GCF_000004195.4	Xenopus tropicalis	8364	Chromosome	UCB_Xtro_10.0	2019-11-14	1451283599	153961319	14634335	Amphibia	Anura	Pipidae	Xenopus	Xenopus tropicalis
+796	species	GCA_963921235.1	GCF_963921235.1	Mobula hypostoma	723540	Chromosome	sMobHyp1.1	2024-01-06	3475679493	152437164	23327000	Chondrichthyes	Myliobatiformes	Myliobatidae	Mobula	Mobula hypostoma
+797	species	GCA_024542745.1	GCF_024542745.1	Macaca thibetana thibetana	257877	Chromosome	ASM2454274v1	2022-08-09	2822383045	150623419	48622411	Mammalia	Primates	Cercopithecidae	Macaca	Macaca thibetana
+798	species	GCA_018350215.1	GCF_018350215.1	Panthera leo	9689	Chromosome	P.leo_Ple1_pat1.1	2021-05-13	2297552363	147402474	77781637	Mammalia	Carnivora	Felidae	Panthera	Panthera leo
+799	species	GCA_018350195.2	GCF_018350195.1	Panthera tigris	9694	Chromosome	P.tigris_Pti1_mat1.1	2021-05-13	2408678698	146942463	74391967	Mammalia	Carnivora	Felidae	Panthera	Panthera tigris
+800	species	GCA_022355385.1	GCF_022355385.1	Mustela nigripes	77151	Chromosome	MUSNIG.SB6536	2022-02-24	2498532951	145433501	148763	Mammalia	Carnivora	Mustelidae	Mustela	Mustela nigripes
