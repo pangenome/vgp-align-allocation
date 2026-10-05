@@ -40,22 +40,31 @@ pull values from the preprint itself when reconciling.
 | #1 "why all 4,467 NCBI chromosome-level assemblies" | Position our expansion as extending a published Phase I backbone beyond VGP into the full public catalogue. |
 | #2 "no relevant manuscripts… at peer-review outlets" | A Phase I preprint exists; state its status plainly and note any plans for peer review. |
 
-## Reconciliation TODOs (do not guess)
+## Verified from the full PDF (2026-10-05)
 
-Our submitted numbers and the preprint's numbers were not cross-checked:
+- **Preprint's own numbers:** "~95% of vertebrate orders", **816 species**,
+  **1.6 trillion bp**; data-freeze subset **579 species**; all-vs-all of that
+  freeze using `wfmash` and `FastGA`, **336,980 pairwise alignment files in PAF
+  format per method** (Supplementary Table 11, row 17), indexed with `impg`.
+  Use these, not aggregator variants (815, ~97%).
+- **Pilot passage** (section "Initial phylogeny and whole-genome alignments"):
+  *"We also performed an all-vs-all alignment of the 579 species data freeze,
+  using wfmash and FastGA, generating 336,980 pairwise alignment files in PAF
+  format per method (Supplementary Table 11, row 17). Each alignment was
+  indexed using impg…"*
+- **Count reconciliation:** 336,980 = 581 × 580. 581 assemblies = 579-species
+  data freeze (566 vertebrate species + 13 outgroup species) + 2 additional
+  haplotypes (human GRCh38, mouse GRCm39). Matches our manifest (566 matched
+  species, 568 Vertebrata, 13 outgroups).
+- **Grant link in acknowledgements:** *"E.G., P.S., S.C. acknowledge funding
+  from NIH R01HG013017 and U01HG013760."*
 
-- [ ] Pilot size: we state **581 assemblies = 568 Vertebrata + 13 outgroups**.
-      The preprint says the comparative analysis used a **subset of 579
-      species**. Reconcile the 581/568/13 and 579 figures explicitly (which is
-      assemblies vs. species, which includes outgroups).
-- [ ] Phase I species total: secondary renderings show both **815** and **816**
-      species and both **~95%** and **~97%** of orders. Take the values from the
-      preprint itself, not from aggregator pages.
-- [ ] Confirm the preprint section/figure that describes the all-to-all
-      alignment our pilot provides, and cite it precisely (the full text is
-      Cloudflare-gated; pull the PDF or supplement).
+## Remaining TODOs
+
 - [ ] Update `references.md` and the Main Document; keep Vancouver numbering
       consistent.
+- [ ] Confirm the 581 = 579 + 2-haplotype arithmetic against Supplementary
+      Table 11 in the submission PDF.
 
 ## Action
 

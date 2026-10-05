@@ -33,6 +33,18 @@ Draft appeal against the reduced provisional award. **Submit by 2026-10-14**
   global reference genome resource.* bioRxiv. 2026.
   doi:10.64898/2026.06.24.732306 (posted 2026-06-26). Co-authored by E.
   Garrison, S. Cao, A. Guarracino.
+- **Preprint passage describing our pilot** (section "Initial phylogeny and
+  whole-genome alignments"): *"We also performed an all-vs-all alignment of the
+  579 species data freeze, using wfmash and FastGA, generating 336,980 pairwise
+  alignment files in PAF format per method (Supplementary Table 11, row 17).
+  Each alignment was indexed using impg…"*
+- **Grant link from the preprint acknowledgements:** *"E.G., P.S., S.C.
+  acknowledge funding from NIH R01HG013017 and U01HG013760."*
+- Count reconciliation: 336,980 = 581 × 580. 581 assemblies = 579-species data
+  freeze (566 vertebrate species + 13 outgroup species) + 2 additional
+  haplotypes (human GRCh38, mouse GRCm39). Matches our manifest's 566 matched
+  species / 568 Vertebrata / 13 outgroups. (Confirm against Supplementary
+  Table 11.)
 - Request sizing: 800 new assemblies → 1,568,800 new pairs → 412,594 node-h →
   ~825,000 SUs at SPR's 2 SU/node-h, plus ~175,000 for variance/rework.
 
@@ -54,32 +66,40 @@ Draft appeal against the reduced provisional award. **Submit by 2026-10-14**
 > standard 12-month period and the requested 1,000,000 SUs. Each reviewer
 > concern is addressed below with verified information.
 >
-> **1. Supporting grants (raised by all three reviews).** The work is supported
-> by merit-reviewed federal awards. Current support: U01HG013760 (*Building
-> Tools and Community to Make Pangenomes Accessible*, Contact PI, 2024–2027);
-> R01HG013017 (complete T2T primate genomes, Multiple PI, 2023–2028); a primate
-> pangenome R01 with P. Sudmant (Multiple PI, open); R01HG013618 (pangenome-aware
-> CRISPR design; D. Bauer, Co-I, 2024–2028); U01DA057530 (pangenome methods for
-> hybrid rats, Co-I, 2023–2028); U41HG010972 (Human Pangenome Coordinating
-> Center, Co-I, 2024–2027); and the present ACCESS Stampede3 allocation
-> (2026). Two multi-institution R01 applications are under review. The proposed
-> catalogue expansion is a direct sub-goal of U01HG013760, whose objective is to
-> build tools and community that make pangenomes accessible at scale. Under the
-> Supporting Grant Alignment criterion, these awards are consistent with the
-> request, and they provide the personnel who will execute it.
+> **1. Supporting grants (raised by all three reviews).** The work is directly
+> supported by merit-reviewed NIH awards. The VGP Phase I preprint's
+> acknowledgements state that *"E.G., P.S., S.C. acknowledge funding from NIH
+> R01HG013017 and U01HG013760"* — that is, this project's PI, P. Sudmant, and S.
+> Cao were funded for the work reported in the paper by **R01HG013017** (complete
+> T2T primate genomes, Multiple PI, 2023–2028) and U01HG013760 (Building Tools
+> and Community to Make Pangenomes Accessible, Contact PI, 2024–2027). A primate
+> pangenome R01 with P. Sudmant (Multiple PI) continues that line. Additional
+> current support: R01HG013618 (pangenome-aware CRISPR design; D. Bauer, Co-I,
+> 2024–2028); U01DA057530 (pangenome methods for hybrid rats, Co-I, 2023–2028);
+> U41HG010972 (Human Pangenome Coordinating Center, Co-I, 2024–2027); and the
+> present ACCESS Stampede3 allocation (2026). Two multi-institution R01
+> applications are under review. The proposed vertebrate catalogue expansion is
+> the natural scale-up of the primate comparative-genomics line above, and these
+> awards provide the personnel who execute it. Under the Supporting Grant
+> Alignment criterion, the request is consistent with these objectives.
 >
 > **2. Publications and scientific rationale (Review #1).** The Vertebrate
 > Genomes Project Phase I completion paper was posted 2026-06-26, before this
 > request: Formenti et al., *The Vertebrate Genomes Project Phase I: a global
 > reference genome resource* (bioRxiv, doi:10.64898/2026.06.24.732306). The PI,
-> S. Cao, and A. Guarracino are co-authors. Our all-to-all alignment of 581
-> assemblies underpins that paper's comparative analysis across 579 species,
-> which reconstructs the genome of the last common ancestor of vertebrates (~500
-> Myr), characterizes sex-chromosome evolution and clade-specific 3D genome
-> architecture, maps methylation landscapes, and supports IUCN extinction-risk
-> analysis. This reference-free alignment extends that published backbone from
-> the VGP set to the full public vertebrate catalogue. We will add this citation
-> and move this rationale ahead of the methods in the revised request.
+> S. Cao, and A. Guarracino are co-authors. The paper's "Initial phylogeny and
+> whole-genome alignments" section explicitly reports our pilot: *"We also
+> performed an all-vs-all alignment of the 579 species data freeze, using wfmash
+> and FastGA, generating 336,980 pairwise alignment files in PAF format per
+> method (Supplementary Table 11, row 17). Each alignment was indexed using
+> impg…"* This is the same 336,980-pair result, computed with the same tools,
+> from which every unit cost in this request is derived. The same paper's
+> comparative analyses reconstruct the genome of the last common ancestor of
+> vertebrates (~500 Myr), characterize sex-chromosome evolution and
+> clade-specific 3D genome architecture, map methylation landscapes, and support
+> IUCN extinction-risk analysis. This request extends that published backbone
+> from the VGP set to the full public vertebrate catalogue. We will add this
+> citation and move this rationale ahead of the methods in the revised request.
 >
 > **3. Parallelism, scaling, and efficiency (Review #0).** The pilot *is*
 > evidence of parallel execution at scale: 336,980 independent ordered pairs
@@ -123,9 +143,9 @@ Draft appeal against the reduced provisional award. **Submit by 2026-10-14**
 
 ## Notes / caveats
 
-- Confirm the exact objectives of U01HG013760 match this expansion before
-  asserting sub-goal alignment (TODO; do not overclaim).
-- Verify the specific Phase I preprint section that describes the all-to-all
-  alignment before quoting it (full text is Cloudflare-gated; pull the PDF).
+- Confirm that R01HG013017's scope covers the vertebrate expansion (or phrase it
+  as the primate line this scales up). The preprint does credit it for the pilot.
+- Confirm the 581 = 579 + 2-haplotype reconciliation against Supplementary
+  Table 11 before quoting the arithmetic.
 - The thread-scaling curve is promised, not yet produced.
 - Keep the tone factual; the appeal is judged by the original reviewers.
