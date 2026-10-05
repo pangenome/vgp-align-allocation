@@ -140,10 +140,11 @@ Done while preparing the appeal:
 ## 8. Open decisions / TODOs
 
 - [x] Which grants are cited — corrected statement applied (R01HG013017 anchor).
-- [ ] Confirm R01HG013017 dates/role match the NIH record (CV now says Multiple
-      PI, 2023–2028).
-- [ ] Co-PIs vs. collaborators: do Cao and/or Guarracino become co-PIs with
-      stated effort? (Affects CV count and team section.)
+- [x] Grants: R01HG013017 confirmed **Multiple PI, 2023–2028** (user,
+      2026-10-05).
+- [x] Co-PIs vs. collaborators: **Cao and Guarracino do not become co-PIs**
+      (user, 2026-10-05). List them as collaborators with roles in the team
+      section; no co-PI CVs required.
 - [ ] Reduction target for the contingency (currently ~175,000 SUs / 17.5%).
       (TODO: recompute from measured variance.)
 - [ ] Exact job/chunk plan and restart-cost figures for the tranche.
@@ -152,5 +153,5 @@ Done while preparing the appeal:
 - [x] Add and cite the VGP Phase I preprint; reconcile pilot counts (566 + 13
       + 2 haplotypes = 581; confirm against Supplementary Table 11).
 - [ ] Reorder Main Document to ACCESS section order without losing content.
-- [ ] Decide whether to soften the thread-scaling / itemized-contingency
-      commitments in the appeal, or keep them as commitments.
+- [x] Commitments softened: parallelism/scaling logging and contingency
+      itemization are deferred to the renewal, not promised in the appeal.

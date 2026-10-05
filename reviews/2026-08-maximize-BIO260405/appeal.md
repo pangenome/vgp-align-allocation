@@ -146,8 +146,12 @@ Draft appeal against the reduced provisional award. **Submit by 2026-10-14**
 > jobs could be held in the queue rather than by the work remaining; three
 > rounds carried 44,439 of 46,020 node-hours. The workload is embarrassingly
 > parallel — N(N−1) tasks with no inter-task communication — and scales with
-> node count until queue concurrency binds. We will add a thread-scaling curve
-> for a representative step to make node-level efficiency explicit.
+> node count until queue concurrency binds. We acknowledge the committee's
+> request for clearer parallelism and scaling records. Under the provisional
+> award we will record job-level concurrency, node occupancy, and per-node
+> throughput continuously; we will supply that record, with a thread-scaling
+> curve for a representative step, in any renewal — whether or not this appeal
+> is granted.
 >
 > **4. Wall-clock, checkpoints, and job accounting (Review #0).** The reported
 > 56.7% of node-hours ending in TIMEOUT is not lost work; it is the normal
@@ -162,9 +166,9 @@ Draft appeal against the reduced provisional award. **Submit by 2026-10-14**
 > median and 100.5 h p90. We size the request at SPR's higher charge (2 SUs per
 > node-hour) precisely to remain conservative, not because we require SPR.
 >
-> **6. Contingency and milestone timeline (Review #2).** We will itemize the
-> variance/rework allowance against measured quantities rather than carrying an
-> unexamined 17%, and we will add the milestone timeline the reviewer requested.
+> **6. Contingency and milestone timeline (Review #2).** We will add the
+> milestone timeline the reviewer requested and itemize the variance/rework
+> allowance against measured quantities in the renewal documents.
 >
 > **Requested relief.** We ask the panel to increase the provisional award to
 > the full 12-month period and the full 1,000,000 SUs, or to such amount as the
@@ -180,10 +184,9 @@ Draft appeal against the reduced provisional award. **Submit by 2026-10-14**
 
 ## Notes / caveats
 
-- Confirm that R01HG013017's scope covers the vertebrate expansion (or phrase it
-  as the primate line this scales up). The preprint does credit it for the pilot.
-  **User-confirmed 2026-10-05: R01HG013017 is the correct anchor.**
+- R01HG013017 confirmed **2023–2028** (user, 2026-10-05).
 - Confirm the 581 = 579 + 2-haplotype reconciliation against Supplementary
   Table 11 before quoting the arithmetic.
-- The thread-scaling curve is promised, not yet produced.
+- Thread-scaling and contingency itemization are deferred to the renewal, per
+  the user's instruction — not promised inside the appeal.
 - Keep the tone factual; the appeal is judged by the original reviewers.
