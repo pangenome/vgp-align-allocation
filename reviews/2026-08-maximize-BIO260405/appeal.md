@@ -39,7 +39,8 @@ Draft appeal against the reduced provisional award. **Submit by 2026-10-14**
   alignment files in PAF format per method (Supplementary Table 11, row 17).
   Each alignment was indexed using impg…"*
 - **Grant link from the preprint acknowledgements:** *"E.G., P.S., S.C.
-  acknowledge funding from NIH R01HG013017 and U01HG013760."*
+  acknowledge funding from NIH R01HG013017 and U01HG013760."* (NOTE: confirm
+  which primate R01 is the correct anchor — see section 1 placeholder.)
 - Count reconciliation: 336,980 = 581 × 580. 581 assemblies = 579-species data
   freeze (566 vertebrate species + 13 outgroup species) + 2 additional
   haplotypes (human GRCh38, mouse GRCm39). Matches our manifest's 566 matched
@@ -67,21 +68,19 @@ Draft appeal against the reduced provisional award. **Submit by 2026-10-14**
 > concern is addressed below with verified information.
 >
 > **1. Supporting grants (raised by all three reviews).** The work is directly
-> supported by merit-reviewed NIH awards. The VGP Phase I preprint's
-> acknowledgements state that *"E.G., P.S., S.C. acknowledge funding from NIH
-> R01HG013017 and U01HG013760"* — that is, this project's PI, P. Sudmant, and S.
-> Cao were funded for the work reported in the paper by **R01HG013017** (complete
-> T2T primate genomes, Multiple PI, 2023–2028) and U01HG013760 (Building Tools
-> and Community to Make Pangenomes Accessible, Contact PI, 2024–2027). A primate
-> pangenome R01 with P. Sudmant (Multiple PI) continues that line. Additional
-> current support: R01HG013618 (pangenome-aware CRISPR design; D. Bauer, Co-I,
-> 2024–2028); U01DA057530 (pangenome methods for hybrid rats, Co-I, 2023–2028);
-> U41HG010972 (Human Pangenome Coordinating Center, Co-I, 2024–2027); and the
-> present ACCESS Stampede3 allocation (2026). Two multi-institution R01
-> applications are under review. The proposed vertebrate catalogue expansion is
-> the natural scale-up of the primate comparative-genomics line above, and these
-> awards provide the personnel who execute it. Under the Supporting Grant
-> Alignment criterion, the request is consistent with these objectives.
+> supported by merit-reviewed NIH awards. [TODO: insert the correct primate R01 —
+> number, title, PI(s), period. The VGP Phase I preprint's acknowledgements
+> state that *"E.G., P.S., S.C. acknowledge funding from NIH R01HG013017 and
+> U01HG013760"*; use only the award that correctly funds this line.] The
+> proposed vertebrate catalogue expansion is the natural scale-up of the primate
+> comparative-genomics line above, and these awards provide the personnel who
+> execute it. Under the Supporting Grant Alignment criterion, the request is
+> consistent with these objectives. Additional current support: R01HG013618
+> (pangenome-aware CRISPR design; D. Bauer, Co-I, 2024–2028); U01DA057530
+> (pangenome methods for hybrid rats, Co-I, 2023–2028); U41HG010972 (Human
+> Pangenome Coordinating Center, Co-I, 2024–2027); and the present ACCESS
+> Stampede3 allocation (2026). Two multi-institution R01 applications are under
+> review.
 >
 > **2. Publications and scientific rationale (Review #1).** The Vertebrate
 > Genomes Project Phase I completion paper was posted 2026-06-26, before this
