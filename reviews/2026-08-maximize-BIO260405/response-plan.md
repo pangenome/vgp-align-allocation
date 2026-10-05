@@ -52,8 +52,8 @@ was missing, under our **own** allocation rather than the Galaxy gateway one.
 
 | # | Comment | Action | Lands in |
 | ---: | --- | --- | --- |
-| 1.1 | "unclear the biological imperative or impacts" | Add a biological rationale: what reference-free vertebrate alignment enables, questions addressed, impact on genomics | Main §1/§2; Abstract |
-| 1.2 | "no publications or grants associated with the work" | Cite work products and the supporting grant; state manuscripts in preparation if any exist | References; Main funding section |
+| 1.1 | "unclear the biological imperative or impacts" | Add a biological rationale: what reference-free vertebrate alignment enables, questions addressed, impact on genomics. The **VGP Phase I preprint** already states the impacts (ancestor reconstruction, sex-chromosome evolution, 3D architecture, methylation, IUCN risk) — see [`missing-citation-vgp-phase1.md`](missing-citation-vgp-phase1.md) | Main §1/§2; Abstract |
+| 1.2 | "no publications or grants associated with the work" | Cite the **VGP Phase I preprint** (co-authored by Garrison, Cao, Guarracino) and the supporting grant; state manuscript status | References; Main funding section |
 | 1.3 | "project seems associated with Galaxy… can't judge why this work is important" | Sharpen the separation: this work is independent of the Galaxy platform justification; state exactly what each allocation covers | Main §7 |
 | 1.4 | "why all 4,467 NCBI chromosome-level assemblies" | Move the clade-balanced selection rationale up front, before the number | Main §1/§5.1.1 |
 
@@ -63,7 +63,7 @@ was missing, under our **own** allocation rather than the Galaxy gateway one.
 | ---: | --- | --- | --- |
 | 2.1 | "sections fail to exactly match application guidelines" | Reorder Main Document to the ACCESS section order | Main Document |
 | 2.2 | "research team could be better elaborated — organization, duties, time dedication" | Add a team table: PI, co-PIs, roles, % effort | Main §new |
-| 2.3 | "not supported by grants, no relevant manuscripts" | Same fix as 1.2 | References; Main |
+| 2.3 | "not supported by grants, no relevant manuscripts" | Same fix as 1.2; the Phase I preprint addresses the "no manuscripts" half directly | References; Main |
 | 2.4 | "the 17% contingency request may be too much" | Reduce or itemize the ~175,000-SU contingency; tie each piece to a measured quantity | Main §1/§5.1; Perf §3 |
 | 2.5 | "a timeline of milestones would be useful" | Add a milestone/timeline table aligned to the award period | Main §new |
 
@@ -84,6 +84,11 @@ was missing, under our **own** allocation rather than the Galaxy gateway one.
    strong paragraph plus objective sentences.
 5. **Galaxy separation (1.3).** Make the independence of this allocation from
    the Galaxy gateway explicit and quantitative.
+6. **Recover the missing citation (1.1, 1.2, 2.3).** The VGP Phase I preprint
+   (Formenti et al. 2026, bioRxiv doi:10.64898/2026.06.24.732306) should have
+   been cited. It is co-authored by the team and directly supplies the
+   biological rationale. Details and reconciliation TODOs in
+   [`missing-citation-vgp-phase1.md`](missing-citation-vgp-phase1.md).
 6. **Team, timeline, contingency, section order (2.1, 2.2, 2.4, 2.5).**
    Mechanical fixes; low risk, do them all.
 
@@ -111,7 +116,7 @@ checkpoint accounting the reviewers requested; here are the measurements."*
 | Window | Milestone |
 | --- | --- |
 | 2026-10 → 2026-11 | Run tranche under provisional award; capture per-node/per-thread + checkpoint measurements |
-| 2026-11 → 2026-12-15 | Thread-scaling study; write "Addressing Reviewer Comments"; revise Main/Perf/Special Requirements |
+| 2026-11 → 2026-12-15 | Thread-scaling study; write "Addressing Reviewer Comments"; revise Main/Perf/Special Requirements; add VGP Phase I preprint and reconcile pilot counts |
 | 2026-12-15 → 2027-01-31 | Submit renewal with interim results |
 | 2027-01 → 2027-03-31 | Complete provisional-award tranche; carry results into renewal |
 
@@ -126,4 +131,8 @@ checkpoint accounting the reviewers requested; here are the measurements."*
 - [ ] Exact job/chunk plan and restart-cost figures for the tranche.
       (TODO: extract from the next pilot; do not project.)
 - [ ] Whether any manuscript is in preparation to cite (else state none).
+- [ ] Add and cite the VGP Phase I preprint; reconcile our 581/568/13 pilot
+      counts against its 579-species comparative subset and its Phase I species
+      total. (TODO: take all values from the preprint, not aggregators — see
+      `missing-citation-vgp-phase1.md`.)
 - [ ] Reorder Main Document to ACCESS section order without losing content.
