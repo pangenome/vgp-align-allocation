@@ -12,6 +12,7 @@ Plan for the **"Addressing Reviewer Comments"** document and the December 15,
 | Awarded | 100,000 node-hours, provisional, 6 months (2026-10-01 → 2027-03-31) |
 | Renewal window | 2026-12-15 → 2027-01-31 |
 | Path to full award | Address reviewer comments in a "renewal"; full 12-month award and full SU request then eligible |
+| **Interim option** | **Appeal of the reduced allocation — due 2026-10-14** (four weeks from 2026-09-16 notification). See [`appeal.md`](appeal.md) |
 | Ratings | #0 Fair, #1 Good, #2 Good |
 
 The panel is not asking us to redo the science. It is asking for a defensible
@@ -115,6 +116,8 @@ checkpoint accounting the reviewers requested; here are the measurements."*
 
 | Window | Milestone |
 | --- | --- |
+| **by 2026-10-14** | **Submit Appeal of the reduced allocation** (see [`appeal.md`](appeal.md)) |
+| 2026-10 | Appeal reviewed (~2-week response); provisional award begins |
 | 2026-10 → 2026-11 | Run tranche under provisional award; capture per-node/per-thread + checkpoint measurements |
 | 2026-11 → 2026-12-15 | Thread-scaling study; write "Addressing Reviewer Comments"; revise Main/Perf/Special Requirements; add VGP Phase I preprint and reconcile pilot counts |
 | 2026-12-15 → 2027-01-31 | Submit renewal with interim results |
