@@ -1,4 +1,4 @@
-# Appeal — BIO260405
+# Appeal: BIO260405
 
 Draft appeal against the reduced provisional award. **Submit by 2026-10-14**
 (four weeks from the 2026-09-16 notification).
@@ -60,7 +60,7 @@ Draft appeal against the reduced provisional award. **Submit by 2026-10-14**
 
 ## Draft appeal text
 
-> **Appeal of the AARC outcome for BIO260405 — "All-to-all whole-genome
+> **Appeal of the AARC outcome for BIO260405: "All-to-all whole-genome
 > alignment across the vertebrate tree"**
 > PI: Erik Garrison, University of Tennessee Health Science Center
 > Notified: 2026-09-16 · Appeal submitted: [DATE]
@@ -70,7 +70,7 @@ Draft appeal against the reduced provisional award. **Submit by 2026-10-14**
 > We are grateful for the provisional award and we accept it. We submit this
 > Appeal within the four-week window to supply the information and
 > clarification the reviewers requested and to request reconsideration of the
-> reduced award — a 6-month period and 100,000 Stampede3 node hours, against the
+> reduced award: a 6-month period and 100,000 Stampede3 node hours, against the
 > standard 12-month period and the requested 1,000,000 SUs.
 >
 > **Acknowledgment.** We recognize that the initial submission did not present
@@ -85,7 +85,7 @@ Draft appeal against the reduced provisional award. **Submit by 2026-10-14**
 > supported by merit-reviewed NIH awards. The VGP Phase I preprint's
 > acknowledgements state that *"E.G., P.S., S.C. acknowledge funding from NIH
 > R01HG013017 and U01HG013760."* Current support: **R01HG013017** (complete T2T
-> primate genomes, Multiple PI, 2023–2028) — the anchor for this line; U01HG013760
+> primate genomes, Multiple PI, 2023–2028), the anchor for this line; U01HG013760
 > (Building Tools and Community to Make Pangenomes Accessible, Contact PI,
 > 2024–2027); a primate pangenome R01 with P. Sudmant (Multiple PI); U41HG010972
 > (Human Pangenome Coordinating Center, Co-I, 2024–2027); R01HG013618
@@ -145,12 +145,12 @@ Draft appeal against the reduced provisional award. **Submit by 2026-10-14**
 > The all-vs-all campaign ran in 11 rounds, with chunk counts sized by how many
 > jobs could be held in the queue rather than by the work remaining; three
 > rounds carried 44,439 of 46,020 node-hours. The workload is embarrassingly
-> parallel — N(N−1) tasks with no inter-task communication — and scales with
+> parallel, N(N−1) tasks with no inter-task communication, and scales with
 > node count until queue concurrency binds. We acknowledge the committee's
 > request for clearer parallelism and scaling records. Under the provisional
 > award we will record job-level concurrency, node occupancy, and per-node
 > throughput continuously; we will supply that record, with a thread-scaling
-> curve for a representative step, in any renewal — whether or not this appeal
+> curve for a representative step, in any renewal, whether or not this appeal
 > is granted.
 >
 > **4. Wall-clock, checkpoints, and job accounting (Review #0).** The reported
@@ -158,7 +158,7 @@ Draft appeal against the reduced provisional award. **Submit by 2026-10-14**
 > terminal state of an intermediate link in the checkpoint-and-resume chain.
 > Jobs run to the 48-hour limit and the next submission resumes from recorded
 > completion state, so no completed pair is recomputed. Genuinely unrecoverable
-> work — NODE_FAIL and FAILED — is 18,666 node-hours, **5.6% of consumption**;
+> work (NODE_FAIL and FAILED) is 18,666 node-hours, **5.6% of consumption**;
 > effective utilization is approximately 94%.
 >
 > **5. Queue choice (Review #0, "why SPR?").** SPR is not an arbitrary choice.
@@ -188,5 +188,5 @@ Draft appeal against the reduced provisional award. **Submit by 2026-10-14**
 - Confirm the 581 = 579 + 2-haplotype reconciliation against Supplementary
   Table 11 before quoting the arithmetic.
 - Thread-scaling and contingency itemization are deferred to the renewal, per
-  the user's instruction — not promised inside the appeal.
+  the user's instruction, not promised inside the appeal.
 - Keep the tone factual; the appeal is judged by the original reviewers.

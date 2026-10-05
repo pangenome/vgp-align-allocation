@@ -1,4 +1,4 @@
-# Missing citation — VGP Phase I preprint (Formenti et al. 2026)
+# Missing citation: VGP Phase I preprint (Formenti et al. 2026)
 
 Discovered after submission. Should have been in the References document and in
 the Main Document's background/support narrative. Do not invent figures from it;
@@ -25,7 +25,7 @@ pull values from the preprint itself when reconciling.
    Red List extinction-risk work.
 2. **It gives the VGP Phase I baseline we build on.** It reports completion of
    Phase I with a defined species count and a comparative-analysis subset of
-   579 species — the set our alignment expands from.
+   579 species, the set our alignment expands from.
 3. **It establishes published, co-authored context for the pilot.** Our
    581-assembly all-to-all alignment underpins the Phase I comparative analysis;
    we are consortium authors. This refutes "no publications or grants associated

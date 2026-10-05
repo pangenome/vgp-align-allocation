@@ -1,4 +1,4 @@
-# Response plan — BIO260405 Maximize provisional award
+# Response plan: BIO260405 Maximize provisional award
 
 Plan for the **"Addressing Reviewer Comments"** document and the December 15,
 2026 – January 31, 2027 renewal submission. See
@@ -12,13 +12,13 @@ Plan for the **"Addressing Reviewer Comments"** document and the December 15,
 | Awarded | 100,000 node-hours, provisional, 6 months (2026-10-01 → 2027-03-31) |
 | Renewal window | 2026-12-15 → 2027-01-31 |
 | Path to full award | Address reviewer comments in a "renewal"; full 12-month award and full SU request then eligible |
-| **Interim option** | **Appeal of the reduced allocation — due 2026-10-14** (four weeks from 2026-09-16 notification). See [`appeal.md`](appeal.md) |
+| **Interim option** | **Appeal of the reduced allocation, due 2026-10-14** (four weeks from 2026-09-16 notification). See [`appeal.md`](appeal.md) |
 | Ratings | #0 Fair, #1 Good, #2 Good |
 
 The panel is not asking us to redo the science. It is asking for a defensible
 resource argument, a biological rationale, and a consistency fix on funding.
 The provisional 6 months of Stampede3 time is essentially one FastGA pilot's
-worth of compute — the right scale to produce the evidence the reviewers said
+worth of compute, the right scale to produce the evidence the reviewers said
 was missing, under our **own** allocation rather than the Galaxy gateway one.
 
 ## 2. What the renewal package must contain
@@ -27,7 +27,7 @@ was missing, under our **own** allocation rather than the Galaxy gateway one.
   Requirements (same page limits).
 - An **"Addressing Reviewer Comments"** document, structured reviewer-by-reviewer.
 - A **timeline of milestones** (asked by Review #2).
-- A **research-team section** — roles, duties, time dedication (asked by Review #2).
+- A **research-team section**: roles, duties, time dedication (asked by Review #2).
 - A **funding/grants statement consistent with the biosketch and the portal**
   (asked by Review #0 and #1).
 - Renewal, not new request: interim results from the provisional award must be
@@ -53,7 +53,7 @@ was missing, under our **own** allocation rather than the Galaxy gateway one.
 
 | # | Comment | Action | Lands in |
 | ---: | --- | --- | --- |
-| 1.1 | "unclear the biological imperative or impacts" | Add a biological rationale: what reference-free vertebrate alignment enables, questions addressed, impact on genomics. The **VGP Phase I preprint** already states the impacts (ancestor reconstruction, sex-chromosome evolution, 3D architecture, methylation, IUCN risk) — see [`missing-citation-vgp-phase1.md`](missing-citation-vgp-phase1.md) | Main §1/§2; Abstract |
+| 1.1 | "unclear the biological imperative or impacts" | Add a biological rationale: what reference-free vertebrate alignment enables, questions addressed, impact on genomics. The **VGP Phase I preprint** already states the impacts (ancestor reconstruction, sex-chromosome evolution, 3D architecture, methylation, IUCN risk); see [`missing-citation-vgp-phase1.md`](missing-citation-vgp-phase1.md) | Main §1/§2; Abstract |
 | 1.2 | "no publications or grants associated with the work" | Cite the **VGP Phase I preprint** (co-authored by Garrison, Cao, Guarracino) and the supporting grant; state manuscript status | References; Main funding section |
 | 1.3 | "project seems associated with Galaxy… can't judge why this work is important" | Sharpen the separation: this work is independent of the Galaxy platform justification; state exactly what each allocation covers | Main §7 |
 | 1.4 | "why all 4,467 NCBI chromosome-level assemblies" | Move the clade-balanced selection rationale up front, before the number | Main §1/§5.1.1 |
@@ -81,7 +81,7 @@ was missing, under our **own** allocation rather than the Galaxy gateway one.
    measured queue behavior (SPR 0.0 h median, SKX 17.1 h median / 100.5 h p90)
    and a concrete request.
 4. **Biological rationale (1.1).** Add the "why" before the "how". Review #1
-   says it "shouldn't be difficult to provide justification" — do it in one
+   says it "shouldn't be difficult to provide justification"; do it in one
    strong paragraph plus objective sentences.
 5. **Galaxy separation (1.3).** Make the independence of this allocation from
    the Galaxy gateway explicit and quantitative.
@@ -101,7 +101,7 @@ Galaxy**, on our own allocation:
 - The pilot basis is measured and clean: 336,980 ordered pairs, FastGA **88,546
   node-hours** (0.263 node-h/pair), 331,119 node-hours total, 5.6% unrecoverable,
   ~94% effective utilization.
-- 100,000 node-hours is roughly one such pilot — enough to align a new
+- 100,000 node-hours is roughly one such pilot, enough to align a new
   clade-balanced tranche and, critically, to emit **job-level, per-node,
   per-thread accounting** that the original submission could not separate out
   (the 63,254 node-hours under generic chunk names).
@@ -139,7 +139,7 @@ Done while preparing the appeal:
 
 ## 8. Open decisions / TODOs
 
-- [x] Which grants are cited — corrected statement applied (R01HG013017 anchor).
+- [x] Which grants are cited; corrected statement applied (R01HG013017 anchor).
 - [x] Grants: R01HG013017 confirmed **Multiple PI, 2023–2028** (user,
       2026-10-05).
 - [x] Co-PIs vs. collaborators: **Cao and Guarracino do not become co-PIs**

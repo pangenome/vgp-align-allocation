@@ -1,4 +1,4 @@
-# BIO260405 — ACCESS Maximize award notification and reviewer comments
+# BIO260405: ACCESS Maximize award notification and reviewer comments
 
 Interned verbatim from the ACCESS Allocations Service email. This is the record
 of what was decided and said; do not edit the quoted text.
