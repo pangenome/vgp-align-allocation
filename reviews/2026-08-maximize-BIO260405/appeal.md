@@ -79,7 +79,11 @@ Draft appeal against the reduced provisional award. **Submit by 2026-10-14**
 > working accounting notes but were not carried into the documents the panel
 > reviewed, and one prior funding statement was incomplete. We accept that this
 > made the request harder to assess. We supply the missing information below and
-> will correct the record in the renewal documents.
+> will correct the record in the renewal documents. The underlying records are
+> public. The interactive similarity and coverage atlas of the completed pilot
+> is at <https://unavailable-2374.github.io/vgp-heatmap/>, and the measured
+> Stampede3 accounting is maintained at
+> <https://github.com/pangenome/vgp-align-allocation/blob/main/notes/alignment/usage-data-stampede3.md>.
 >
 > **1. Supporting grants (raised by all three reviews).** The work is directly
 > supported by merit-reviewed NIH awards. The VGP Phase I preprint's
