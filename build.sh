@@ -11,7 +11,7 @@
 set -e
 cd "$(dirname "$0")"
 
-SRC=galaxy-2026
+SRC=${SRC:-alignment-2026}
 FINAL=0
 DOCS=()
 for arg in "$@"; do
