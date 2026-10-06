@@ -1,142 +1,80 @@
-# ACCESS-CI allocation requests — VGP all-to-all whole-genome alignment
+# ACCESS-CI allocation request — vertebrate all-to-all alignment
 
-PI: Erik Garrison, University of Tennessee Health Science Center.
+Working repository for an ACCESS-CI request to expand a completed all-to-all
+alignment of 581 Vertebrate Genomes Project (VGP) assemblies to a
+quality-controlled catalogue of publicly available vertebrate reference
+genomes.
 
-Working repo for the ACCESS-CI (formerly XSEDE) Maximize request **BIO260405**,
-*All-to-all whole-genome alignment across the vertebrate tree*, and for the
-appeal and renewal that follow it.
+The completed pilot comprises **336,980 ordered genome pairs** computed on TACC
+Stampede3 under `TG-MCB140147`. Its interactive similarity and coverage atlas is
+available at <https://unavailable-2374.github.io/vgp-heatmap/>, and the workflow
+and related analyses are maintained in
+<https://github.com/pangenome/lifetree>.
 
-## Status
+## Current draft
 
-BIO260405 was submitted in the June 15 – July 31, 2026 window, asking 1,000,000
-Stampede3 SUs. On 2026-09-16 the AARC returned a **provisional award**: 6 months,
-2026-10-01 → 2027-03-31, 100,000 Stampede3 node hours.
+Drafts live in [`alignment-2026/`](alignment-2026/).
 
-- **Appeal of the reduced allocation: due 2026-10-14.** Draft in
-  [`reviews/2026-08-maximize-BIO260405/appeal.md`](reviews/2026-08-maximize-BIO260405/appeal.md).
-- **Renewal with "Addressing Reviewer Comments": 2026-12-15 → 2027-01-31.**
-  Plan in
-  [`reviews/2026-08-maximize-BIO260405/response-plan.md`](reviews/2026-08-maximize-BIO260405/response-plan.md).
+| Document | File | Page limit |
+| --- | --- | ---: |
+| Main Document | [`alignment-2026/main.md`](alignment-2026/main.md) | 10 |
+| Code Performance & Resource Costs | [`alignment-2026/perf.md`](alignment-2026/perf.md) | 5 |
+| Curriculum Vitae | [`alignment-2026/cv/erik-garrison.md`](alignment-2026/cv/erik-garrison.md) | 2 |
+| References | [`alignment-2026/references.md`](alignment-2026/references.md) | none |
+| Special Requirements | [`alignment-2026/special-requirements.md`](alignment-2026/special-requirements.md) | 1 |
+| Abstract | [`alignment-2026/abstract.md`](alignment-2026/abstract.md) | portal field |
+| Open decisions | [`alignment-2026/CHECKLIST.md`](alignment-2026/CHECKLIST.md) | n/a |
 
-## Documents
+Measured Stampede3 usage and the cost derivation imported from `files.zip` are
+kept in [`notes/alignment/usage-data-stampede3.md`](notes/alignment/usage-data-stampede3.md).
 
-`alignment-2026/` holds the submitted drafts.
+A reproducible NCBI survey dated 2026-08-01 found **14,247 current biological
+assemblies representing 6,358 vertebrate species** across all assembly levels.
+See [`notes/alignment/ncbi-vertebrata-survey-2026-08-01.md`](notes/alignment/ncbi-vertebrata-survey-2026-08-01.md).
+The multi-allocation Phase 1 universe is all **4,467 complete and chromosome-
+level assemblies representing 1,896 species**. This request asks for **1M
+Stampede3 SUs** to add approximately 800 assemblies in the next clade-balanced
+tranche. Later awards will complete Phase 1 and admit usable scaffold and contig
+assemblies.
 
-| Document | File | Page limit | Required? |
-| --- | --- | --- | --- |
-| Main Document | [`main.md`](alignment-2026/main.md) | 10 | Yes |
-| Code Performance & Resource Costs | [`perf.md`](alignment-2026/perf.md) | 5 | Yes |
-| Curriculum Vitae | [`cv/erik-garrison.md`](alignment-2026/cv/erik-garrison.md) | 2 | Yes |
-| References | [`references.md`](alignment-2026/references.md) | none | Optional |
-| Special Requirements | [`special-requirements.md`](alignment-2026/special-requirements.md) | 1 | Optional |
-| Abstract | [`abstract.md`](alignment-2026/abstract.md) | n/a | Yes (form field) |
+## Build
 
-[`CHECKLIST.md`](alignment-2026/CHECKLIST.md) tracks the submission steps, and
-[`PORTAL-ANSWERS.md`](alignment-2026/PORTAL-ANSWERS.md) holds the field-by-field
-portal answers.
+Markdown is converted to HTML with pandoc and printed to PDF with headless
+Chrome.
 
-## `reviews/`
-
-One directory per reviewed request.
-
-```
-reviews/2026-08-maximize-BIO260405/
-  award-and-review.md            verbatim award notice + reviewer comments
-  appeal.md                      draft appeal of the reduced allocation
-  response-plan.md               plan for "Addressing Reviewer Comments" / renewal
-  missing-citation-vgp-phase1.md VGP Phase I preprint found after submission
-```
-
-`award-and-review.md` is interned verbatim from the ACCESS email. Do not edit the
-quoted text.
-
-## `notes/`
-
-| Path | Contents |
-| --- | --- |
-| `notes/alignment/` | NCBI vertebrate survey, the frozen 800-accession tranche manifest and audit, Stampede3 usage data, and the scripts and JSON/TSV data behind them |
-| `notes/access-rules-2026.md` | Researched ACCESS rules, each claim sourced |
-| `notes/2026-cycle-requirements.md` | Maximize window dates and required documents |
-| `notes/resource-landscape.md` | Allocated-resource inventory and capacities |
-
-Stampede3 job accounting for the completed pilot is in
-`notes/alignment/usage-data-stampede3.md`.
-
-## Typesetting
-
-Markdown → HTML (pandoc) → PDF (headless Chrome). No LaTeX. Sources stay plain
-Markdown so they diff cleanly in git, and all layout lives in one stylesheet.
-
-```
-./build.sh                    # build the documents, draft notes visible
-./build.sh --final            # strip draft notes — the submission build
-./build.sh main perf          # build only named docs
+```sh
+./build.sh                         # alignment request, draft notes visible
+./build.sh --final                 # alignment request, TODO blocks removed
+./build.sh main perf               # selected documents
 ```
 
-`build.sh` takes its document set from the `SRC` variable, which defaults to
-`alignment-2026`. PDFs and intermediate HTML land in `build/` (git-ignored).
+PDFs and intermediate HTML are written to `build/`. Page limits are enforced by
+`build.sh`. A normal build renders paragraphs beginning with `[TODO` as orange
+draft notes. A final build removes them. `SRC` selects the document set and
+defaults to `alignment-2026`.
 
-**Pipeline.** `pandoc --from gfm-tex_math_dollars --to html5 --standalone -c
-../access.css`, then a Python pass over the HTML, then Chrome
-`--headless=new --print-to-pdf`. The `-tex_math_dollars` flag is mandatory:
-without it pandoc reads `$` amounts as math and mangles them.
+The automated build includes Erik Garrison's two-page CV from
+`alignment-2026/cv/`.
 
-**Styling** is [`access.css`](access.css): US Letter, 1 in margins, 10 pt Arial
-at 1.18 line height (≤ 6 lines/inch), justified body, booktabs tables at 7.5 pt
-with no vertical rules. ACCESS does not publish typographic requirements as
-strict as NSF PAPPG, but the page limits are hard, so the conservative settings
-carry over.
+## Repository layout
 
-**Draft notes.** Any paragraph opening with `[TODO` and any blockquote containing
-`REVIEW NOTE` renders as an orange **DRAFT NOTE** box in a normal build, and is
-deleted outright by `--final`. This keeps open questions visible in the review
-PDF while guaranteeing they cannot reach a submitted one. Check before sending:
-
-```
-./build.sh --final && strings build/*.pdf | grep -c 'DRAFT NOTE'   # must be 0
+```text
+alignment-2026/    current vertebrate alignment request
+notes/alignment/   imported measurements and cost basis
+access.css         PDF stylesheet
+build.sh           Markdown-to-PDF pipeline
 ```
 
-**Page limits are enforced by the build.** Each document's limit is declared in
-`build.sh`; exceeding it prints `** OVER the N-page limit **` and exits nonzero,
-so it fails loudly rather than at submission time.
+## Non-negotiable checks
 
-**Figures** are inlined as vector SVG. Drop `.svg` files in `assets/` and
-reference them as `![](../assets/name.svg)` — the build splices the SVG source
-into the HTML so the PDF carries true vector art at any zoom. There is no
-`assets/` directory yet.
-
-Requires `pandoc` and Chrome. `build.sh` looks for Chrome at the standard macOS
-and Linux paths and honors `CHROME=/path/to/browser` if set.
-
-## Writing style
-
-Prose follows the scientific-manuscript conventions recorded in
-[`CLAUDE.md`](CLAUDE.md): active voice, first-person plural, concrete numbers
-stated plainly, tool names in backticks, Vancouver citations `[1]`, each
-abbreviation defined once.
-
-## Layout
-
-```
-alignment-2026/     BIO260405 drafts and submission material
-reviews/            award notice, reviewer comments, appeal, response plan
-notes/              working research notes and data
-  alignment/        NCBI survey, tranche manifest, Stampede3 usage data
-build.sh            typesetting pipeline
-access.css          stylesheet
-CLAUDE.md           working notes and repo rules
-```
-
-## Source material
-
-- VGP Phase I preprint: Formenti et al., bioRxiv 2026,
-  doi:10.64898/2026.06.24.732306. Supplies the biological rationale and reports
-  the pilot counts. Notes in
-  [`reviews/2026-08-maximize-BIO260405/missing-citation-vgp-phase1.md`](reviews/2026-08-maximize-BIO260405/missing-citation-vgp-phase1.md).
-- NCBI vertebrate assembly survey and the clade-balanced tranche of 800
-  accessions: `notes/alignment/`.
-- Stampede3 job accounting for the completed pilot:
-  `notes/alignment/usage-data-stampede3.md`.
+- Do not invent assembly, usage, storage, or service-unit figures.
+- Recompute ordered pairs as `N(N−1)` and incremental work beyond 581 as
+  `M(2×581 + M−1)`, where `M=N−581`.
+- Reconcile the measured 10 TB working set with the approximately 1.5 TB
+  compressed public PAF release before finalizing storage.
+- Obtain approval to use work charged to `TG-MCB140147` as preliminary results,
+  and distinguish past work from the new request.
+- Keep all submitted documents within their page limits.
 
 ## Origin
 

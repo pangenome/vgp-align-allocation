@@ -11,6 +11,8 @@
 set -e
 cd "$(dirname "$0")"
 
+# Build the alignment request by default. Set SRC=galaxy-2026 to build the
+# retained Galaxy gateway draft.
 SRC=${SRC:-alignment-2026}
 FINAL=0
 DOCS=()
@@ -21,12 +23,13 @@ for arg in "$@"; do
   esac
 done
 if [[ ${#DOCS[@]} -eq 0 ]]; then
-  DOCS=(main progress perf abstract references special-requirements)
+  DOCS=(main perf cv/erik-garrison abstract references special-requirements)
+  [[ -f "$SRC/progress.md" ]] && DOCS+=(progress)
 fi
 
 # ACCESS page limits. 0 = no limit.
 typeset -A LIMIT
-LIMIT=(main 10 progress 3 perf 5 abstract 0 references 0 special-requirements 1)
+LIMIT=(main 10 progress 3 perf 5 cv/erik-garrison 2 abstract 0 references 0 special-requirements 1)
 
 # Honor CHROME when explicitly set; otherwise find a standard macOS/Linux install.
 if [[ -z "${CHROME:-}" ]]; then
@@ -52,12 +55,13 @@ STATUS=0
 
 for doc in "${DOCS[@]}"; do
   [[ -f "$SRC/$doc.md" ]] || { echo "  skip $doc (no $SRC/$doc.md)"; continue; }
+  OUT=${doc//\//-}
 
   pandoc "$SRC/$doc.md" --from gfm-tex_math_dollars --to html5 --standalone \
-    -c ../access.css -o "build/$doc.html"
+    -c ../access.css -o "build/$OUT.html"
 
   # Mark up draft notes, and inline figure SVGs as true vector art.
-  FINAL=$FINAL python3 - "build/$doc.html" <<'PY'
+  FINAL=$FINAL python3 - "build/$OUT.html" <<'PY'
 import re, os, sys
 path = sys.argv[1]
 final = os.environ.get("FINAL") == "1"
@@ -71,6 +75,12 @@ n = len(todo_p.findall(html)) + len(todo_bq.findall(html))
 if final:
     html = todo_p.sub('', html)
     html = todo_bq.sub('', html)
+    # Opening TODO paragraphs are intentionally removed, but inline placeholders
+    # indicate unresolved submission content and must fail the final build.
+    remaining = len(re.findall(r'\bTODO\b', html))
+    if remaining:
+        print(f"ERROR: {remaining} inline TODO marker(s) remain after draft-note removal", file=sys.stderr)
+        sys.exit(1)
 else:
     html = todo_p.sub(lambda m: '<div class="todo">' + m.group(0) + '</div>', html)
     html = todo_bq.sub(lambda m: '<div class="todo">' + m.group(0) + '</div>', html)
@@ -91,9 +101,9 @@ print(f"    draft notes: {n} {'removed' if final else 'marked'}; "
 PY
 
   "$CHROME" --headless=new --disable-gpu --no-pdf-header-footer \
-    --print-to-pdf="build/$doc.pdf" "file://$PWD/build/$doc.html" 2>/dev/null
+    --print-to-pdf="build/$OUT.pdf" "file://$PWD/build/$OUT.html" 2>/dev/null
 
-  LIM=${LIMIT[$doc]:-0} python3 - "build/$doc.pdf" "$doc" <<'PY' || STATUS=1
+  LIM=${LIMIT[$doc]:-0} python3 - "build/$OUT.pdf" "$doc" <<'PY' || STATUS=1
 import re, os, sys
 pdf, doc = sys.argv[1], sys.argv[2]
 n = len(re.findall(rb'/Type\s*/Page[^s]', open(pdf, 'rb').read()))
